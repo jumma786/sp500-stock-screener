@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>S&P 500 Screener — Jumma Mohammad Teli</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f8f8f6;color:#1a1a1a;font-size:14px}
+.hdr{background:#fff;border-bottom:1px solid #e8e8e4;padding:1.25rem 2rem;display:flex;justify-content:space-between;align-items:center}
+.hdr h1{font-size:18px;font-weight:600}.hdr p{font-size:12px;color:#888;margin-top:2px}.hdr .ts{font-size:12px;color:#888}
+.wrap{padding:1.5rem 2rem}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:1.5rem}
+.metric{background:#fff;border:1px solid #e8e8e4;border-radius:8px;padding:1rem}
+.metric .lbl{font-size:11px;color:#888;margin-bottom:4px;text-transform:uppercase;letter-spacing:.04em}
+.metric .val{font-size:24px;font-weight:600}.metric .sub{font-size:11px;color:#aaa;margin-top:2px}
+.sec-lbl{font-size:11px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.05em;margin-bottom:10px}
+.sgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:1.5rem}
+.sc{border-radius:8px;padding:10px 12px;cursor:pointer;border:2px solid transparent;transition:border-color .15s}
+.sc:hover,.sc.active{border-color:#185FA5}
+.sc .sn{font-size:12px;font-weight:600;margin-bottom:2px}.sc .ss{font-size:11px}
+.filters{display:flex;gap:10px;margin-bottom:1rem;flex-wrap:wrap}
+.filters select,.filters input{font-size:13px;padding:6px 10px;border:1px solid #ddd;border-radius:6px;background:#fff;height:34px}
+.filters input{width:200px}
+.tw{border:1px solid #e8e8e4;border-radius:8px;overflow:hidden;background:#fff;margin-bottom:1.5rem}
+table{width:100%;border-collapse:collapse;table-layout:fixed}
+thead{background:#f8f8f6}
+th{font-size:11px;font-weight:600;color:#888;padding:10px 12px;text-align:left;border-bottom:1px solid #e8e8e4;cursor:pointer;white-space:nowrap;text-transform:uppercase}
+th:hover{color:#1a1a1a}
+td{font-size:13px;padding:10px 12px;border-bottom:1px solid #f0f0ec;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+tr:last-child td{border-bottom:none}tr:hover td{background:#fafaf8}
+.badge{display:inline-block;font-size:11px;font-weight:600;padding:2px 8px;border-radius:99px}
+.buy{background:#e6f4d7;color:#2d6a04}.hold{background:#fef3c7;color:#92400e}
+.sell{background:#fee2e2;color:#991b1b}.na{background:#f3f4f6;color:#6b7280}
+.pos{color:#2d6a04}.neg{color:#dc2626}
+.empty{padding:2rem;text-align:center;color:#888}
+.crow{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:1.5rem}
+.cbox{background:#fff;border:1px solid #e8e8e4;border-radius:8px;padding:1rem 1.25rem}
+.ctitle{font-size:12px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.04em;margin-bottom:12px}
+.brow{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.bname{font-size:11px;color:#888;width:130px;flex-shrink:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.btrack{flex:1;background:#f3f4f6;border-radius:99px;height:8px;overflow:hidden}
+.bfill{height:100%;border-radius:99px}
+.bval{font-size:11px;color:#1a1a1a;width:42px;text-align:right;flex-shrink:0}
+footer{text-align:center;padding:2rem;font-size:11px;color:#aaa}
+</style>
+</head>
+<body>
+<div class="hdr">
+  <div><h1>S&P 500 Stock Screener &amp; Sector Dashboard</h1>
+  <p>Yahoo Finance · Live data · Jumma Mohammad Teli</p></div>
+  <div class="ts">Updated: 15 Jun 2026 13:22</div>
+</div>
+<div class="wrap">
+  <div class="metrics">
+    <div class="metric"><div class="lbl">Stocks</div><div class="val">50</div><div class="sub">S&P 500 sample</div></div>
+    <div class="metric"><div class="lbl">Avg P/E</div><div class="val">37.8</div><div class="sub">Trailing P/E</div></div>
+    <div class="metric"><div class="lbl">Buy consensus</div><div class="val">90%</div><div class="sub">Analyst buy rating</div></div>
+    <div class="metric"><div class="lbl">Avg div yield</div><div class="val">179.4%</div><div class="sub">Dividend yield</div></div>
+  </div>
+  <div class="sec-lbl">Sectors — click to filter</div>
+  <div class="sgrid" id="sgrid"></div>
+  <div class="crow">
+    <div class="cbox"><div class="ctitle">Avg P/E by sector</div><div id="pe-chart"></div></div>
+    <div class="cbox"><div class="ctitle">Avg dividend yield (%)</div><div id="div-chart"></div></div>
+  </div>
+  <div class="sec-lbl" style="margin-bottom:.75rem">Stock screener</div>
+  <div class="filters">
+    <input type="text" id="search" placeholder="Search ticker or company..." oninput="applyFilters()"/>
+    <select id="f-sec" onchange="applyFilters()"><option value="">All sectors</option></select>
+    <select id="f-rat" onchange="applyFilters()"><option value="">All ratings</option><option value="Buy">Buy</option><option value="Hold">Hold</option><option value="Sell">Sell</option></select>
+    <select id="f-pe" onchange="applyFilters()"><option value="">Any P/E</option><option value="under15">P/E &lt; 15</option><option value="15to25">P/E 15–25</option><option value="over25">P/E &gt; 25</option></select>
+    <select id="f-div" onchange="applyFilters()"><option value="">Any yield</option><option value="over3">Yield &gt; 3%</option><option value="over5">Yield &gt; 5%</option></select>
+  </div>
+  <div class="tw"><table>
+    <thead><tr>
+      <th style="width:70px" onclick="sortBy('ticker')">Ticker</th>
+      <th style="width:150px" onclick="sortBy('name')">Company</th>
+      <th style="width:130px" onclick="sortBy('sector')">Sector</th>
+      <th style="width:80px" onclick="sortBy('price_usd')">Price ($)</th>
+      <th style="width:72px" onclick="sortBy('change_pct')">1D %</th>
+      <th style="width:58px" onclick="sortBy('pe_ratio')">P/E</th>
+      <th style="width:65px" onclick="sortBy('div_yield_pct')">Div %</th>
+      <th style="width:65px" onclick="sortBy('profit_margin')">Margin</th>
+      <th style="width:90px" onclick="sortBy('mkt_cap_usd')">Mkt cap</th>
+      <th style="width:65px" onclick="sortBy('analyst_rating')">Rating</th>
+    </tr></thead>
+    <tbody id="tbody"></tbody>
+  </table></div>
+</div>
+<footer>S&P 500 Stock Screener · Data: Yahoo Finance · Jumma Mohammad Teli · 15 Jun 2026 13:22</footer>
+<script>
+const ALL=[{"ticker":"AAPL","name":"Apple","sector":"Technology","industry":"Consumer Electronics","price_usd":291.13,"change_pct":-1.52,"pe_ratio":35.2,"div_yield_pct":37.0,"mkt_cap_usd":4275929874432,"analyst_rating":"Buy","52w_high":317.4,"52w_low":195.07,"beta":1.09,"profit_margin":27.2},{"ticker":"MSFT","name":"Microsoftoration","sector":"Technology","industry":"Software - Infrastructure","price_usd":390.74,"change_pct":0.1,"pe_ratio":23.3,"div_yield_pct":93.0,"mkt_cap_usd":2902586556416,"analyst_rating":"Buy","52w_high":555.45,"52w_low":356.28,"beta":1.1,"profit_margin":39.3},{"ticker":"AMZN","name":"Amazon.com,","sector":"Consumer Cyclical","industry":"Internet Retail","price_usd":238.55,"change_pct":-1.23,"pe_ratio":31.6,"div_yield_pct":0.0,"mkt_cap_usd":2566108479488,"analyst_rating":"Buy","52w_high":278.56,"52w_low":196.0,"beta":1.44,"profit_margin":12.2},{"ticker":"NVDA","name":"NVIDIAoration","sector":"Technology","industry":"Semiconductors","price_usd":205.19,"change_pct":0.16,"pe_ratio":31.4,"div_yield_pct":49.0,"mkt_cap_usd":4969906831360,"analyst_rating":"Buy","52w_high":236.54,"52w_low":142.03,"beta":2.2,"profit_margin":63.0},{"ticker":"GOOGL","name":"Alphabet","sector":"Communication Services","industry":"Internet Content & Information","price_usd":359.68,"change_pct":0.53,"pe_ratio":27.5,"div_yield_pct":24.0,"mkt_cap_usd":4386274148352,"analyst_rating":"Buy","52w_high":408.61,"52w_low":162.0,"beta":1.24,"profit_margin":37.9},{"ticker":"META","name":"Meta Platforms,","sector":"Communication Services","industry":"Internet Content & Information","price_usd":566.98,"change_pct":-0.26,"pe_ratio":20.6,"div_yield_pct":37.0,"mkt_cap_usd":1439235178496,"analyst_rating":"Buy","52w_high":796.25,"52w_low":520.26,"beta":1.23,"profit_margin":32.8},{"ticker":"TSLA","name":"Tesla,","sector":"Consumer Cyclical","industry":"Auto Manufacturers","price_usd":406.43,"change_pct":1.82,"pe_ratio":369.5,"div_yield_pct":0.0,"mkt_cap_usd":1526438821888,"analyst_rating":"Buy","52w_high":498.83,"52w_low":288.77,"beta":1.8,"profit_margin":3.9},{"ticker":"JPM","name":"JP Morgan Chase & Co.","sector":"Financial Services","industry":"Banks - Diversified","price_usd":320.72,"change_pct":2.31,"pe_ratio":15.4,"div_yield_pct":187.0,"mkt_cap_usd":859372847104,"analyst_rating":"N\/A","52w_high":337.25,"52w_low":266.85,"beta":1.0,"profit_margin":33.9},{"ticker":"UNH","name":"UnitedHealth Grouporporated","sector":"Healthcare","industry":"Healthcare Plans","price_usd":408.52,"change_pct":0.73,"pe_ratio":30.8,"div_yield_pct":227.0,"mkt_cap_usd":370995134464,"analyst_rating":"Buy","52w_high":415.98,"52w_low":234.6,"beta":0.65,"profit_margin":2.7},{"ticker":"XOM","name":"Exxon Mobiloration","sector":"Energy","industry":"Oil & Gas Integrated","price_usd":147.01,"change_pct":0.28,"pe_ratio":24.7,"div_yield_pct":280.0,"mkt_cap_usd":609348681728,"analyst_rating":"Buy","52w_high":176.41,"52w_low":105.53,"beta":0.15,"profit_margin":7.8},{"ticker":"JNJ","name":"Johnson & Johnson","sector":"Healthcare","industry":"Drug Manufacturers - General","price_usd":240.87,"change_pct":1.07,"pe_ratio":27.9,"div_yield_pct":223.0,"mkt_cap_usd":579826352128,"analyst_rating":"Buy","52w_high":251.71,"52w_low":149.04,"beta":0.26,"profit_margin":21.8},{"ticker":"V","name":"Visa","sector":"Financial Services","industry":"Credit Services","price_usd":322.39,"change_pct":1.05,"pe_ratio":28.1,"div_yield_pct":83.0,"mkt_cap_usd":613103173632,"analyst_rating":"Buy","52w_high":360.22,"52w_low":293.89,"beta":0.77,"profit_margin":51.7},{"ticker":"PG","name":"Procter & Gamble Company (The)","sector":"Consumer Defensive","industry":"Household & Personal Products","price_usd":149.61,"change_pct":0.86,"pe_ratio":21.9,"div_yield_pct":285.0,"mkt_cap_usd":348381708288,"analyst_rating":"Buy","52w_high":167.25,"52w_low":137.62,"beta":0.39,"profit_margin":19.2},{"ticker":"MA","name":"Mastercardorporated","sector":"Financial Services","industry":"Credit Services","price_usd":489.98,"change_pct":0.71,"pe_ratio":28.3,"div_yield_pct":71.0,"mkt_cap_usd":432938450944,"analyst_rating":"Buy","52w_high":601.77,"52w_low":464.52,"beta":0.74,"profit_margin":45.9},{"ticker":"HD","name":"Home Depot, (The)","sector":"Consumer Cyclical","industry":"Home Improvement Retail","price_usd":328.39,"change_pct":0.73,"pe_ratio":23.3,"div_yield_pct":284.0,"mkt_cap_usd":327443152896,"analyst_rating":"Buy","52w_high":426.75,"52w_low":289.1,"beta":0.97,"profit_margin":8.4},{"ticker":"CVX","name":"Chevronoration","sector":"Energy","industry":"Oil & Gas Integrated","price_usd":187.22,"change_pct":0.75,"pe_ratio":32.6,"div_yield_pct":380.0,"mkt_cap_usd":372866908160,"analyst_rating":"Buy","52w_high":214.71,"52w_low":142.4,"beta":0.47,"profit_margin":5.9},{"ticker":"MRK","name":"Merck & Company,","sector":"Healthcare","industry":"Drug Manufacturers - General","price_usd":119.05,"change_pct":-1.42,"pe_ratio":33.5,"div_yield_pct":286.0,"mkt_cap_usd":294032605184,"analyst_rating":"Buy","52w_high":125.14,"52w_low":76.66,"beta":0.22,"profit_margin":13.6},{"ticker":"ABBV","name":"AbbVie","sector":"Healthcare","industry":"Drug Manufacturers - General","price_usd":227.73,"change_pct":1.32,"pe_ratio":111.1,"div_yield_pct":304.0,"mkt_cap_usd":402351718400,"analyst_rating":"Buy","52w_high":244.81,"52w_low":181.73,"beta":0.31,"profit_margin":5.8},{"ticker":"PEP","name":"Pepsico,","sector":"Consumer Defensive","industry":"Beverages - Non-Alcoholic","price_usd":144.27,"change_pct":0.38,"pe_ratio":22.6,"div_yield_pct":410.0,"mkt_cap_usd":197208571904,"analyst_rating":"Hold","52w_high":171.48,"52w_low":127.6,"beta":0.36,"profit_margin":9.1},{"ticker":"KO","name":"Coca-Cola Company (The)","sector":"Consumer Defensive","industry":"Beverages - Non-Alcoholic","price_usd":82.62,"change_pct":0.11,"pe_ratio":26.0,"div_yield_pct":257.0,"mkt_cap_usd":355471097856,"analyst_rating":"Buy","52w_high":84.04,"52w_low":65.35,"beta":0.35,"profit_margin":27.8},{"ticker":"AVGO","name":"Broadcom","sector":"Technology","industry":"Semiconductors","price_usd":382.07,"change_pct":-0.91,"pe_ratio":63.7,"div_yield_pct":68.0,"mkt_cap_usd":1817728778240,"analyst_rating":"Buy","52w_high":495.0,"52w_low":244.17,"beta":1.43,"profit_margin":38.8},{"ticker":"COST","name":"Costco Wholesaleoration","sector":"Consumer Defensive","industry":"Discount Stores","price_usd":982.35,"change_pct":0.68,"pe_ratio":49.5,"div_yield_pct":60.0,"mkt_cap_usd":435651411968,"analyst_rating":"Buy","52w_high":1096.5,"52w_low":844.06,"beta":0.87,"profit_margin":3.0},{"ticker":"WMT","name":"Walmart","sector":"Consumer Defensive","industry":"Discount Stores","price_usd":121.04,"change_pct":0.45,"pe_ratio":42.6,"div_yield_pct":82.0,"mkt_cap_usd":963245899776,"analyst_rating":"Buy","52w_high":135.16,"52w_low":93.62,"beta":0.6,"profit_margin":3.1},{"ticker":"BAC","name":"Bank of Americaoration","sector":"Financial Services","industry":"Banks - Diversified","price_usd":56.02,"change_pct":1.56,"pe_ratio":13.9,"div_yield_pct":200.0,"mkt_cap_usd":397551009792,"analyst_rating":"Buy","52w_high":57.55,"52w_low":44.06,"beta":1.2,"profit_margin":29.0},{"ticker":"TMO","name":"Thermo Fisher Scientific","sector":"Healthcare","industry":"Diagnostics & Research","price_usd":469.34,"change_pct":-1.33,"pe_ratio":25.8,"div_yield_pct":40.0,"mkt_cap_usd":174416822272,"analyst_rating":"Buy","52w_high":643.99,"52w_low":385.46,"beta":0.87,"profit_margin":15.2},{"ticker":"MCD","name":"McDonald'soration","sector":"Consumer Cyclical","industry":"Restaurants","price_usd":284.81,"change_pct":0.01,"pe_ratio":23.5,"div_yield_pct":261.0,"mkt_cap_usd":202359177216,"analyst_rating":"Buy","52w_high":341.75,"52w_low":271.85,"beta":0.41,"profit_margin":31.6},{"ticker":"ACN","name":"Accenture plc","sector":"Technology","industry":"Information Technology Services","price_usd":170.28,"change_pct":1.65,"pe_ratio":14.0,"div_yield_pct":383.0,"mkt_cap_usd":104796291072,"analyst_rating":"Buy","52w_high":317.05,"52w_low":155.82,"beta":1.07,"profit_margin":10.6},{"ticker":"LIN","name":"Linde plc","sector":"Basic Materials","industry":"Specialty Chemicals","price_usd":523.57,"change_pct":1.58,"pe_ratio":34.7,"div_yield_pct":122.0,"mkt_cap_usd":242071175168,"analyst_rating":"Buy","52w_high":525.82,"52w_low":387.78,"beta":0.73,"profit_margin":20.4},{"ticker":"ABT","name":"Abbott Laboratories","sector":"Healthcare","industry":"Medical Devices","price_usd":88.18,"change_pct":-1.64,"pe_ratio":24.7,"div_yield_pct":286.0,"mkt_cap_usd":153593085952,"analyst_rating":"Buy","52w_high":139.06,"52w_low":81.97,"beta":0.62,"profit_margin":13.9},{"ticker":"CRM","name":"Salesforce,","sector":"Technology","industry":"Software - Application","price_usd":165.89,"change_pct":-0.34,"pe_ratio":19.2,"div_yield_pct":106.0,"mkt_cap_usd":135863910400,"analyst_rating":"Buy","52w_high":276.8,"52w_low":161.4,"beta":1.15,"profit_margin":18.7},{"ticker":"DHR","name":"Danaheroration","sector":"Healthcare","industry":"Diagnostics & Research","price_usd":180.1,"change_pct":-0.38,"pe_ratio":34.8,"div_yield_pct":89.0,"mkt_cap_usd":127469494272,"analyst_rating":"Buy","52w_high":242.8,"52w_low":160.93,"beta":0.83,"profit_margin":14.9},{"ticker":"NEE","name":"NextEra Energy,","sector":"Utilities","industry":"Utilities - Regulated Electric","price_usd":85.99,"change_pct":1.36,"pe_ratio":21.8,"div_yield_pct":290.0,"mkt_cap_usd":179341197312,"analyst_rating":"Buy","52w_high":98.75,"52w_low":67.2,"beta":0.67,"profit_margin":29.4},{"ticker":"TXN","name":"Texas Instrumentsorporated","sector":"Technology","industry":"Semiconductors","price_usd":301.12,"change_pct":1.35,"pe_ratio":51.6,"div_yield_pct":189.0,"mkt_cap_usd":274047139840,"analyst_rating":"Buy","52w_high":331.51,"52w_low":152.73,"beta":1.31,"profit_margin":29.1},{"ticker":"PM","name":"Philip Morris International","sector":"Consumer Defensive","industry":"Tobacco","price_usd":184.3,"change_pct":1.95,"pe_ratio":26.0,"div_yield_pct":319.0,"mkt_cap_usd":287242387456,"analyst_rating":"Buy","52w_high":193.05,"52w_low":142.11,"beta":0.41,"profit_margin":26.7},{"ticker":"UNP","name":"Union Pacificoration","sector":"Industrials","industry":"Railroads","price_usd":272.7,"change_pct":1.65,"pe_ratio":22.4,"div_yield_pct":202.0,"mkt_cap_usd":161905606656,"analyst_rating":"Buy","52w_high":279.7,"52w_low":210.84,"beta":0.97,"profit_margin":29.2},{"ticker":"RTX","name":"RTXoration","sector":"Industrials","industry":"Aerospace & Defense","price_usd":183.53,"change_pct":-0.37,"pe_ratio":34.5,"div_yield_pct":151.0,"mkt_cap_usd":247156801536,"analyst_rating":"Buy","52w_high":214.5,"52w_low":140.47,"beta":0.31,"profit_margin":8.0},{"ticker":"HON","name":"Honeywell International","sector":"Industrials","industry":"Conglomerates","price_usd":220.31,"change_pct":0.54,"pe_ratio":35.2,"div_yield_pct":216.0,"mkt_cap_usd":139600117760,"analyst_rating":"Buy","52w_high":248.18,"52w_low":186.76,"beta":0.84,"profit_margin":10.9},{"ticker":"BMY","name":"Bristol-Myers Squibb Company","sector":"Healthcare","industry":"Drug Manufacturers - General","price_usd":57.13,"change_pct":0.4,"pe_ratio":16.0,"div_yield_pct":441.0,"mkt_cap_usd":116663533568,"analyst_rating":"Hold","52w_high":62.89,"52w_low":42.52,"beta":0.24,"profit_margin":15.0},{"ticker":"AMGN","name":"Amgen","sector":"Healthcare","industry":"Drug Manufacturers - General","price_usd":355.2,"change_pct":0.32,"pe_ratio":24.7,"div_yield_pct":284.0,"mkt_cap_usd":191704383488,"analyst_rating":"Buy","52w_high":391.29,"52w_low":267.83,"beta":0.42,"profit_margin":21.0},{"ticker":"LOW","name":"Lowe's Companies,","sector":"Consumer Cyclical","industry":"Home Improvement Retail","price_usd":220.78,"change_pct":-0.12,"pe_ratio":18.7,"div_yield_pct":226.0,"mkt_cap_usd":123857575936,"analyst_rating":"Buy","52w_high":293.06,"52w_low":203.4,"beta":0.86,"profit_margin":7.5},{"ticker":"QCOM","name":"QUALCOMMorporated","sector":"Technology","industry":"Semiconductors","price_usd":211.72,"change_pct":4.32,"pe_ratio":22.8,"div_yield_pct":174.0,"mkt_cap_usd":223152881664,"analyst_rating":"Hold","52w_high":259.92,"52w_low":121.99,"beta":1.6,"profit_margin":22.3},{"ticker":"IBM","name":"International Business Machines","sector":"Technology","industry":"Information Technology Services","price_usd":272.24,"change_pct":-0.95,"pe_ratio":24.1,"div_yield_pct":248.0,"mkt_cap_usd":255874367488,"analyst_rating":"Buy","52w_high":332.46,"52w_low":212.34,"beta":0.67,"profit_margin":15.6},{"ticker":"GE","name":"GE Aerospace","sector":"Industrials","industry":"Aerospace & Defense","price_usd":335.3,"change_pct":0.76,"pe_ratio":41.7,"div_yield_pct":56.0,"mkt_cap_usd":350331371520,"analyst_rating":"Buy","52w_high":348.48,"52w_low":232.24,"beta":1.38,"profit_margin":17.9},{"ticker":"CAT","name":"Caterpillar,","sector":"Industrials","industry":"Farm & Heavy Construction Machinery","price_usd":910.57,"change_pct":1.44,"pe_ratio":45.3,"div_yield_pct":72.0,"mkt_cap_usd":419401236480,"analyst_rating":"Buy","52w_high":946.83,"52w_low":356.96,"beta":1.6,"profit_margin":13.3},{"ticker":"BA","name":"Boeing Company (The)","sector":"Industrials","industry":"Aerospace & Defense","price_usd":219.05,"change_pct":-1.16,"pe_ratio":86.9,"div_yield_pct":0.0,"mkt_cap_usd":172677627904,"analyst_rating":"Buy","52w_high":254.35,"52w_low":176.77,"beta":1.2,"profit_margin":2.5},{"ticker":"GS","name":"Goldman Sachs Group, (The)","sector":"Financial Services","industry":"Capital Markets","price_usd":1062.75,"change_pct":2.62,"pe_ratio":19.4,"div_yield_pct":169.0,"mkt_cap_usd":313519144960,"analyst_rating":"Hold","52w_high":1098.36,"52w_low":618.0,"beta":1.29,"profit_margin":29.4},{"ticker":"MS","name":"Morgan Stanley","sector":"Financial Services","industry":"Capital Markets","price_usd":214.04,"change_pct":0.65,"pe_ratio":19.4,"div_yield_pct":187.0,"mkt_cap_usd":337602052096,"analyst_rating":"Buy","52w_high":219.16,"52w_low":129.66,"beta":1.22,"profit_margin":24.8},{"ticker":"BLK","name":"BlackRock,","sector":"Financial Services","industry":"Asset Management","price_usd":1032.0,"change_pct":1.52,"pe_ratio":26.0,"div_yield_pct":222.0,"mkt_cap_usd":168059666432,"analyst_rating":"Buy","52w_high":1219.94,"52w_low":917.39,"beta":1.43,"profit_margin":24.4},{"ticker":"SPGI","name":"S&P Global","sector":"Financial Services","industry":"Financial Data & Stock Exchanges","price_usd":418.91,"change_pct":1.35,"pe_ratio":26.5,"div_yield_pct":93.0,"mkt_cap_usd":123997364224,"analyst_rating":"Buy","52w_high":579.05,"52w_low":381.61,"beta":1.08,"profit_margin":30.4},{"ticker":"WFC","name":"Wells Fargo & Company","sector":"Financial Services","industry":"Banks - Diversified","price_usd":83.73,"change_pct":1.61,"pe_ratio":12.9,"div_yield_pct":215.0,"mkt_cap_usd":256229670912,"analyst_rating":"Buy","52w_high":97.76,"52w_low":72.3,"beta":0.93,"profit_margin":26.7}];
+const SUM=[{"sector":"Healthcare","count":9,"avg_pe":36.6,"avg_div":242.22,"pct_buy":88.9,"total_mktcap":2411053129728,"total_mktcap_bn":2411.1},{"sector":"Financial Services","count":9,"avg_pe":21.1,"avg_div":158.56,"pct_buy":77.8,"total_mktcap":3502373380096,"total_mktcap_bn":3502.4},{"sector":"Technology","count":9,"avg_pe":31.7,"avg_div":149.67,"pct_buy":88.9,"total_mktcap":14959886630912,"total_mktcap_bn":14959.9},{"sector":"Consumer Defensive","count":6,"avg_pe":31.4,"avg_div":235.5,"pct_buy":83.3,"total_mktcap":2587201077248,"total_mktcap_bn":2587.2},{"sector":"Industrials","count":6,"avg_pe":44.3,"avg_div":116.17,"pct_buy":100.0,"total_mktcap":1491072761856,"total_mktcap_bn":1491.1},{"sector":"Consumer Cyclical","count":5,"avg_pe":93.3,"avg_div":154.2,"pct_buy":100.0,"total_mktcap":4746207207424,"total_mktcap_bn":4746.2},{"sector":"Energy","count":2,"avg_pe":28.6,"avg_div":330.0,"pct_buy":100.0,"total_mktcap":982215589888,"total_mktcap_bn":982.2},{"sector":"Communication Services","count":2,"avg_pe":24.0,"avg_div":30.5,"pct_buy":100.0,"total_mktcap":5825509326848,"total_mktcap_bn":5825.5},{"sector":"Basic Materials","count":1,"avg_pe":34.7,"avg_div":122.0,"pct_buy":100.0,"total_mktcap":242071175168,"total_mktcap_bn":242.1},{"sector":"Utilities","count":1,"avg_pe":21.8,"avg_div":290.0,"pct_buy":100.0,"total_mktcap":179341197312,"total_mktcap_bn":179.3}];
+const SC={"Financials":{bg:"#E6F1FB",n:"#0C447C",s:"#185FA5"},"Financial Services":{bg:"#E6F1FB",n:"#0C447C",s:"#185FA5"},"Energy":{bg:"#FAEEDA",n:"#633806",s:"#854F0B"},"Health Care":{bg:"#EAF3DE",n:"#27500A",s:"#3B6D11"},"Healthcare":{bg:"#EAF3DE",n:"#27500A",s:"#3B6D11"},"Consumer Staples":{bg:"#EEEDFE",n:"#3C3489",s:"#534AB7"},"Consumer Defensive":{bg:"#EEEDFE",n:"#3C3489",s:"#534AB7"},"Industrials":{bg:"#E1F5EE",n:"#085041",s:"#0F6E56"},"Materials":{bg:"#FAECE7",n:"#712B13",s:"#993C1D"},"Basic Materials":{bg:"#FAECE7",n:"#712B13",s:"#993C1D"},"Utilities":{bg:"#FBEAF0",n:"#72243E",s:"#993556"},"Technology":{bg:"#F1EFE8",n:"#444441",s:"#5F5E5A"},"Consumer Discretionary":{bg:"#EAF3DE",n:"#173404",s:"#639922"},"Consumer Cyclical":{bg:"#EAF3DE",n:"#173404",s:"#639922"},"Real Estate":{bg:"#FCEBEB",n:"#791F1F",s:"#A32D2D"},"Communication Services":{bg:"#E6F1FB",n:"#042C53",s:"#378ADD"}};
+let fil=[...ALL],sc='',sd=1,col='ticker',asc='';
+function init(){
+  const s=document.getElementById('f-sec');
+  [...new Set(ALL.map(x=>x.sector))].sort().forEach(v=>{const o=document.createElement('option');o.value=o.text=v;s.appendChild(o);});
+  buildSec();renderTable();
+}
+function buildSec(){
+  const g=document.getElementById('sgrid');g.innerHTML='';
+  SUM.forEach(s=>{
+    const c=SC[s.sector]||{bg:'#f3f4f6',n:'#444',s:'#666'};
+    const d=document.createElement('div');
+    d.className='sc'+(asc===s.sector?' active':'');d.style.background=c.bg;
+    d.innerHTML=`<div class="sn" style="color:${c.n}">${s.sector}</div><div class="ss" style="color:${c.s}">${s.count} stocks · ${s.pct_buy}% buy · P/E ${s.avg_pe||'N/A'}</div>`;
+    d.onclick=()=>{asc=asc===s.sector?'':s.sector;document.getElementById('f-sec').value=asc;buildSec();applyFilters();};
+    g.appendChild(d);
+  });
+  buildCharts();
+}
+function buildCharts(){
+  const s1=[...SUM].sort((a,b)=>(b.avg_pe||0)-(a.avg_pe||0)),mp=Math.max(...s1.map(s=>s.avg_pe||0))||1;
+  document.getElementById('pe-chart').innerHTML=s1.map(s=>{const c=(SC[s.sector]||{s:'#888'}).s,p=s.avg_pe?(s.avg_pe/mp*100).toFixed(1):0;return`<div class="brow"><div class="bname">${s.sector}</div><div class="btrack"><div class="bfill" style="width:${p}%;background:${c}"></div></div><div class="bval">${s.avg_pe||'—'}</div></div>`;}).join('');
+  const s2=[...SUM].sort((a,b)=>b.avg_div-a.avg_div),md=Math.max(...s2.map(s=>s.avg_div))||1;
+  document.getElementById('div-chart').innerHTML=s2.map(s=>{const c=(SC[s.sector]||{s:'#888'}).s,p=(s.avg_div/md*100).toFixed(1);return`<div class="brow"><div class="bname">${s.sector}</div><div class="btrack"><div class="bfill" style="width:${p}%;background:${c}"></div></div><div class="bval">${s.avg_div}%</div></div>`;}).join('');
+}
+function applyFilters(){
+  const q=document.getElementById('search').value.toLowerCase(),sec=document.getElementById('f-sec').value,rat=document.getElementById('f-rat').value,peF=document.getElementById('f-pe').value,divF=document.getElementById('f-div').value;
+  if(sec!==asc){asc=sec;buildSec();}
+  fil=ALL.filter(s=>{
+    if(q&&!s.ticker.toLowerCase().includes(q)&&!s.name.toLowerCase().includes(q))return false;
+    if(sec&&s.sector!==sec)return false;
+    if(rat&&s.analyst_rating!==rat)return false;
+    if(peF==='under15'&&(!s.pe_ratio||s.pe_ratio>=15))return false;
+    if(peF==='15to25'&&(!s.pe_ratio||s.pe_ratio<15||s.pe_ratio>25))return false;
+    if(peF==='over25'&&(!s.pe_ratio||s.pe_ratio<=25))return false;
+    if(divF==='over3'&&s.div_yield_pct<3)return false;
+    if(divF==='over5'&&s.div_yield_pct<5)return false;
+    return true;
+  });renderTable();
+}
+function sortBy(c){if(col===c)sd*=-1;else{col=c;sd=1;}renderTable();}
+function fmtCap(v){if(!v)return'—';if(v>=1e12)return'$'+(v/1e12).toFixed(2)+'T';if(v>=1e9)return'$'+(v/1e9).toFixed(1)+'B';return'—';}
+function renderTable(){
+  const src=[...fil].sort((a,b)=>{let va=a[col],vb=b[col];if(va==null)return 1;if(vb==null)return-1;if(typeof va==='string')return va.localeCompare(vb)*sd;return(va-vb)*sd;});
+  if(!src.length){document.getElementById('tbody').innerHTML='<tr><td colspan="10" class="empty">No stocks match filters</td></tr>';return;}
+  document.getElementById('tbody').innerHTML=src.map(s=>{
+    const chg=s.change_pct>=0?`<span class="pos">+${s.change_pct.toFixed(2)}%</span>`:`<span class="neg">${s.change_pct.toFixed(2)}%</span>`;
+    const pe=s.pe_ratio?s.pe_ratio.toFixed(1):'<span style="color:#ccc">—</span>';
+    const mg=s.profit_margin?s.profit_margin.toFixed(1)+'%':'—';
+    const bc=s.analyst_rating==='Buy'?'buy':s.analyst_rating==='Sell'?'sell':s.analyst_rating==='N/A'?'na':'hold';
+    return`<tr><td><strong>${s.ticker}</strong></td><td title="${s.name}">${s.name}</td><td style="color:#888;font-size:11px">${s.sector}</td><td>$${s.price_usd?s.price_usd.toFixed(2):'—'}</td><td>${chg}</td><td>${pe}</td><td>${s.div_yield_pct?s.div_yield_pct.toFixed(1)+'%':'—'}</td><td>${mg}</td><td>${fmtCap(s.mkt_cap_usd)}</td><td><span class="badge ${bc}">${s.analyst_rating}</span></td></tr>`;
+  }).join('');
+}
+init();
+</script>
+</body></html>
