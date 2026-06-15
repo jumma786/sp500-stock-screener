@@ -1,0 +1,33 @@
+name: Daily S&P 500 Data Refresh
+
+on:
+  schedule:
+    - cron: '0 7 * * 1-5'  # 7am UTC Mon-Fri
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas
+
+      - name: Run screener
+        run: python sp500_screener.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sp500_data.csv sp500_dashboard.html
+          git diff --staged --quiet || git commit -m "Auto refresh: $(date +'%Y-%m-%d')"
+          git push
