@@ -24,13 +24,24 @@ except ImportError:
     print("Run: pip install yfinance pandas --break-system-packages")
     sys.exit(1)
 
-TICKERS = [
-    "AAPL","MSFT","AMZN","NVDA","GOOGL","META","TSLA","JPM","UNH","XOM",
-    "JNJ","V","PG","MA","HD","CVX","MRK","ABBV","PEP","KO",
-    "AVGO","COST","WMT","BAC","TMO","MCD","ACN","LIN","ABT","CRM",
-    "DHR","NEE","TXN","PM","UNP","RTX","HON","BMY","AMGN","LOW",
-    "QCOM","IBM","GE","CAT","BA","GS","MS","BLK","SPGI","WFC"
-]
+import os
+
+def load_tickers():
+    txt = os.path.join(os.path.dirname(__file__), "sp500_tickers.txt")
+    if os.path.exists(txt):
+        tickers = [t.strip() for t in open(txt).read().strip().split(",") if t.strip()]
+        print(f"Loaded {len(tickers)} tickers from sp500_tickers.txt")
+        return tickers
+    # fallback to 50 stocks
+    return [
+        "AAPL","MSFT","AMZN","NVDA","GOOGL","META","TSLA","JPM","UNH","XOM",
+        "JNJ","V","PG","MA","HD","CVX","MRK","ABBV","PEP","KO",
+        "AVGO","COST","WMT","BAC","TMO","MCD","ACN","LIN","ABT","CRM",
+        "DHR","NEE","TXN","PM","UNP","RTX","HON","BMY","AMGN","LOW",
+        "QCOM","IBM","GE","CAT","BA","GS","MS","BLK","SPGI","WFC"
+    ]
+
+TICKERS = load_tickers()
 
 
 def build_dataframe():
@@ -66,6 +77,13 @@ def build_dataframe():
             else:
                 rec = "N/A"
 
+            # extra features
+            pb     = round(info.get("priceToBook"), 2) if info.get("priceToBook") and info.get("priceToBook") > 0 else None
+            de     = round(info.get("debtToEquity"), 2) if info.get("debtToEquity") else None
+            roe    = round((info.get("returnOnEquity") or 0)*100, 2) if info.get("returnOnEquity") else None
+            eg     = round((info.get("earningsGrowth") or info.get("revenueGrowth") or 0)*100, 1)
+            w52pos = round((price - w52l)/(w52h - w52l)*100, 1) if w52h and w52l and w52h != w52l else None
+
             rows.append({
                 "ticker":           sym,
                 "name":             (info.get("shortName") or info.get("longName") or sym)
@@ -80,10 +98,15 @@ def build_dataframe():
                 "mkt_cap_usd":      mktcap,
                 "52w_high":         w52h,
                 "52w_low":          w52l,
+                "52w_position":     w52pos,
                 "analyst_rating":   rec,
                 "beta":             beta,
                 "revenue_bn":       round(info.get("totalRevenue",0)/1e9,1) if info.get("totalRevenue") else None,
                 "profit_margin":    round((info.get("profitMargins") or 0)*100,1),
+                "price_to_book":    pb,
+                "debt_to_equity":   de,
+                "roe_pct":          roe,
+                "earnings_growth":  eg,
             })
             time.sleep(0.2)
 
