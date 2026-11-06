@@ -1,505 +1,505 @@
 ticker,name,sector,industry,price_usd,change_pct,pe_ratio,div_yield_pct,mkt_cap_usd,52w_high,52w_low,52w_position,analyst_rating,beta,revenue_bn,profit_margin,price_to_book,debt_to_equity,roe_pct,earnings_growth
-MMM,3M Company,Industrials,Conglomerates,193.91,-0.02,28.9,161.0,100001161216,196.81,139.34,94.9,Buy,1.06,25.2,14.0,24.28,303.5,72.97,69.7
-AOS,A.O. Smithoration,Industrials,Specialty Industrial Machinery,67.37,0.45,18.8,227.0,9049742336,81.87,54.16,47.7,Hold,1.04,3.8,13.0,4.96,39.22,26.97,-1.1
-ABT,Abbott Laboratories,Healthcare,Medical Devices,116.88,1.19,43.4,218.0,202247208960,132.03,81.97,69.7,Buy,0.54,48.2,9.7,3.96,63.21,,-43.7
-ABBV,AbbVie,Healthcare,Drug Manufacturers - General,302.1,2.46,51.9,235.0,533988048896,302.27,190.75,99.8,Buy,0.19,66.0,15.7,,,,2282.1
-ACN,Accenture plc,Technology,Information Technology Services,269.44,1.96,19.9,259.0,164881678336,291.09,118.15,87.5,Buy,1.0,74.2,11.3,5.08,40.28,26.02,46.4
-ADBE,Adobe,Technology,Software - Application,248.06,-0.17,13.9,0.0,96546897920,362.71,190.12,33.6,Hold,1.38,26.0,28.0,8.24,57.69,61.9,10.5
-AMD,"Advanced Micro Devices,",Technology,Semiconductors,424.01,-13.25,90.6,0.0,695413440512,658.52,188.22,50.1,Buy,2.54,45.4,16.8,10.17,13.47,11.96,93.8
-AES,The AESoration,Utilities,Utilities - Diversified,14.92,0.13,6.0,472.0,10646384640,17.65,13.28,37.5,Hold,0.92,13.6,13.2,1.86,242.92,8.68,-14.4
-AFL,AFLACorporated,Financial Services,Insurance - Life,131.08,4.61,14.1,195.0,65716080640,131.08,105.76,100.0,N/A,0.55,18.1,26.9,2.31,53.37,16.91,46.8
-A,"Agilent Technologies,",Healthcare,Diagnostics & Research,176.05,-0.63,34.7,58.0,49640083456,182.99,108.35,90.7,Buy,1.24,7.4,19.5,6.74,56.34,20.97,8.5
-APD,"Air Products and Chemicals,",Basic Materials,Specialty Chemicals,310.58,-2.6,21.5,227.0,69161672704,324.0,229.11,85.9,Buy,0.67,12.6,-0.4,4.98,110.09,0.02,4.6
-ABNB,"Airbnb,",Consumer Cyclical,Travel Services,169.9,-3.67,38.7,0.0,101733679104,193.453,110.81,71.5,Buy,1.27,13.2,20.4,12.85,32.0,34.54,33.4
-AKAM,"Akamai Technologies,",Technology,Software - Infrastructure,80.45,-6.38,29.1,0.0,11562000384,165.45,71.93,9.1,Buy,0.66,4.3,9.5,2.43,196.67,8.92,-26.8
-ALB,Albemarleoration,Basic Materials,Specialty Chemicals,98.3,3.51,364.1,173.0,11599897600,221.0,89.77,6.5,Buy,1.36,5.9,3.8,1.59,18.98,2.65,31.1
-ARE,Alexandria Real Estate Equities,Real Estate,REIT - Office,46.65,1.4,,626.0,8123723264,59.76,38.34,38.8,Hold,1.19,2.8,-51.8,0.54,71.94,-6.25,-10.8
-ALGN,"Align Technology,",Healthcare,Medical Instruments & Supplies,160.87,-2.44,23.5,0.0,11428180992,200.44,130.23,43.6,Buy,1.74,4.2,11.8,2.65,2.61,11.9,143.6
-ALLE,Allegion plc,Industrials,Security & Protection Services,192.66,-0.02,24.0,114.0,16383186944,195.42,125.0,96.1,Buy,0.82,4.4,15.7,7.48,102.39,33.56,18.8
-LNT,Alliant Energyoration,Utilities,Utilities - Regulated Electric,74.95,1.61,20.9,290.0,19440453632,78.81,62.54,76.3,Buy,0.5,4.5,20.7,2.49,160.9,12.36,39.5
-ALL,Allstateoration (The),Financial Services,Insurance - Property & Casualty,278.82,3.63,5.6,161.0,70501859328,280.23,191.13,98.4,Buy,0.12,70.1,19.0,2.53,22.26,46.11,61.2
-GOOGL,Alphabet,Communication Services,Internet Content & Information,285.25,-1.28,14.9,30.0,3506801737728,408.61,270.7,10.5,Buy,1.23,471.1,50.0,5.32,22.19,44.29,-25.3
-GOOG,Alphabet,Communication Services,Internet Content & Information,283.61,-1.28,14.8,31.0,3486701060096,404.47,271.41,9.2,Buy,1.23,471.1,50.0,5.29,22.19,44.29,-25.3
-MO,"Altria Group,",Consumer Defensive,Tobacco,79.64,2.1,16.4,569.0,132484431872,79.87,54.7,99.1,Hold,0.46,20.6,39.3,,,,6.7
-AMZN,"Amazon.com,",Consumer Cyclical,Internet Retail,259.72,-2.37,21.0,0.0,2808388255744,287.2,196.0,69.9,Buy,1.5,797.5,16.9,4.58,49.68,27.42,-3.1
-AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,45.85,-5.46,19.3,536.0,21180209152,50.94,36.25,65.4,Buy,0.54,23.5,4.7,1.8,128.29,9.4,25.9
-AEE,Amerenoration,Utilities,Utilities - Regulated Electric,114.85,1.57,20.2,265.0,31795447808,118.32,96.57,84.0,Buy,0.42,8.4,18.6,2.32,157.85,11.94,11.9
-AAL,"American Airlines Group,",Industrials,Airlines,13.0,-4.62,13.7,0.0,8614106112,18.79,10.09,33.4,Buy,1.45,61.0,-0.8,,,,19.3
-AEP,American Electric Power Company,Utilities,Utilities - Regulated Electric,131.03,1.38,21.4,300.0,71346561024,140.58,112.54,65.9,Buy,0.44,23.6,14.2,2.18,161.93,10.6,19.3
-AXP,American Express Company,Financial Services,Credit Services,335.86,0.98,18.9,114.0,225208254464,387.49,290.97,46.5,Buy,1.08,72.9,16.8,6.3,167.57,35.93,30.9
-AIG,"American International Group, I",Financial Services,Insurance - Diversified,82.69,1.21,13.5,245.0,42872303616,87.29,71.25,71.4,Buy,0.47,27.8,11.9,1.1,26.75,8.23,72.0
-AMT,American Toweroration (REI,Real Estate,REIT - Specialty,196.31,0.74,27.6,367.0,91041423360,202.5,160.06,85.4,Buy,0.84,11.0,30.1,25.91,463.81,32.96,-9.9
-AWK,"American Water Works Company, I",Utilities,Utilities - Regulated Water,152.17,1.7,26.3,239.0,30297755648,152.43,120.57,99.2,Hold,0.55,5.3,21.3,2.54,137.68,9.95,4.1
-AMP,"Ameriprise Financial,",Financial Services,Asset Management,528.76,0.26,11.9,129.0,45903396864,572.56,422.37,70.8,Hold,1.12,20.1,20.7,9.0,76.48,71.98,32.0
-AME,"AMETEK,",Industrials,Specialty Industrial Machinery,228.55,-3.6,32.2,57.0,52410630144,261.16,188.47,55.1,Buy,0.97,8.2,19.9,4.48,59.56,14.68,15.6
-AMGN,Amgen,Healthcare,Drug Manufacturers - General,482.06,0.75,27.9,211.0,260751785984,483.99,312.39,98.9,Hold,0.42,38.9,24.1,18.17,376.3,78.35,19.4
-APH,Amphenoloration,Technology,Electronic Components,73.97,-6.38,32.0,76.0,182651256832,89.93,59.005,48.4,Buy,1.28,33.0,18.0,10.66,103.47,40.08,61.2
-ADI,"Analog Devices,",Technology,Semiconductors,386.07,-4.97,45.9,108.0,187076198400,445.91,223.47,73.1,Buy,1.26,13.9,29.8,5.58,27.31,12.23,163.5
+MMM,3M Company,Industrials,Conglomerates,185.22,-1.36,27.6,166.0,95711240192,196.9,139.34,79.7,Buy,1.06,25.2,14.0,23.19,303.5,72.97,69.7
+AOS,A.O. Smithoration,Industrials,Specialty Industrial Machinery,64.67,-2.85,18.1,228.0,8687053824,81.87,54.16,37.9,Hold,1.04,3.8,13.0,4.76,39.22,26.97,-1.1
+ABT,Abbott Laboratories,Healthcare,Medical Devices,111.21,-2.09,41.5,222.0,192609222656,132.03,81.97,58.4,Buy,0.54,48.2,9.7,3.77,60.9,9.14,-43.6
+ABBV,AbbVie,Healthcare,Drug Manufacturers - General,286.43,-0.62,49.2,240.0,506289455104,302.93,190.75,85.3,Buy,0.19,66.0,15.7,,,,2282.1
+ACN,Accenture plc,Technology,Information Technology Services,257.0,-3.11,19.0,258.0,151819534336,291.09,118.15,80.3,Buy,1.0,74.2,11.3,4.85,40.28,26.02,46.4
+ADBE,Adobe,Technology,Software - Application,239.41,-2.85,13.4,0.0,93178372096,362.71,190.12,28.6,Hold,1.38,26.0,28.0,7.96,57.69,61.9,10.5
+AMD,"Advanced Micro Devices,",Technology,Semiconductors,456.86,12.97,97.6,0.0,749282131968,658.52,188.22,57.1,Buy,2.54,45.4,16.8,10.96,13.47,11.96,93.8
+AES,The AESoration,Utilities,Utilities - Diversified,14.91,0.15,6.0,473.0,10641247232,17.65,13.28,37.4,Hold,0.92,13.6,13.2,1.86,242.92,8.68,-14.4
+AFL,AFLACorporated,Financial Services,Insurance - Life,124.04,-1.77,18.1,193.0,61480550400,131.19,105.76,71.9,N/A,,16.6,21.2,2.1,53.87,12.16,-80.2
+A,"Agilent Technologies,",Healthcare,Diagnostics & Research,175.59,2.22,34.6,59.0,49510379520,182.99,108.35,90.1,Buy,1.24,7.4,19.5,6.72,56.34,20.97,8.5
+APD,"Air Products and Chemicals,",Basic Materials,Specialty Chemicals,305.85,-1.08,128.0,234.0,68108374016,324.0,229.11,80.9,Buy,0.67,13.0,4.1,4.77,106.29,3.19,13011.8
+ABNB,"Airbnb,",Consumer Cyclical,Travel Services,187.12,9.99,42.6,0.0,112044769280,193.453,110.81,92.3,Buy,,13.9,23.0,12.02,25.46,35.79,42.7
+AKAM,"Akamai Technologies,",Technology,Software - Infrastructure,84.3,8.3,32.8,0.0,12115310592,165.45,76.75,8.5,Buy,,4.4,8.8,2.36,183.51,7.85,-20.6
+ALB,Albemarleoration,Basic Materials,Specialty Chemicals,98.38,0.06,23.7,167.0,11610127360,221.0,89.77,6.6,Buy,1.36,6.2,11.1,1.4,18.47,7.05,18.8
+ARE,Alexandria Real Estate Equities,Real Estate,REIT - Office,44.44,-1.62,,638.0,7739698688,59.76,38.34,28.5,Hold,1.19,2.8,-51.8,0.51,71.94,-6.25,-10.8
+ALGN,"Align Technology,",Healthcare,Medical Instruments & Supplies,160.49,0.7,23.4,0.0,11312467968,200.44,130.23,43.1,Buy,1.74,4.2,11.8,2.63,3.4,11.9,143.6
+ALLE,Allegion plc,Industrials,Security & Protection Services,185.0,-1.14,23.0,118.0,15731805184,195.42,125.0,85.2,Buy,0.82,4.4,15.7,7.18,102.39,33.56,18.8
+LNT,Alliant Energyoration,Utilities,Utilities - Regulated Electric,72.28,-1.58,20.1,291.0,18746658816,78.81,62.54,59.9,Buy,0.5,4.5,20.7,2.4,160.9,12.36,39.5
+ALL,Allstateoration (The),Financial Services,Insurance - Property & Casualty,261.78,-1.92,5.9,162.0,64777330688,281.11,191.13,78.5,Buy,0.12,70.2,16.6,2.15,23.21,38.93,-42.4
+GOOGL,Alphabet,Communication Services,Internet Content & Information,288.05,1.94,15.0,31.0,3541286518784,408.61,270.7,12.6,Buy,1.23,471.1,50.0,5.37,22.19,44.29,-25.3
+GOOG,Alphabet,Communication Services,Internet Content & Information,286.73,1.77,15.0,31.0,3524873945088,404.47,271.41,11.5,Buy,1.23,471.1,50.0,5.34,22.19,44.29,-25.3
+MO,"Altria Group,",Consumer Defensive,Tobacco,76.41,-1.51,15.8,572.0,127094898688,79.87,54.7,86.2,Hold,0.46,20.6,39.3,,,,6.7
+AMZN,"Amazon.com,",Consumer Cyclical,Internet Retail,261.34,0.43,21.1,0.0,2825905504256,287.2,196.0,71.6,Buy,1.5,797.5,16.9,4.6,49.68,27.42,-3.1
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,44.79,-2.3,19.2,576.0,20690085888,50.94,36.25,58.1,Buy,0.54,23.9,4.5,1.76,126.4,9.25,-8.0
+AEE,Amerenoration,Utilities,Utilities - Regulated Electric,112.82,-0.01,19.6,266.0,31233456128,118.32,96.57,74.7,Buy,,8.6,18.6,2.2,157.04,11.77,3.0
+AAL,"American Airlines Group,",Industrials,Airlines,13.2,2.05,13.9,0.0,8743249920,18.79,10.09,35.7,Buy,1.45,61.0,-0.8,,,,19.3
+AEP,American Electric Power Company,Utilities,Utilities - Regulated Electric,125.39,-1.09,20.5,306.0,68278157312,140.58,112.54,45.8,Buy,0.44,23.6,14.2,2.08,161.93,10.6,19.3
+AXP,American Express Company,Financial Services,Credit Services,323.61,-0.42,18.2,117.0,216997330944,387.49,290.97,33.8,Buy,1.08,72.9,16.8,6.07,167.57,35.93,30.9
+AIG,"American International Group, I",Financial Services,Insurance - Diversified,79.16,-2.21,12.9,247.0,41037029376,87.29,71.25,49.3,Buy,0.47,27.8,11.8,1.06,26.75,8.23,72.0
+AMT,American Toweroration (REI,Real Estate,REIT - Specialty,192.13,-0.93,27.1,369.0,89102893056,202.5,160.06,75.6,Buy,0.84,11.0,30.1,25.36,463.81,32.96,-9.9
+AWK,"American Water Works Company, I",Utilities,Utilities - Regulated Water,148.07,-2.85,25.6,235.0,29482422272,153.69,120.57,83.0,Hold,0.55,5.3,21.3,2.47,137.68,9.95,4.1
+AMP,"Ameriprise Financial,",Financial Services,Asset Management,508.42,-0.2,11.5,134.0,44137197568,572.56,422.37,57.3,Hold,1.12,20.1,20.7,8.65,76.48,71.98,32.0
+AME,"AMETEK,",Industrials,Specialty Industrial Machinery,228.12,2.28,32.2,61.0,52312023040,261.16,188.47,54.5,Buy,0.97,8.2,19.9,4.47,59.56,14.68,15.6
+AMGN,Amgen,Healthcare,Drug Manufacturers - General,456.81,-0.75,26.5,219.0,247093772288,483.99,312.39,84.2,Hold,0.42,38.9,24.1,17.22,376.3,78.35,19.4
+APH,Amphenoloration,Technology,Electronic Components,74.55,4.11,32.3,84.0,184108122112,89.93,59.005,50.3,Buy,1.28,33.0,18.0,10.75,103.47,40.08,61.2
+ADI,"Analog Devices,",Technology,Semiconductors,372.87,3.29,44.3,122.0,180679917568,445.91,223.47,67.2,Buy,1.26,13.9,29.8,5.39,27.31,12.23,163.5
 ANSS,ANSS,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-AON,Aon plc,Financial Services,Insurance Brokers,348.51,1.11,19.1,95.0,73938903040,382.34,266.33,70.8,Buy,0.61,17.7,22.2,7.32,283.33,43.38,5.7
-APA,APAoration,Energy,Oil & Gas E&P,45.36,1.96,9.6,225.0,15891945472,52.96,22.81,74.8,Hold,0.28,8.6,19.6,2.63,48.85,26.66,26.3
-AAPL,Apple,Technology,Consumer Electronics,348.85,-0.19,38.8,31.0,5069551960064,355.38,243.42,94.2,Buy,1.09,478.8,27.6,45.23,84.29,142.26,14.1
-AMAT,"Applied Materials,",Technology,Semiconductor Equipment & Materials,339.06,-8.21,29.3,57.0,269077151744,739.67,203.4,25.3,Buy,1.67,30.8,30.1,10.5,28.67,41.07,42.8
-APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,41.37,-4.38,11.6,0.0,8373520384,88.93,41.11,0.5,Buy,1.3,20.6,3.7,0.96,64.8,12.7,2.3
-ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,113.54,2.58,9.3,0.0,37059457024,113.633,87.05,99.7,Buy,0.19,18.8,23.3,1.66,18.64,18.74,-15.7
-ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,71.33,0.69,13.9,294.0,33947318272,88.75,55.58,47.5,Hold,0.61,84.1,3.0,1.43,41.66,10.64,671.0
-ANET,"Arista Networks,",Technology,Computer Hardware,164.5,-7.83,44.1,0.0,207829696512,217.41,114.52,48.6,Buy,1.64,11.9,40.0,12.62,,33.52,82.1
-AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,294.1,1.98,44.9,97.0,75411652608,294.185,190.75,99.9,Buy,0.46,15.8,10.8,3.14,56.04,7.21,49.0
-AIZ,"Assurant,",Financial Services,Insurance - Property & Casualty,313.77,1.7,14.8,114.0,15476564992,316.718,209.86,97.2,N/A,0.51,13.8,7.8,2.58,36.86,18.27,6.2
-T,AT&T,Communication Services,Telecom Services,22.14,1.44,11.8,508.0,149179203584,29.44,19.89,23.6,Buy,0.49,128.9,10.2,1.4,144.77,11.61,-90.4
-ATO,Atmos Energyoration,Utilities,Utilities - Regulated Gas,181.04,2.53,21.6,227.0,30593687552,192.51,154.72,69.6,Hold,0.55,4.9,28.5,2.01,67.66,9.79,23.3
-ADSK,"Autodesk,",Technology,Software - Application,276.25,2.28,35.8,0.0,57737297920,320.0,185.5,67.5,Buy,1.25,7.8,21.1,17.07,109.52,53.85,59.6
-ADP,"Automatic Data Processing,",Technology,Software - Application,308.73,1.71,27.4,224.0,121872105472,309.4,188.16,99.4,Hold,0.79,22.3,20.3,23.98,109.76,78.94,13.7
-AZO,"AutoZone,",Consumer Cyclical,Auto Parts,3342.39,0.51,21.9,0.0,53793562624,3996.25,2730.65,48.3,Buy,0.37,20.3,12.7,,,,15.0
+AON,Aon plc,Financial Services,Insurance Brokers,335.5,-2.59,18.4,95.0,71178731520,382.34,266.33,59.6,Buy,0.61,17.7,22.2,7.05,283.33,43.38,5.7
+APA,APAoration,Energy,Oil & Gas E&P,44.23,1.72,7.2,230.0,15038199808,52.96,23.06,70.8,Hold,0.28,9.2,23.5,2.09,40.62,33.32,250.9
+AAPL,Apple,Technology,Consumer Electronics,340.3,-1.12,37.9,31.0,4944779804672,355.38,243.42,86.5,Buy,1.09,478.8,27.6,44.12,84.29,142.26,14.1
+AMAT,"Applied Materials,",Technology,Semiconductor Equipment & Materials,348.14,9.05,30.0,66.0,276283031552,739.67,203.4,27.0,Buy,1.67,30.8,30.1,10.78,28.67,41.07,42.8
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,40.05,-1.98,11.2,0.0,8107324416,88.93,39.75,0.6,Buy,1.3,20.6,3.7,0.93,64.8,12.7,2.3
+ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,108.18,-2.16,8.8,0.0,35215331328,113.63,87.05,79.5,Buy,0.19,18.8,23.3,1.59,18.64,18.74,-15.7
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,70.37,-0.15,13.7,295.0,33492338688,88.75,55.58,44.6,Hold,0.61,84.1,3.0,1.41,41.66,10.64,671.0
+ANET,"Arista Networks,",Technology,Computer Hardware,172.26,8.18,46.2,0.0,217633685504,217.41,114.52,56.1,Buy,1.64,11.9,40.0,13.23,,33.52,82.1
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,282.27,-2.04,43.1,97.0,72378261504,294.53,190.75,88.2,Buy,0.46,15.8,10.8,3.01,56.04,7.21,49.0
+AIZ,"Assurant,",Financial Services,Insurance - Property & Casualty,302.95,-1.28,14.3,115.0,14942636032,316.72,209.86,87.1,N/A,0.51,13.8,7.8,2.49,36.86,18.27,6.2
+T,AT&T,Communication Services,Telecom Services,21.48,-1.56,11.5,509.0,144699457536,29.44,19.89,16.6,Buy,0.49,128.9,10.2,1.36,144.77,11.61,-90.4
+ATO,Atmos Energyoration,Utilities,Utilities - Regulated Gas,172.28,-1.55,20.5,229.0,29113348096,192.51,154.72,46.5,N/A,0.55,4.9,28.5,1.91,67.66,9.79,23.3
+ADSK,"Autodesk,",Technology,Software - Application,260.07,-3.38,33.7,0.0,54355677184,320.0,185.5,55.4,Buy,1.25,7.8,21.1,16.07,109.52,53.85,59.6
+ADP,"Automatic Data Processing,",Technology,Software - Application,301.36,-1.88,26.7,221.0,118964690944,310.98,188.16,92.2,Hold,0.79,22.3,20.3,23.41,109.76,78.94,13.7
+AZO,"AutoZone,",Consumer Cyclical,Auto Parts,3227.25,-2.47,21.2,0.0,51940462592,3996.25,2730.65,39.2,Buy,0.37,20.3,12.7,,,,15.0
 AVB,"AvalonBay Communities,",Real Estate,REIT - Residential,184.06,0.0,25.2,3.87,26283393024,185.62,57.320084,98.8,Hold,0.77,3.1,33.3,2.17,75.13,8.49,-41.3
-AVY,Avery Dennisonoration,Consumer Cyclical,Packaging & Containers,193.68,0.57,21.0,208.0,14625054720,199.54,152.42,87.6,Buy,0.78,9.4,7.6,6.15,151.34,30.8,5.0
-AXON,"Axon Enterprise,",Industrials,Aerospace & Defense,415.97,-1.94,172.6,0.0,33792327680,665.07,339.01,23.6,Buy,1.47,3.2,6.2,9.2,50.36,6.22,-18.2
-BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,48.77,-2.22,16.8,184.0,48427470848,70.41,44.26,17.2,Buy,1.06,28.7,10.1,2.4,88.83,15.06,-32.8
-BALL,Balloration,Consumer Cyclical,Packaging & Containers,69.06,2.5,34.7,119.0,17976383488,69.575,46.06,97.8,Buy,0.95,15.1,3.5,3.16,133.08,9.49,23.9
-BAC,Bank of Americaoration,Financial Services,Banks - Diversified,51.74,0.22,12.3,248.0,357036163072,65.23,46.12,29.4,Buy,1.19,114.9,28.1,1.32,,10.73,-12.5
+AVY,Avery Dennisonoration,Consumer Cyclical,Packaging & Containers,185.43,-2.25,20.1,211.0,14002085888,199.54,152.42,70.1,Buy,0.78,9.4,7.6,5.87,151.55,30.8,5.1
+AXON,"Axon Enterprise,",Industrials,Aerospace & Defense,323.07,-15.55,134.1,0.0,26245015552,665.07,310.0,3.7,Buy,,3.4,7.6,6.96,78.9,7.61,27.9
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,47.22,2.2,16.2,199.0,46888198144,70.41,44.26,11.3,Buy,1.06,28.7,10.1,2.33,88.83,15.06,-32.8
+BALL,Balloration,Consumer Cyclical,Packaging & Containers,65.02,-2.83,32.7,120.0,16922854400,69.58,46.06,80.6,Buy,0.95,15.1,3.5,2.98,133.08,9.49,23.9
+BAC,Bank of Americaoration,Financial Services,Banks - Diversified,49.97,0.38,11.9,257.0,344783421440,65.23,46.12,20.1,Buy,1.19,114.9,28.1,1.27,,10.73,-12.5
 BK,BK,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-BBWI,"Bath & Body Works,",Consumer Cyclical,Specialty Retail,23.14,-1.7,6.1,340.0,4666072576,24.94,14.28,83.1,Hold,1.33,7.2,10.8,,,,93.3
-BAX,Baxter International,Healthcare,Medical Instruments & Supplies,26.54,0.13,13.0,15.0,13727834112,30.0,15.73,75.7,Hold,0.67,11.6,-6.2,2.11,136.01,-9.04,5.0
-BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,213.28,1.96,49.6,201.0,58094661632,214.78,127.58648,98.3,Buy,0.28,22.5,4.2,2.38,68.84,6.61,-31.4
-WRB,W.R. Berkleyoration,Financial Services,Insurance - Property & Casualty,78.92,2.88,16.7,52.0,29320024064,78.96,62.87,99.8,Hold,0.22,14.9,12.5,3.19,32.22,19.26,-10.9
-BBY,"Best Buy Co.,",Consumer Cyclical,Specialty Retail,101.99,0.62,17.0,379.0,21390127104,103.51,55.1,96.9,Hold,1.21,42.2,3.0,6.74,130.1,43.13,70.1
-BIO,"Bio-Rad Laboratories,",Healthcare,Medical Devices,367.43,-3.31,46.6,0.0,9824407552,396.23,236.73,81.9,Hold,1.06,2.6,8.6,1.33,19.1,3.11,18.7
-TECH,Bio-Techne,Healthcare,Biotechnology,72.77,0.05,62.7,44.0,11428933632,72.83,43.2,99.8,Hold,1.27,1.2,15.0,5.39,13.71,9.03,1.3
-BIIB,Biogen,Healthcare,Drug Manufacturers - General,254.74,0.11,110.3,0.0,37655724032,258.78,151.83,96.2,Buy,0.09,10.3,3.4,1.99,41.23,1.87,10.6
-BLK,"BlackRock,",Financial Services,Asset Management,1205.17,-1.57,27.4,187.0,195811442688,1241.645,917.39,88.8,Buy,1.38,28.5,24.2,3.24,23.19,,25.4
-BX,Blackstone,Financial Services,Asset Management,123.39,-1.74,27.5,403.0,147487801344,165.14,101.73,34.2,Buy,1.53,15.5,23.0,11.17,67.54,32.38,3.7
-BA,Boeing Company (The),Industrials,Aerospace & Defense,172.3,-2.66,17.8,0.0,136539119616,254.35,165.01,8.2,Buy,1.33,94.9,8.1,20.86,738.52,,3.9
-BCH,Banco De Chile,Financial Services,Banks - Regional,38.99,-1.4,14.9,554.0,19695804416,46.77,33.6,41.0,Hold,0.13,,45.1,0.69,,21.08,-2.1
-BKNG,Booking Holdings Common St,Consumer Cyclical,Travel Services,168.06,-1.7,18.2,98.0,124986433536,220.806,146.28,29.2,Buy,1.15,28.1,25.5,,,,6.8
-BWA,BorgWarner,Consumer Cyclical,Auto Parts,49.12,-2.55,20.8,135.0,9862982656,78.82,40.73,22.0,Buy,1.18,14.2,3.4,1.74,54.53,8.95,47.9
-BSX,Boston Scientificoration,Healthcare,Medical Devices,45.85,0.07,19.3,0.0,66458349568,105.65,39.57,9.5,Buy,0.58,21.1,16.6,2.59,46.2,14.12,-21.5
-BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,65.44,1.95,14.5,393.0,133764988928,68.64,45.27,86.3,Buy,0.19,50.0,18.5,5.72,191.46,44.01,-2.8
-AVGO,Broadcom,Technology,Semiconductors,304.27,-6.52,38.9,80.0,1452472270848,495.0,289.96,7.0,Buy,1.51,89.1,42.9,14.57,59.6,44.25,215.3
-BR,"Broadridge Financial Solutions,",Technology,Information Technology Services,194.07,2.53,21.5,230.0,21950529536,233.1,133.83,60.7,Buy,0.9,7.6,13.9,8.38,139.13,40.15,-40.7
-BRO,"Brown & Brown,",Financial Services,Insurance Brokers,75.87,2.68,24.0,89.0,25165461504,82.58,53.81,76.7,Hold,0.52,6.8,17.9,1.97,64.24,9.8,-1.0
-BF-B,Brown Forman,Consumer Defensive,Beverages - Wineries & Distilleries,31.45,2.49,20.3,301.0,14428986368,31.92,22.61,94.9,Hold,0.31,3.9,18.4,3.63,61.5,18.12,5.7
-BLDR,"Builders FirstSource,",Industrials,Building Products & Equipment,67.34,-3.1,182.0,0.0,7246747648,131.5,49.67,21.6,Hold,1.44,14.4,0.3,1.78,129.39,0.97,-49.1
-BG,Bunge Limited,Consumer Defensive,Farm Products,98.12,1.14,16.9,297.0,18853148672,134.87,88.24,21.2,Buy,0.68,93.5,1.2,1.16,104.74,6.92,94.7
-CDNS,"Cadence Design Systems,",Technology,Software - Application,313.99,-4.71,62.4,0.0,86152265728,416.69,262.75,33.3,Buy,1.1,6.1,22.5,12.53,40.91,22.87,22.0
-CZR,"Caesars Entertainment,",Consumer Cyclical,Resorts & Casinos,29.18,-0.63,131.4,0.0,5946072064,30.88,17.86,86.9,Hold,1.89,11.7,-4.5,1.82,748.96,-12.56,2.5
-CPT,Camden Property Trust,Real Estate,REIT - Residential,105.75,1.22,34.9,406.0,12238720000,119.81,95.3,42.6,Hold,0.77,1.6,20.6,2.85,125.65,7.89,-75.7
-CPB,The Campbell's Company,Consumer Defensive,Packaged Foods,23.38,0.52,17.8,430.0,6972726784,32.04,18.6,35.6,Hold,0.05,9.7,4.1,1.81,179.26,10.05,-7.9
-COF,Capital One Financialorati,Financial Services,Credit Services,209.07,1.34,12.8,155.0,125765550080,259.64,174.24,40.8,Buy,1.09,48.9,22.2,1.2,,9.39,16.2
-CAH,"Cardinal Health,",Healthcare,Medical Distribution,278.69,6.4,38.5,79.0,64534433792,286.29,180.45,92.8,Buy,0.52,254.2,0.7,,,,68.8
-KMX,CarMax,Consumer Cyclical,Auto & Truck Dealerships,53.26,-3.41,25.2,0.0,7559873536,65.28,30.26,65.7,Hold,1.23,29.5,1.0,1.2,286.62,4.68,81.6
-CCL,Carnivaloration Ltd.,Consumer Cyclical,Travel Services,29.89,-4.55,13.2,144.0,40197120000,34.03,21.45,67.1,Buy,2.46,27.6,11.4,2.85,177.11,24.0,5.0
-CARR,Carrier Globaloration,Industrials,Building Products & Equipment,55.11,-0.99,17.3,172.0,45088808960,76.76,50.24,18.4,Buy,1.33,22.8,-7.9,4.49,113.96,-13.44,12.3
+BBWI,"Bath & Body Works,",Consumer Cyclical,Specialty Retail,21.91,-0.77,5.8,362.0,4418048512,24.94,14.28,71.6,Hold,1.33,7.2,10.8,,,,93.3
+BAX,Baxter International,Healthcare,Medical Instruments & Supplies,25.27,-1.48,12.4,16.0,13073388544,30.0,15.73,66.9,Hold,0.67,11.6,-6.2,2.01,136.01,-9.04,5.0
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,212.76,-0.37,42.0,197.0,57953017856,214.78,137.35849,97.4,Buy,0.28,19.5,5.9,2.35,66.22,5.66,46.9
+WRB,W.R. Berkleyoration,Financial Services,Insurance - Property & Casualty,75.63,-1.76,16.0,52.0,28097736704,79.26,62.87,77.9,Hold,0.22,14.9,12.5,3.06,32.22,19.26,-10.9
+BBY,"Best Buy Co.,",Consumer Cyclical,Specialty Retail,100.08,0.68,16.7,386.0,20988497920,103.54,55.1,92.8,Hold,1.21,42.2,3.0,6.62,130.1,43.13,70.1
+BIO,"Bio-Rad Laboratories,",Healthcare,Medical Devices,377.48,2.3,10.0,0.0,10151616512,396.23,236.73,88.2,Hold,1.06,2.6,39.5,1.34,17.93,14.27,0.5
+TECH,Bio-Techne,Healthcare,Biotechnology,72.72,0.08,62.7,44.0,11421081600,72.83,43.2,99.6,Hold,1.27,1.2,15.0,5.38,13.71,9.03,1.3
+BIIB,Biogen,Healthcare,Drug Manufacturers - General,244.09,0.07,105.7,0.0,36082073600,258.78,151.83,86.3,Buy,0.09,10.3,3.4,1.91,41.23,1.87,10.6
+BLK,"BlackRock,",Financial Services,Asset Management,1179.48,0.75,26.9,196.0,182139338752,1242.12,917.39,80.7,Buy,1.38,28.5,24.2,3.14,22.11,11.61,25.4
+BX,Blackstone,Financial Services,Asset Management,119.89,0.06,26.7,422.0,143310225408,165.14,101.73,28.6,Buy,1.53,15.5,23.0,10.85,67.54,32.38,3.7
+BA,Boeing Company (The),Industrials,Aerospace & Defense,172.34,-0.06,17.8,0.0,136570814464,254.35,165.01,8.2,Buy,1.33,94.9,8.1,20.86,738.52,,3.9
+BCH,Banco De Chile,Financial Services,Banks - Regional,38.89,0.36,14.9,565.0,19642771456,46.77,33.6,40.2,Hold,0.13,,45.1,0.69,,21.08,-2.1
+BKNG,Booking Holdings Common St,Consumer Cyclical,Travel Services,165.76,-1.75,18.0,100.0,123275911168,220.806,146.28,26.1,Buy,1.15,28.1,25.5,,,,6.8
+BWA,BorgWarner,Consumer Cyclical,Auto Parts,48.4,1.82,20.5,143.0,9718396928,78.82,40.73,20.1,Buy,1.18,14.2,3.4,1.71,54.53,8.95,47.9
+BSX,Boston Scientificoration,Healthcare,Medical Devices,43.15,-3.35,18.2,0.0,62537961472,105.65,39.57,5.4,Buy,0.58,21.1,16.6,2.44,46.2,14.12,-21.5
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,62.11,-1.62,13.8,399.0,126958174208,68.64,45.27,72.1,Buy,0.19,50.0,18.5,5.42,191.46,44.01,-2.8
+AVGO,Broadcom,Technology,Semiconductors,305.22,4.7,39.0,89.0,1457007362048,495.0,289.96,7.4,Buy,1.51,89.1,42.9,14.62,59.6,44.25,215.3
+BR,"Broadridge Financial Solutions,",Technology,Information Technology Services,189.49,-2.28,21.0,225.0,21432502272,233.1,133.83,56.1,Buy,0.9,7.6,13.9,8.18,139.13,40.15,-40.7
+BRO,"Brown & Brown,",Financial Services,Insurance Brokers,72.23,-2.89,22.9,89.0,23958102016,82.58,53.81,64.0,Hold,0.52,6.8,17.9,1.88,64.24,9.8,-1.0
+BF-B,Brown Forman,Consumer Defensive,Beverages - Wineries & Distilleries,30.23,-2.36,19.5,298.0,13871466496,31.92,22.61,81.8,Hold,0.31,3.9,18.4,3.49,61.5,18.12,5.7
+BLDR,"Builders FirstSource,",Industrials,Building Products & Equipment,62.98,-3.85,170.2,0.0,6777046016,131.5,49.67,16.3,Hold,1.44,14.4,0.3,1.66,129.39,0.97,-49.1
+BG,Bunge Limited,Consumer Defensive,Farm Products,98.55,0.01,16.9,292.0,18935001088,134.87,88.24,22.1,Buy,0.68,93.5,1.2,1.16,104.74,6.92,94.7
+CDNS,"Cadence Design Systems,",Technology,Software - Application,313.24,0.58,62.3,0.0,85946474496,416.69,262.75,32.8,Buy,1.1,6.1,22.5,12.5,40.91,22.87,22.0
+CZR,"Caesars Entertainment,",Consumer Cyclical,Resorts & Casinos,29.09,-0.32,131.0,0.0,5927933440,30.88,17.86,86.2,Hold,1.89,11.7,-4.5,1.81,748.96,-12.56,2.5
+CPT,Camden Property Trust,Real Estate,REIT - Residential,100.1,-3.48,9.4,409.0,11584830464,119.81,95.3,19.6,Hold,,1.6,71.4,2.25,91.36,24.45,771.0
+CPB,The Campbell's Company,Consumer Defensive,Packaged Foods,22.71,-3.07,17.3,427.0,6772909568,32.04,18.6,30.6,Hold,0.05,9.7,4.1,1.76,179.26,10.05,-7.9
+COF,Capital One Financialorati,Financial Services,Credit Services,204.84,0.49,12.6,157.0,123221065728,259.64,174.24,35.8,Buy,1.09,48.9,22.2,1.17,,9.39,16.2
+CAH,"Cardinal Health,",Healthcare,Medical Distribution,266.88,-0.35,34.5,79.0,61799718912,286.29,180.45,81.7,Buy,0.52,254.2,0.7,,,,68.8
+KMX,CarMax,Consumer Cyclical,Auto & Truck Dealerships,51.81,-1.5,24.6,0.0,7354056704,65.28,30.69,61.1,Hold,1.23,29.5,1.0,1.17,286.62,4.68,81.6
+CCL,Carnivaloration Ltd.,Consumer Cyclical,Travel Services,29.49,0.17,13.0,152.0,39652552704,34.03,21.45,63.9,Buy,2.46,27.6,11.4,2.81,177.11,24.0,5.0
+CARR,Carrier Globaloration,Industrials,Building Products & Equipment,53.37,0.3,16.7,180.0,43664392192,76.76,50.24,11.8,Buy,1.33,22.8,-7.9,4.35,113.96,-13.44,12.3
 CTLT,CTLT,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-CAT,"Caterpillar,",Industrials,Farm & Heavy Construction Machinery,566.29,-4.23,22.2,110.0,259132145664,1073.46,537.08,5.4,Buy,1.64,77.8,15.2,12.1,210.41,56.14,46.1
-CBOE,"Cboe Global Markets,",Financial Services,Financial Data & Stock Exchanges,355.26,2.91,25.3,100.0,37064880128,371.18,227.15,89.0,Hold,0.36,5.3,28.0,6.26,26.63,27.39,43.2
-CBRE,CBRE Group,Real Estate,Real Estate Services,140.58,-0.38,30.1,0.0,40514629632,174.27,121.44,36.2,Buy,1.23,45.0,3.1,4.67,112.73,16.18,25.6
-CDW,CDWoration,Technology,Information Technology Services,167.46,-0.76,19.5,161.0,20935430144,172.47,97.12,93.4,Buy,,24.5,4.5,7.95,298.45,42.47,11.3
-CE,Celaneseoration,Basic Materials,Chemicals,49.7,-0.1,20.1,24.0,5454711808,70.7,35.13,41.0,Buy,0.71,9.8,2.7,1.29,256.18,6.37,5.7
-COR,"Cencora,",Healthcare,Medical Distribution,352.96,-0.29,19.7,75.0,67354353664,377.54,244.82,81.5,Buy,,337.4,1.0,18.3,306.04,129.01,5.5
-CNC,Centeneoration,Healthcare,Healthcare Plans,77.52,1.99,26.6,0.0,38377668608,78.07,31.63,98.8,Buy,1.08,180.4,0.8,1.73,69.67,6.74,0.2
-CNX,CNX Resourcesoration,Energy,Oil & Gas E&P,36.38,1.25,6.0,0.0,5197288448,43.62,30.78,43.6,Hold,0.59,2.1,43.4,1.08,50.24,20.39,-7.8
+CAT,"Caterpillar,",Industrials,Farm & Heavy Construction Machinery,568.48,2.68,22.3,118.0,260133126144,1073.46,537.08,5.9,Buy,1.64,77.8,15.2,12.11,210.41,56.14,46.1
+CBOE,"Cboe Global Markets,",Financial Services,Financial Data & Stock Exchanges,353.91,0.24,25.2,97.0,36923510784,371.18,227.15,88.0,Hold,0.36,5.3,28.0,6.23,26.63,27.39,43.2
+CBRE,CBRE Group,Real Estate,Real Estate Services,135.65,-0.52,29.0,0.0,39092383744,174.27,121.44,26.9,Buy,1.23,45.0,3.1,4.51,112.73,16.18,25.6
+CDW,CDWoration,Technology,Information Technology Services,157.75,-0.4,18.4,172.0,19688671232,172.47,97.12,80.5,Buy,0.92,24.5,4.5,7.48,298.45,42.47,11.3
+CE,Celaneseoration,Basic Materials,Chemicals,46.42,-2.97,18.8,25.0,5094722560,70.7,35.13,31.7,Buy,0.71,9.8,2.7,1.21,257.69,6.37,5.7
+COR,"Cencora,",Healthcare,Medical Distribution,336.98,-0.79,18.8,78.0,64304943104,377.54,244.82,69.4,Buy,0.57,337.4,1.0,17.47,306.04,129.01,5.5
+CNC,Centeneoration,Healthcare,Healthcare Plans,72.84,-1.79,25.0,0.0,36060749824,78.08,31.63,88.7,Buy,1.08,180.4,0.8,1.62,69.67,6.74,0.2
+CNX,CNX Resourcesoration,Energy,Oil & Gas E&P,35.38,0.21,5.8,0.0,5053712896,43.62,30.78,35.8,Hold,0.59,2.1,43.4,1.05,50.24,20.39,-7.8
 CDAY,CDAY,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-CF,"CF Industries Holdings,",Basic Materials,Agricultural Inputs,120.67,8.05,9.0,215.0,18262728704,141.96,75.42,68.0,Hold,0.54,7.7,27.1,3.18,40.5,29.87,99.6
-CRL,Charles River Laboratories Inte,Healthcare,Diagnostics & Research,324.31,-0.61,352.5,0.0,15539873792,379.63,146.2,76.3,Buy,,4.0,1.0,4.81,86.98,1.27,523.6
-SCHW,Charles Schwaboration (The,Financial Services,Capital Markets,93.38,0.01,16.0,137.0,161476722688,114.53,83.96,30.8,Buy,0.75,27.1,39.3,3.14,77.82,21.12,28.6
-CHTR,"Charter Communications,",Communication Services,Telecom Services,120.5,0.21,3.1,0.0,15660539904,254.11,101.11,12.7,Hold,0.73,54.4,9.1,0.85,441.58,27.2,16.1
-CVX,Chevronoration,Energy,Oil & Gas Integrated,220.38,1.58,16.2,328.0,429961412608,236.48,146.49,82.1,Buy,0.45,226.3,11.9,2.28,18.96,,178.0
-CMG,"Chipotle Mexican Grill,",Consumer Cyclical,Restaurants,35.14,-0.18,32.8,0.0,44445024256,41.42,27.31,55.5,Buy,0.99,12.7,10.8,18.1,228.05,48.52,-6.2
-CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,383.19,2.41,13.4,109.0,146408947712,383.43,282.11,99.8,Buy,0.29,61.9,18.1,2.0,32.95,14.25,4.4
-CHD,"Church & Dwight Company,",Consumer Defensive,Household & Personal Products,113.87,1.64,34.9,110.0,26876968960,114.23,81.49,98.9,Buy,0.45,6.2,12.4,6.02,52.94,17.8,18.7
-CI,The Cigna Group,Healthcare,Healthcare Plans,314.14,2.86,13.0,204.0,83008512000,318.0,255.53,93.8,Buy,0.25,282.4,2.3,1.94,74.29,16.76,10.2
-CINF,Cincinnati Financialoratio,Financial Services,Insurance - Property & Casualty,195.62,2.7,11.5,197.0,30030456832,195.72,153.4,99.8,Buy,0.48,13.3,20.1,1.86,5.41,16.87,-58.4
-CTAS,Cintasoration,Industrials,Specialty Business Services,232.98,1.72,46.0,91.0,92510552064,232.98,161.16,100.0,Buy,0.86,11.6,17.8,17.88,52.1,41.38,13.3
-CSCO,"Cisco Systems,",Technology,Communication Equipment,98.09,-5.33,29.5,162.0,386728329216,130.37,70.54,46.0,Buy,1.0,63.3,21.0,7.7,62.02,27.32,52.1
-C,"Citigroup,",Financial Services,Banks - Diversified,123.42,-1.06,12.0,215.0,204284788736,147.96,95.83,52.9,Buy,1.15,83.3,23.2,1.07,,9.35,53.4
-CFG,"Citizens Financial Group,",Financial Services,Banks - Regional,66.13,0.35,13.4,316.0,27721367552,75.33,49.0,65.1,Buy,1.09,8.4,27.0,1.21,,8.9,34.3
-CLX,Clorox Company (The),Consumer Defensive,Household & Personal Products,99.07,-0.09,17.8,504.0,11981491200,128.9,79.12,40.1,Hold,0.58,7.2,9.4,,4623.14,534.36,113.8
-CME,CME Group,Financial Services,Financial Data & Stock Exchanges,310.78,0.81,25.5,169.0,111238692864,329.16,218.31,83.4,Buy,0.18,7.0,63.5,4.18,14.51,16.13,16.1
-CMS,CMS Energyoration,Utilities,Utilities - Regulated Electric,72.05,1.5,25.7,321.0,22595158016,80.36,62.29,54.0,Buy,0.3,9.0,9.7,2.38,196.28,5.31,-57.9
-KO,Coca-Cola Company (The),Consumer Defensive,Beverages - Non-Alcoholic,97.34,1.61,28.7,221.0,418768683008,97.3847,67.27,99.9,Buy,0.27,51.1,28.7,11.21,107.45,40.59,8.3
-CTSH,Cognizant Technology Solutions ,Technology,Information Technology Services,67.42,2.5,12.3,201.0,30141028352,87.03,37.08,60.8,Buy,0.83,21.9,11.8,2.05,14.48,17.37,148.2
-CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,100.59,1.85,39.1,215.0,79961055232,100.72,75.96,99.5,Buy,0.31,21.3,9.6,277.87,1205.62,231.74,3.3
-CMCSA,Comcastoration,Communication Services,Telecom Services,25.12,1.11,8.0,531.0,89219031040,32.86,20.48,37.5,Hold,0.71,123.0,9.2,0.96,94.28,11.43,7.8
+CF,"CF Industries Holdings,",Basic Materials,Agricultural Inputs,118.45,-0.1,8.4,202.0,17661097984,141.96,75.42,64.7,Hold,0.54,7.9,27.5,3.13,41.08,30.86,31.1
+CRL,Charles River Laboratories Inte,Healthcare,Diagnostics & Research,329.34,5.21,358.0,0.0,15781138432,379.63,146.2,78.5,Buy,1.34,4.0,1.0,4.89,87.08,1.27,523.6
+SCHW,Charles Schwaboration (The,Financial Services,Capital Markets,92.49,-0.1,15.8,138.0,159946260480,114.53,83.96,27.9,Buy,0.75,27.1,39.3,3.11,77.82,21.12,28.6
+CHTR,"Charter Communications,",Communication Services,Telecom Services,118.62,-5.75,3.1,0.0,15415570432,254.11,101.11,11.4,Hold,0.73,54.4,9.1,0.83,441.58,27.2,16.1
+CVX,Chevronoration,Energy,Oil & Gas Integrated,214.07,0.54,15.7,334.0,417660338176,236.48,146.49,75.1,Buy,0.45,226.3,11.9,2.21,18.96,,178.0
+CMG,"Chipotle Mexican Grill,",Consumer Cyclical,Restaurants,34.59,-2.29,32.3,0.0,43755483136,41.42,27.31,51.6,Buy,0.99,12.7,10.8,17.82,228.05,48.52,-6.2
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,365.31,-1.7,12.8,110.0,139575443456,384.26,282.99,81.3,Buy,0.29,61.9,18.1,1.91,32.95,14.25,4.4
+CHD,"Church & Dwight Company,",Consumer Defensive,Household & Personal Products,108.49,-2.55,33.3,110.0,25607116800,114.64,81.49,81.4,Buy,0.45,6.2,12.4,5.74,52.94,17.8,18.7
+CI,The Cigna Group,Healthcare,Healthcare Plans,295.73,-1.91,13.0,204.0,78143840256,318.05,255.53,64.3,Buy,0.25,282.4,2.3,1.87,74.29,16.76,10.2
+CINF,Cincinnati Financialoratio,Financial Services,Insurance - Property & Casualty,186.04,-1.21,10.9,200.0,28559058944,195.72,153.4,77.1,Buy,0.48,13.3,20.1,1.76,5.41,16.87,-58.4
+CTAS,Cintasoration,Industrials,Specialty Business Services,222.37,-1.78,43.9,92.0,88297586688,233.46,161.16,84.7,Buy,0.86,11.6,17.8,17.07,52.1,41.38,13.3
+CSCO,"Cisco Systems,",Technology,Communication Equipment,96.91,1.24,29.1,176.0,382056366080,130.37,70.54,44.1,Buy,1.0,63.3,21.0,7.6,62.02,27.32,52.1
+C,"Citigroup,",Financial Services,Banks - Diversified,119.89,1.22,11.7,226.0,198441926656,147.96,95.83,46.2,Buy,1.15,83.3,23.2,1.04,,9.35,53.4
+CFG,"Citizens Financial Group,",Financial Services,Banks - Regional,63.91,0.13,12.9,326.0,26792851456,75.33,49.0,56.6,Buy,1.09,8.4,27.0,1.17,,8.9,34.3
+CLX,Clorox Company (The),Consumer Defensive,Household & Personal Products,97.92,-1.79,17.6,502.0,11842267136,128.9,79.12,37.8,Hold,0.58,7.2,9.4,,4623.14,534.36,113.8
+CME,CME Group,Financial Services,Financial Data & Stock Exchanges,305.76,-0.48,25.1,169.0,109443661824,329.16,218.31,78.9,Buy,0.18,7.0,63.5,4.11,14.51,16.13,16.1
+CMS,CMS Energyoration,Utilities,Utilities - Regulated Electric,68.61,-2.14,24.5,323.0,21517854720,80.36,62.29,35.0,Buy,0.3,9.0,9.7,2.26,196.28,5.31,-57.9
+KO,Coca-Cola Company (The),Consumer Defensive,Beverages - Non-Alcoholic,94.1,-1.7,27.8,221.0,404808990720,97.39,67.27,89.1,Buy,0.27,51.1,28.7,10.83,107.45,40.59,8.3
+CTSH,Cognizant Technology Solutions ,Technology,Information Technology Services,64.55,-2.99,11.8,198.0,28855816192,87.03,37.08,55.0,Buy,0.83,21.9,11.8,1.96,14.48,17.37,148.2
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,96.53,-2.19,37.6,215.0,76733677568,101.18,75.96,81.6,Buy,0.31,21.3,9.6,266.66,1205.62,231.74,3.3
+CMCSA,Comcastoration,Communication Services,Telecom Services,24.29,-2.65,7.7,529.0,86253944832,32.86,20.48,30.8,Hold,0.71,123.0,9.2,0.93,94.28,11.43,7.8
 CMA,CMA,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-CAG,"ConAgra Brands,",Consumer Defensive,Packaged Foods,15.46,2.45,10.3,458.0,7383169024,20.32,12.53,37.7,Hold,-0.0,11.2,-17.0,1.15,121.16,-24.89,5.9
-COP,ConocoPhillips,Energy,Oil & Gas E&P,139.21,1.65,18.4,245.0,167232192512,154.28,85.57,78.1,Buy,0.16,64.5,14.4,2.56,35.64,14.18,107.0
-ED,"Consolidated Edison,",Utilities,Utilities - Regulated Electric,122.56,1.87,20.2,295.0,45324349440,122.75,94.96,99.3,Hold,0.22,17.7,12.5,1.76,110.11,8.96,22.1
-STZ,"Constellation Brands,",Consumer Defensive,Beverages - Brewers,148.32,1.95,13.3,283.0,25099337728,168.6,110.6,65.0,Buy,0.4,9.2,20.9,2.93,116.18,24.01,25.3
-CEG,Constellation Energyoratio,Utilities,Utilities - Independent Power Producers,236.09,-3.92,23.1,69.0,83650207744,380.78,228.63,4.9,Buy,1.13,31.3,11.1,2.62,76.42,15.06,-46.8
-COO,"The Cooper Companies,",Healthcare,Medical Instruments & Supplies,64.49,0.11,22.2,0.0,12263114752,89.83,51.01,34.7,Buy,0.82,4.2,13.5,1.47,33.63,6.84,357.1
-CPRT,"Copart,",Industrials,Specialty Business Services,32.48,-0.43,21.0,0.0,30087211008,42.05,25.72,41.4,Buy,1.0,4.7,31.8,3.31,0.97,16.16,-15.0
-GLW,Corningorporated,Technology,Electronic Components,106.0,-10.75,42.9,94.0,91308515328,271.78,77.39,14.7,Buy,1.23,17.7,12.1,7.02,64.19,17.88,56.0
-CPAY,"Corpay,",Technology,Software - Infrastructure,460.18,9.93,28.0,0.0,30215233536,479.53,259.06,91.2,Buy,0.92,5.0,22.7,8.1,275.29,29.22,-7.0
-CTVA,"Corteva,",Basic Materials,Agricultural Inputs,12.57,2.53,7.8,587.0,8386653696,14.62,9.380345,60.9,Buy,,5.0,2.8,1.04,57.26,,-9.9
-CSGP,"CoStar Group,",Real Estate,Real Estate Services,32.39,-0.58,75.3,0.0,13031706624,70.57,25.89,14.5,Buy,0.78,3.7,4.9,1.63,14.66,2.15,14.1
-COST,Costco Wholesaleoration,Consumer Defensive,Discount Stores,1079.38,3.15,52.0,56.0,478307155968,1096.5,844.06,93.2,Buy,0.85,303.2,3.0,13.36,28.44,28.4,15.0
+CAG,"ConAgra Brands,",Consumer Defensive,Packaged Foods,14.92,-3.8,10.0,451.0,7122979840,20.32,12.53,30.7,Hold,-0.0,11.2,-17.0,1.11,121.16,-24.89,5.9
+COP,ConocoPhillips,Energy,Oil & Gas E&P,137.35,1.4,14.5,245.0,165003706368,154.28,85.59,75.4,Buy,0.16,64.5,14.4,2.61,35.64,14.18,107.0
+ED,"Consolidated Edison,",Utilities,Utilities - Regulated Electric,119.68,-1.45,19.7,292.0,44261093376,122.75,94.96,89.0,Hold,,18.1,12.7,1.69,106.44,9.1,8.4
+STZ,"Constellation Brands,",Consumer Defensive,Beverages - Brewers,140.96,-2.49,12.6,285.0,23853000704,168.6,110.6,52.3,Buy,0.4,9.2,20.9,2.79,116.18,24.01,25.3
+CEG,Constellation Energyoratio,Utilities,Utilities - Independent Power Producers,247.9,3.44,24.2,71.0,87832838144,380.78,228.63,12.7,Buy,1.13,31.3,11.1,2.75,76.42,15.06,-46.8
+COO,"The Cooper Companies,",Healthcare,Medical Instruments & Supplies,62.12,-2.2,21.3,0.0,11811496960,89.83,51.01,28.6,Buy,0.82,4.2,13.5,1.42,33.63,6.84,357.1
+CPRT,"Copart,",Industrials,Specialty Business Services,31.49,-3.05,20.3,0.0,29170145280,42.05,25.72,35.3,Buy,1.0,4.7,31.8,3.21,0.97,16.16,-15.0
+GLW,Corningorporated,Technology,Electronic Components,108.47,4.87,43.9,108.0,93436174336,271.78,77.39,16.0,Buy,1.23,17.7,12.1,7.19,64.19,17.88,56.0
+CPAY,"Corpay,",Technology,Software - Infrastructure,443.23,-0.84,24.4,0.0,29101977600,479.53,271.22,82.6,Buy,0.92,5.2,23.7,8.82,306.62,32.21,44.8
+CTVA,"Corteva,",Basic Materials,Agricultural Inputs,11.86,-1.54,7.3,598.0,7909608448,14.62,9.4006,47.0,Buy,,5.0,2.8,0.98,57.26,,-9.9
+CSGP,"CoStar Group,",Real Estate,Real Estate Services,31.1,-2.96,72.3,0.0,12512691200,70.57,25.89,11.7,Buy,0.78,3.7,4.9,1.57,14.66,2.15,14.1
+COST,Costco Wholesaleoration,Consumer Defensive,Discount Stores,1048.66,-1.59,50.5,55.0,464647716864,1096.5,844.06,81.0,Buy,0.85,303.2,3.0,12.98,28.44,28.4,15.0
 CTRA,CTRA,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-CCI,Crown Castle,Real Estate,REIT - Specialty,92.4,0.25,37.1,461.0,40378802176,95.07,65.32,91.0,Buy,0.91,4.1,20.1,,,,-10.5
-CSX,CSXoration,Industrials,Railroads,52.45,0.68,27.3,108.0,97162305536,53.6,33.63,94.2,Buy,1.11,14.9,24.0,6.72,135.17,26.39,53.8
-CMI,Cummins,Industrials,Specialty Industrial Machinery,466.99,-1.03,23.9,187.0,64287932416,737.76,445.55,7.3,Buy,1.24,34.7,7.8,5.0,59.59,21.11,4.7
-CVS,CVS Healthoration,Healthcare,Healthcare Plans,82.28,2.9,9.6,333.0,105271803904,110.68,69.51,31.0,Buy,,418.4,2.6,1.31,93.32,14.36,6.0
-DHI,"D.R. Horton,",Consumer Cyclical,Residential Construction,158.01,0.65,15.6,127.0,42889539584,170.79,130.4,68.4,Hold,1.37,33.0,8.7,1.86,25.53,12.12,-12.4
-DHR,Danaheroration,Healthcare,Diagnostics & Research,233.77,-0.49,38.7,68.0,164337057792,242.8,160.93,89.0,Buy,0.8,25.6,16.9,3.07,51.8,8.19,37.8
-DRI,"Darden Restaurants,",Consumer Cyclical,Restaurants,233.43,1.22,22.7,281.0,26411022336,233.98,169.0,99.2,Buy,0.63,13.4,8.8,12.79,415.3,55.43,-6.7
-DVA,DaVita,Healthcare,Medical Care Facilities,193.84,0.62,14.7,0.0,12192850944,247.49,101.0,63.4,Buy,0.86,14.2,6.5,,1189.57,96.79,66.7
+CCI,Crown Castle,Real Estate,REIT - Specialty,89.7,-1.37,36.0,467.0,38167789568,95.07,65.32,82.0,Buy,0.91,4.1,20.1,,,,-10.5
+CSX,CSXoration,Industrials,Railroads,50.18,-1.28,26.1,110.0,92957188096,53.6,33.63,82.9,Buy,1.11,14.9,24.0,6.43,135.17,26.39,53.8
+CMI,Cummins,Industrials,Specialty Industrial Machinery,457.63,2.02,19.1,187.0,63000084480,737.76,443.62,4.8,Buy,1.24,34.7,7.8,5.12,59.59,21.11,4.7
+CVS,CVS Healthoration,Healthcare,Healthcare Plans,83.79,3.02,9.7,327.0,107207139328,110.68,69.51,34.7,Buy,0.58,418.2,2.6,1.33,93.32,14.36,5.4
+DHI,"D.R. Horton,",Consumer Cyclical,Residential Construction,153.76,-2.46,15.2,127.0,41735938048,170.79,130.4,57.8,Hold,1.37,33.0,8.7,1.81,25.53,12.12,-12.4
+DHR,Danaheroration,Healthcare,Diagnostics & Research,227.43,0.48,37.7,71.0,159880118272,242.8,160.93,81.2,Buy,0.8,25.6,16.9,2.98,51.8,8.19,37.8
+DRI,"Darden Restaurants,",Consumer Cyclical,Restaurants,226.45,-0.97,22.0,283.0,25621282816,233.98,169.0,88.4,Buy,0.63,13.4,8.8,12.4,415.3,55.43,-6.7
+DVA,DaVita,Healthcare,Medical Care Facilities,190.05,-2.45,14.4,0.0,11954145280,247.49,101.0,60.8,Buy,0.86,14.2,6.5,,1189.57,96.79,66.7
 DAY,DAY,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-DECK,Deckers Outdoororation,Consumer Cyclical,Footwear & Accessories,89.02,-0.1,11.8,0.0,11882387456,122.29,77.2,26.2,Hold,1.11,5.6,19.0,5.13,23.24,44.27,27.0
-DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,676.91,0.06,37.6,96.0,182513483776,721.22,455.91,83.3,Buy,0.9,47.9,10.2,6.52,230.3,18.24,7.4
-DAL,"Delta Air Lines,",Industrials,Airlines,86.16,-3.45,17.2,96.0,56685731840,95.68,55.27,76.4,Buy,1.42,71.8,4.6,2.5,88.55,15.91,-47.0
-DVN,Devon Energyoration,Energy,Oil & Gas E&P,44.62,1.13,9.7,290.0,49081999360,52.71,32.06,60.8,Buy,0.48,18.8,17.5,1.23,28.49,11.52,44.0
-DXCM,"DexCom,",Healthcare,Medical Devices,87.31,-1.32,34.4,0.0,32562343936,92.59,54.11,86.3,Buy,1.44,5.1,19.4,12.85,54.94,37.67,2.6
-FANG,"Diamondback Energy,",Energy,Oil & Gas E&P,184.78,1.04,24.9,258.0,51596894208,216.9,138.34,59.1,Buy,0.47,17.8,11.5,1.32,29.31,4.86,62.1
-DLR,"Digital Realty Trust,",Real Estate,REIT - Specialty,178.35,-3.53,75.3,264.0,67356323840,208.14,146.23,51.9,Buy,1.0,7.1,13.1,2.44,69.08,3.34,220.5
+DECK,Deckers Outdoororation,Consumer Cyclical,Footwear & Accessories,86.56,-1.34,11.5,0.0,11554027520,122.29,77.2,20.8,Hold,1.11,5.6,19.0,4.98,23.24,44.27,27.0
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,668.32,0.76,37.1,98.0,180196048896,721.22,455.91,80.1,Buy,0.9,47.9,10.2,6.44,230.3,18.24,7.4
+DAL,"Delta Air Lines,",Industrials,Airlines,86.97,1.89,17.4,101.0,57218641920,95.68,55.27,78.4,Buy,1.42,71.8,4.6,2.53,88.55,15.91,-47.0
+DVN,Devon Energyoration,Energy,Oil & Gas E&P,42.3,-1.35,10.6,299.0,46532968448,52.71,32.49,48.5,Buy,,21.6,16.7,1.15,26.28,12.55,-19.3
+DXCM,"DexCom,",Healthcare,Medical Devices,82.23,-2.63,32.4,0.0,30669619200,92.59,54.11,73.1,Buy,1.44,5.1,19.4,12.1,54.94,37.67,2.6
+FANG,"Diamondback Energy,",Energy,Oil & Gas E&P,181.09,0.84,24.4,263.0,50554503168,216.9,139.41,53.8,Buy,0.47,17.7,11.6,1.3,29.31,4.86,62.1
+DLR,"Digital Realty Trust,",Real Estate,REIT - Specialty,176.57,1.09,74.5,279.0,66682458112,208.14,146.23,49.0,Buy,1.0,7.1,13.1,2.42,69.08,3.34,220.5
 DFS,DFS,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-DG,Dollar Generaloration,Consumer Defensive,Discount Stores,141.41,-0.16,18.4,167.0,31198521344,158.23,95.11,73.4,Buy,0.19,43.6,3.9,3.36,169.81,19.69,33.3
-DLTR,"Dollar Tree,",Consumer Defensive,Discount Stores,144.41,-1.76,17.6,0.0,27096629248,148.535,85.88,93.4,Hold,0.69,20.1,8.0,7.91,223.94,46.03,197.2
-D,"Dominion Energy,",Utilities,Utilities - Regulated Electric,70.69,1.35,23.3,383.0,62176526336,72.99,55.85,86.6,Buy,0.59,19.2,14.0,2.18,161.56,8.82,12.0
-DPZ,Domino's Pizza,Consumer Cyclical,Restaurants,343.21,0.74,18.9,234.0,11290255360,442.35,282.0,38.2,Buy,0.97,5.1,12.0,,,,12.7
-DOV,Doveroration,Industrials,Specialty Industrial Machinery,211.1,-0.73,24.6,99.0,28076441600,237.54,176.91,56.4,Buy,1.09,8.6,13.6,3.68,42.75,15.2,12.9
-DOW,Dow,Basic Materials,Chemicals,33.02,0.98,18.0,428.0,23902580736,42.74,20.93,55.4,Hold,0.39,42.6,-2.1,1.48,107.57,-3.24,675.0
-DHR,Danaheroration,Healthcare,Diagnostics & Research,233.77,-0.49,38.7,68.0,164337057792,242.8,160.93,89.0,Buy,0.8,25.6,16.9,3.07,51.8,8.19,37.8
-DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,136.39,-0.83,21.6,339.0,28381130752,155.75,119.68,46.3,Buy,0.35,16.5,8.0,2.34,229.06,11.03,22.4
-DUK,Duke Energyoration (Holdin,Utilities,Utilities - Regulated Electric,132.8,2.48,20.0,335.0,103544455168,134.49,112.4,92.3,Buy,0.31,32.8,16.0,1.93,162.16,9.86,10.6
-DD,"DuPont de Nemours,",Basic Materials,Specialty Chemicals,151.82,0.72,52.9,159.0,20120727552,157.98,111.15,86.8,Buy,1.09,7.1,4.3,1.48,23.23,2.18,4.1
-EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,66.76,-1.26,11.9,497.0,7632648192,83.47,56.11,38.9,Buy,1.08,9.0,6.9,1.22,86.09,10.3,265.0
-ETN,"Eatonoration, PLC",Industrials,Specialty Industrial Machinery,334.49,-5.27,33.4,125.0,129948114944,478.0,311.92,13.6,Buy,1.14,32.0,12.2,6.2,99.52,19.55,7.0
-EBAY,eBay,Consumer Cyclical,Internet Retail,124.28,-0.7,27.1,99.0,54556725248,127.74,78.03,93.0,Buy,1.27,12.4,16.9,12.39,163.4,46.04,-18.1
-ECL,Ecolab,Basic Materials,Specialty Chemicals,314.38,-0.2,42.8,93.0,88173461504,318.93,243.15,94.0,Buy,0.86,17.4,12.0,8.46,133.33,20.77,-4.9
-EIX,Edison International,Utilities,Utilities - Regulated Electric,61.88,0.65,6.6,571.0,23810633728,81.62,51.1,35.3,Hold,0.55,18.6,19.6,1.34,219.57,18.76,-13.4
-EW,Edwards Lifesciencesoratio,Healthcare,Medical Devices,103.0,3.65,61.3,0.0,59369201664,104.165,74.66,96.1,Buy,0.83,6.5,15.4,5.79,6.57,9.18,-25.4
+DG,Dollar Generaloration,Consumer Defensive,Discount Stores,136.22,-1.29,17.7,171.0,30052419584,158.23,95.11,65.1,Buy,0.19,43.6,3.9,3.24,169.81,19.69,33.3
+DLTR,"Dollar Tree,",Consumer Defensive,Discount Stores,135.87,-1.5,16.5,0.0,25493327872,148.54,85.88,79.8,Hold,0.69,20.1,8.0,7.44,223.94,46.03,197.2
+D,"Dominion Energy,",Utilities,Utilities - Regulated Electric,68.4,-1.78,22.6,383.0,60162322432,72.99,55.85,73.2,Buy,0.59,19.2,14.0,2.11,161.56,8.82,12.0
+DPZ,Domino's Pizza,Consumer Cyclical,Restaurants,333.13,-2.49,18.4,233.0,10958827520,442.35,282.0,31.9,Buy,0.97,5.1,12.0,,,,12.7
+DOV,Doveroration,Industrials,Specialty Industrial Machinery,203.49,0.46,23.7,104.0,27065735168,237.54,176.91,43.8,Buy,1.09,8.6,13.6,3.54,42.75,15.2,12.9
+DOW,Dow,Basic Materials,Chemicals,31.59,-1.22,17.2,438.0,22867429376,42.74,20.93,48.9,Hold,0.39,42.6,-2.1,1.42,107.57,-3.24,675.0
+DHR,Danaheroration,Healthcare,Diagnostics & Research,227.48,0.5,37.7,71.0,159915261952,242.8,160.93,81.3,Buy,0.8,25.6,16.9,2.98,51.8,8.19,37.8
+DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,132.76,-1.56,20.2,339.0,27625771008,155.75,119.68,36.3,Buy,0.35,16.5,8.0,2.24,229.06,11.03,22.4
+DUK,Duke Energyoration (Holdin,Utilities,Utilities - Regulated Electric,127.37,-2.08,18.7,335.0,99361349632,134.49,112.4,67.8,Buy,0.31,32.8,16.0,1.95,162.16,9.86,10.6
+DD,"DuPont de Nemours,",Basic Materials,Specialty Chemicals,145.74,0.56,50.8,166.0,19315263488,157.98,111.15,73.9,Buy,1.09,7.1,4.3,1.42,23.23,2.18,4.1
+EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,64.64,-1.63,11.5,511.0,7390268928,83.47,56.11,31.2,Buy,1.08,9.0,6.9,1.18,86.09,10.3,265.0
+ETN,"Eatonoration, PLC",Industrials,Specialty Industrial Machinery,340.94,4.26,34.1,135.0,132455194624,478.0,311.92,17.5,Buy,1.14,32.0,12.2,6.31,99.52,19.55,7.0
+EBAY,eBay,Consumer Cyclical,Internet Retail,122.99,-0.29,26.9,101.0,53992607744,127.74,78.03,90.4,Buy,1.27,12.4,16.9,12.27,163.4,46.04,-18.1
+ECL,Ecolab,Basic Materials,Specialty Chemicals,299.15,-2.18,40.7,95.0,83901931520,318.93,243.15,73.9,Buy,0.86,17.4,12.0,8.05,133.33,20.77,-4.9
+EIX,Edison International,Utilities,Utilities - Regulated Electric,60.13,-1.22,6.4,577.0,23139180544,81.62,51.1,29.6,Hold,0.55,18.6,19.6,1.3,219.57,18.76,-13.4
+EW,Edwards Lifesciencesoratio,Healthcare,Medical Devices,99.35,-1.46,57.8,0.0,57126248448,104.17,74.66,83.7,Buy,0.83,6.7,15.3,5.27,6.43,9.33,6.7
 EA,Electronic Arts,Communication Services,Electronic Gaming & Multimedia,209.7,0.0,59.7,0.36,52925640704,210.2,164.5,98.9,Hold,0.64,7.8,13.8,7.77,26.43,16.46,97.5
-ELV,"Elevance Health,",Healthcare,Healthcare Plans,447.07,2.97,19.0,158.0,96955760640,450.69,274.84,97.9,Buy,0.63,201.8,2.5,2.16,68.66,11.48,17.9
-LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1446.38,2.0,46.9,49.0,1288142848000,1453.0,850.51,98.9,Buy,0.39,86.5,31.9,32.0,122.92,86.02,16.3
-EMR,Emerson Electric Company,Industrials,Specialty Industrial Machinery,166.53,-2.3,34.8,130.0,92889038848,172.0,122.64,88.9,Buy,,19.0,14.2,4.49,58.66,13.12,18.5
-ENPH,"Enphase Energy,",Technology,Solar,29.11,-7.72,43.5,0.0,3852330240,73.74,23.83,10.6,Buy,1.45,1.2,7.5,3.1,49.48,8.11,-65.2
-ETR,Entergyoration,Utilities,Utilities - Regulated Electric,112.46,0.5,25.7,243.0,53736439808,118.45,90.87,78.3,Buy,0.43,14.0,14.6,2.71,173.1,11.02,29.4
-EOG,"EOG Resources,",Energy,Oil & Gas E&P,149.34,1.55,11.6,277.0,78333190144,165.93,101.59,74.2,Buy,0.27,26.7,25.7,2.46,25.89,22.51,109.4
-EPAM,"EPAM Systems,",Technology,Information Technology Services,159.14,15.86,21.6,0.0,8209551872,222.53,73.06,57.6,Buy,1.27,5.6,7.2,2.33,4.33,11.18,26.3
-EQT,EQToration,Energy,Oil & Gas E&P,52.95,0.83,12.5,129.0,33125971968,68.24,47.94,24.7,Buy,0.67,9.1,29.0,1.3,19.13,10.49,-17.0
-EFX,"Equifax,",Industrials,Consulting Services,195.84,1.89,31.7,117.0,23008829440,228.67,137.01,64.2,Buy,1.27,6.6,11.3,5.13,112.84,15.44,38.8
-EQIX,"Equinix,",Real Estate,REIT - Specialty,1013.66,-3.84,60.9,196.0,100340776960,1128.68,720.62,71.8,Buy,0.97,10.1,16.2,6.9,181.48,11.45,29.4
+ELV,"Elevance Health,",Healthcare,Healthcare Plans,428.0,-0.93,18.2,159.0,92471918592,450.69,274.84,87.1,Buy,0.63,201.8,2.5,2.07,68.66,11.48,17.9
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1370.77,0.44,44.5,51.0,1221002133504,1453.0,850.51,86.4,Buy,0.39,86.5,31.9,30.34,122.92,86.02,16.3
+EMR,Emerson Electric Company,Industrials,Specialty Industrial Machinery,163.71,0.68,34.2,146.0,91317444608,172.0,122.64,83.2,Buy,1.21,19.0,14.2,4.42,58.66,13.12,18.5
+ENPH,"Enphase Energy,",Technology,Solar,29.69,2.5,44.3,0.0,3928953344,73.74,23.83,11.7,Buy,1.45,1.2,7.5,3.16,49.48,8.11,-65.2
+ETR,Entergyoration,Utilities,Utilities - Regulated Electric,109.81,-0.44,25.1,247.0,52470198272,118.45,90.87,68.7,Buy,0.43,14.0,14.6,2.65,173.1,11.02,29.4
+EOG,"EOG Resources,",Energy,Oil & Gas E&P,147.92,2.09,11.5,282.0,77588357120,165.93,101.59,72.0,Buy,,29.7,27.5,2.32,24.96,25.83,97.4
+EPAM,"EPAM Systems,",Technology,Information Technology Services,158.83,-4.15,19.9,0.0,8193560064,222.53,73.06,57.4,Buy,,5.6,7.5,2.25,4.07,11.61,32.5
+EQT,EQToration,Energy,Oil & Gas E&P,50.99,0.73,12.1,134.0,31895201792,68.24,47.94,15.0,Buy,0.67,9.1,29.0,1.25,19.13,10.49,-17.0
+EFX,"Equifax,",Industrials,Consulting Services,188.88,-2.56,30.6,116.0,22191134720,228.67,137.01,56.6,Buy,1.27,6.6,11.3,4.95,112.84,15.44,38.8
+EQIX,"Equinix,",Real Estate,REIT - Specialty,1013.88,1.66,60.9,207.0,100362280960,1128.68,720.62,71.9,Buy,0.97,10.1,16.2,6.9,181.48,11.45,29.4
 EQR,Equity Residential,Real Estate,REIT - Residential,63.66,-3.5,28.7,4.26,24611481600,71.5,57.57,43.7,Buy,0.75,3.1,28.0,2.27,78.68,8.02,-39.9
-ESS,"Essex Property Trust,",Real Estate,REIT - Residential,275.94,1.63,51.2,382.0,19021340672,303.35,238.46,57.8,Hold,0.71,2.0,17.5,3.35,121.0,6.51,-40.5
-EL,"Estee Lauder Companies, (T",Consumer Defensive,Household & Personal Products,110.96,-0.96,111.0,125.0,40204189696,121.64,66.22,80.7,Buy,1.23,15.3,2.4,9.96,227.84,9.28,392.3
-ETSY,"Etsy,",Consumer Cyclical,Internet Retail,92.55,-3.83,24.6,0.0,7978355200,97.85,44.0,90.2,Buy,1.78,3.0,32.8,,,,2253.6
-EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,430.25,2.12,9.0,190.0,15937563648,431.19,304.55,99.3,Buy,0.23,16.2,11.7,1.13,25.19,12.77,0.5
-EVRG,"Evergy,",Utilities,Utilities - Regulated Electric,88.93,3.16,22.6,322.0,20504338432,89.0,71.41,99.6,Buy,0.47,6.1,15.2,2.01,160.55,9.25,23.0
-ES,Eversource Energy (D/B/A),Utilities,Utilities - Regulated Electric,72.87,3.42,18.9,447.0,27448289280,76.57,62.72,73.3,Hold,0.66,14.0,10.4,1.68,180.7,9.02,-85.4
-EXC,Exelonoration,Utilities,Utilities - Regulated Electric,46.95,1.55,18.3,363.0,48593575936,50.65,39.73,66.2,Hold,0.34,25.9,10.2,1.61,176.53,9.06,-18.6
-EXPE,"Expedia Group,",Consumer Cyclical,Travel Services,277.55,-12.13,16.2,61.0,33261719552,342.0,185.34,58.9,Buy,1.39,15.7,13.0,26.44,230.27,89.49,188.7
-EXPD,Expeditors International of Was,Industrials,Integrated Freight & Logistics,196.69,-0.51,25.0,82.0,25394778112,207.93,129.59,85.7,Hold,1.07,13.2,7.9,10.88,24.57,45.08,61.6
-EXR,Extra Space Storage,Real Estate,REIT - Industrial,162.53,0.93,33.0,402.0,35870785536,163.135,125.71,98.4,Buy,1.09,3.5,29.5,2.64,102.98,7.7,50.3
-XOM,ExxonMobil Holdingsoration,Energy,Oil & Gas Integrated,171.91,1.56,17.7,253.0,701259186176,188.5,113.64,77.8,Buy,0.14,388.2,10.5,2.64,12.57,15.53,111.4
-FFIV,"F5,",Technology,Software - Infrastructure,314.69,-4.56,25.1,0.0,17877569536,483.3,223.76,35.0,Hold,1.09,3.4,21.1,4.46,5.3,19.01,-1.0
-FDS,FactSet Research Systems,Financial Services,Financial Data & Stock Exchanges,346.06,1.13,23.8,136.0,12205315072,348.0,185.0,98.8,Hold,0.69,2.5,21.5,6.09,77.05,25.47,-15.4
-FICO,Fair Isaacoration,Technology,Software - Application,717.62,2.37,20.8,0.0,15498895360,1858.91,586.05,10.3,Buy,1.34,2.4,34.1,,,,41.2
-FAST,Fastenal Company,Industrials,Industrial Distribution,54.84,3.06,44.6,195.0,62918012928,54.96,38.97,99.2,Hold,0.66,9.1,15.6,15.16,10.89,35.26,20.7
-FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,115.29,0.58,23.1,405.0,10078459904,128.21,95.0,61.1,Buy,0.95,1.4,32.6,3.22,141.6,12.94,6.9
-FDX,FedExoration,Industrials,Integrated Freight & Logistics,325.8,-1.09,17.6,148.0,76302147584,345.37,204.42386,86.1,Buy,1.31,94.7,4.7,2.21,98.73,14.85,-68.9
-FIS,Fidelity National Information S,Technology,Information Technology Services,29.32,-1.48,4.4,591.0,15120497664,68.37,28.865,1.2,Buy,,12.9,26.8,0.93,127.96,23.04,38.0
-FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,55.16,0.79,18.5,307.0,49840582656,59.5,40.68,76.9,Buy,0.99,11.1,23.0,1.61,,9.42,-1.1
-FSLR,"First Solar,",Technology,Solar,190.57,-2.02,11.0,0.0,20483219456,320.95,165.86,15.9,Buy,1.71,5.0,37.1,1.88,2.99,18.71,25.0
-FE,FirstEnergy,Utilities,Utilities - Regulated Electric,47.64,0.97,23.0,394.0,27578476544,52.34,42.67,51.4,Buy,0.37,16.0,7.5,2.13,207.27,10.04,26.3
+ESS,"Essex Property Trust,",Real Estate,REIT - Residential,267.67,-1.35,49.7,382.0,18451267584,303.35,238.46,45.0,Hold,0.71,2.0,17.5,3.25,121.0,6.51,-40.5
+EL,"Estee Lauder Companies, (T",Consumer Defensive,Household & Personal Products,108.08,0.4,108.1,130.0,39162486784,121.64,66.22,75.5,Buy,1.23,15.3,2.4,9.7,227.84,9.28,392.3
+ETSY,"Etsy,",Consumer Cyclical,Internet Retail,91.75,0.23,24.4,0.0,7908959232,97.85,44.0,88.7,Buy,1.78,3.0,32.8,,,,2253.6
+EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,410.76,-1.68,8.6,191.0,15215781888,431.19,304.55,83.9,Buy,0.23,16.2,11.7,1.08,25.19,12.77,0.5
+EVRG,"Evergy,",Utilities,Utilities - Regulated Electric,86.45,-1.1,19.3,322.0,19932530688,89.66,71.41,82.4,Buy,0.47,6.1,15.2,1.95,160.55,9.25,23.0
+ES,Eversource Energy (D/B/A),Utilities,Utilities - Regulated Electric,70.48,-2.0,18.6,447.0,26548037632,76.57,62.72,56.0,Hold,0.66,14.0,10.4,1.63,180.7,9.02,-85.4
+EXC,Exelonoration,Utilities,Utilities - Regulated Electric,45.41,-2.41,17.7,361.0,46994657280,50.65,39.73,52.0,Hold,0.34,25.9,10.2,1.56,176.53,9.06,-18.6
+EXPE,"Expedia Group,",Consumer Cyclical,Travel Services,267.63,-1.78,15.7,70.0,31753381888,342.0,185.34,52.5,Buy,1.39,16.2,13.0,19.42,194.99,76.75,14.9
+EXPD,Expeditors International of Was,Industrials,Integrated Freight & Logistics,189.21,0.18,24.0,86.0,24429031424,207.93,129.59,76.1,Hold,1.07,13.2,7.9,10.47,24.57,45.08,61.6
+EXR,Extra Space Storage,Real Estate,REIT - Industrial,158.45,-1.04,32.2,405.0,34970316800,163.18,125.71,87.4,Buy,1.09,3.5,29.5,2.58,102.98,7.7,50.3
+XOM,ExxonMobil Holdingsoration,Energy,Oil & Gas Integrated,166.35,0.67,17.1,259.0,678578683904,188.5,114.19,70.2,Buy,0.14,388.2,10.5,2.55,12.57,15.53,111.4
+FFIV,"F5,",Technology,Software - Infrastructure,316.74,1.61,25.3,0.0,17994543104,483.3,223.76,35.8,Hold,1.09,3.4,21.1,4.49,5.3,19.01,-1.0
+FDS,FactSet Research Systems,Financial Services,Financial Data & Stock Exchanges,328.78,-3.43,22.6,136.0,11596028928,348.0,185.0,88.2,Hold,0.69,2.5,21.5,5.79,77.05,25.47,-15.4
+FICO,Fair Isaacoration,Technology,Software - Application,678.25,-4.12,18.7,0.0,14648596480,1858.91,586.05,7.2,Buy,1.34,2.5,32.9,,,,26.6
+FAST,Fastenal Company,Industrials,Industrial Distribution,52.66,-0.45,42.8,197.0,60416897024,54.96,38.97,85.6,Hold,0.66,9.1,15.6,14.56,10.89,35.26,20.7
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,112.14,-0.97,22.4,410.0,9803529216,128.21,95.14,51.4,Buy,0.95,1.4,32.6,3.13,141.6,12.94,6.9
+FDX,FedExoration,Industrials,Integrated Freight & Logistics,314.14,-0.84,16.9,154.0,73571393536,345.37,204.42386,77.8,Buy,1.31,94.7,4.7,2.13,98.73,14.85,-68.9
+FIS,Fidelity National Information S,Technology,Information Technology Services,28.77,-2.11,4.3,599.0,14840388608,68.37,28.5,0.7,Buy,0.85,12.9,26.8,0.92,128.43,23.04,38.0
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,53.31,-0.26,17.9,314.0,48173355008,59.5,40.68,67.1,Buy,0.99,11.2,23.0,1.55,,9.42,-1.1
+FSLR,"First Solar,",Technology,Solar,200.5,2.42,11.6,0.0,21549971456,320.95,165.86,22.3,Buy,1.71,5.0,37.1,1.98,2.99,18.71,25.0
+FE,FirstEnergy,Utilities,Utilities - Regulated Electric,46.06,-1.23,22.3,395.0,26663827456,52.34,42.67,35.1,Buy,0.37,16.0,7.5,2.06,207.27,10.04,26.3
 FI,FI,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-FMC,FMCoration,Basic Materials,Agricultural Inputs,6.33,-1.32,6.0,498.0,985462464,18.29,4.37,14.1,Hold,0.52,2.8,-151.2,,45224.21,-218.93,-80.5
-F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,12.59,-0.63,6.7,474.0,50274611200,17.78,11.11,22.2,Buy,1.91,187.0,-4.2,1.36,447.6,-18.43,-16.7
-FTNT,"Fortinet,",Technology,Software - Infrastructure,124.3,-3.94,40.6,0.0,91320745984,197.13,73.55,41.1,Hold,1.04,7.9,29.0,40.63,24.95,153.08,38.7
-FTV,Fortiveoration,Technology,Scientific & Technical Instruments,67.59,-1.09,32.0,41.0,20119277568,68.94,49.985,92.9,Hold,0.94,4.4,14.8,3.39,60.44,10.55,247.5
-FOXA,Foxoration,Communication Services,Entertainment,68.86,-1.13,14.7,83.0,29045245952,76.39,48.34,73.2,Buy,0.62,18.0,11.3,2.33,59.88,16.57,66.7
-FOX,Foxoration,Communication Services,Entertainment,61.28,-0.55,13.0,94.0,25847990272,68.175,44.08,71.4,N/A,0.62,18.0,11.3,2.07,59.88,16.57,66.7
-BEN,"Franklin Templeton,",Financial Services,Asset Management,33.22,-1.93,22.6,390.0,16875773952,36.28,21.11,79.8,Hold,1.6,9.3,8.7,1.44,24.8,7.89,106.7
-FCX,"Freeport-McMoRan,",Basic Materials,Copper,58.98,-5.78,24.8,96.0,84696309760,80.24,38.54,49.0,Buy,1.37,26.4,13.0,3.94,30.81,15.72,76.1
-GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,293.22,1.41,28.2,145.0,56502116352,314.28,186.67,83.5,Buy,0.9,7.9,25.6,5.92,2.35,22.38,34.6
-IT,"Gartner,",Technology,Information Technology Services,203.61,-1.73,14.6,0.0,12843994112,256.9,124.25,59.8,Hold,0.91,6.4,14.8,,,365.75,612.8
-GE,GE Aerospace,Industrials,Aerospace & Defense,321.62,-2.38,36.8,57.0,333706035200,388.84,268.91,44.0,Buy,1.41,52.6,17.3,18.97,115.99,50.17,8.9
-GEHC,GE HealthCare Technologies,Healthcare,Medical Devices,85.3,-0.6,18.0,19.0,38565093376,89.77,58.75,85.6,Buy,0.77,21.6,10.0,3.32,87.71,20.01,39.0
-GEV,GE Vernova,Industrials,Specialty Industrial Machinery,784.26,-5.83,20.6,24.0,207575646208,1195.94,530.16,38.2,Buy,1.06,44.0,23.5,18.24,29.89,93.04,193.3
-GEN,Gen Digital,Technology,Software - Infrastructure,30.95,0.21,15.7,162.0,18364862464,31.65,17.78,95.0,Buy,1.24,5.2,23.1,6.7,296.1,46.4,128.6
-GNRC,Generac Holdlings,Industrials,Specialty Industrial Machinery,177.44,-6.28,35.0,0.0,10467005440,296.44,134.8,26.4,Buy,1.84,4.6,6.5,3.47,47.19,10.64,63.4
-GD,General Dynamicsoration,Industrials,Aerospace & Defense,372.15,2.0,21.9,174.0,100563755008,400.0,306.77,70.1,Buy,0.3,56.5,8.2,3.68,33.09,18.01,15.7
-GIS,"General Mills,",Consumer Defensive,Packaged Foods,36.57,2.01,11.6,681.0,19553509376,49.59,31.18,29.3,Hold,-0.01,18.3,-4.9,2.62,182.42,-10.49,-66.7
-GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,90.73,-1.83,19.9,78.0,77034012672,93.7,67.06,88.9,Buy,1.42,187.0,2.1,1.23,202.59,6.28,176.3
-GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,128.22,1.44,493.1,336.0,17675687936,151.57,90.78,61.6,Buy,0.66,25.3,0.1,3.8,146.47,0.66,4.2
-GILD,"Gilead Sciences,",Healthcare,Drug Manufacturers - General,176.16,0.97,17.5,188.0,218504232960,176.58,116.88,99.3,Buy,0.37,31.0,-12.5,16.76,202.46,-22.45,-20.2
-GPN,Global Payments,Industrials,Specialty Business Services,96.85,0.79,45.5,104.0,25628291072,101.32,61.16,88.9,Buy,0.82,10.2,-9.2,1.11,98.27,2.43,-95.2
-GL,Globe Life,Financial Services,Insurance - Life,163.91,1.35,11.0,82.0,12596008960,191.55,129.21,55.7,Buy,0.46,6.3,18.9,2.05,55.67,,-2.3
-GDDY,GoDaddy,Technology,Software - Infrastructure,121.44,2.63,16.7,0.0,15379463168,133.875,71.59,80.0,Buy,0.94,5.2,18.6,,,,37.7
-GS,"Goldman Sachs Group, (The)",Financial Services,Capital Markets,885.75,-4.55,12.7,216.0,255480938496,1153.99,754.0,32.9,Buy,1.27,71.0,31.2,2.41,756.01,17.71,38.8
-HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,32.86,-0.42,13.8,206.0,27179372544,43.59,24.92,42.5,Buy,0.75,22.5,8.9,2.44,73.45,18.78,2400.0
-HIG,"The Hartford Insurance Group, I",Financial Services,Insurance - Diversified,141.01,2.1,9.4,194.0,37709299712,146.07,120.42,80.3,Buy,0.47,29.6,15.6,2.04,23.16,23.25,28.0
-HAS,"Hasbro,",Consumer Cyclical,Leisure,121.84,0.21,18.2,230.0,17040858112,124.0,74.78,95.6,Buy,0.36,5.2,18.4,18.69,410.35,139.78,68.9
-HCA,"HCA Healthcare,",Healthcare,Medical Care Facilities,519.23,1.67,17.2,61.0,108463243264,556.52,353.99,81.6,Buy,1.1,78.7,8.6,,,,4.5
-DOC,"Healthpeak Properties,",Real Estate,REIT - Healthcare Facilities,20.43,1.31,37.8,605.0,14487336960,22.95,15.7,65.3,Buy,0.98,3.1,12.3,1.79,89.5,4.42,16.3
-HSIC,"Henry Schein,",Healthcare,Medical Distribution,87.79,-0.51,24.1,0.0,9704178688,92.18,68.7,81.3,Buy,0.86,13.7,3.1,3.07,82.25,9.2,26.2
-HSY,The Hershey Company,Consumer Defensive,Confectioners,177.85,1.92,20.1,333.0,35745366016,239.48,156.16,26.0,Hold,0.07,12.3,14.6,7.33,111.37,38.0,111.8
+FMC,FMCoration,Basic Materials,Agricultural Inputs,5.72,-5.68,5.4,527.0,890571840,18.29,4.37,9.7,Hold,0.52,2.8,-151.2,,45224.21,-218.93,-80.5
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,12.54,0.04,6.6,479.0,50054979584,17.78,11.11,21.4,Buy,1.91,187.0,-4.2,1.36,447.6,-18.43,-16.7
+FTNT,"Fortinet,",Technology,Software - Infrastructure,123.64,0.92,40.4,0.0,90839515136,197.13,73.55,40.5,Hold,1.04,7.9,29.0,40.42,24.95,153.08,38.7
+FTV,Fortiveoration,Technology,Scientific & Technical Instruments,64.75,-1.02,30.7,43.0,19272478720,68.94,49.985,77.9,Hold,0.94,4.4,14.8,3.25,60.44,10.55,247.5
+FOXA,Foxoration,Communication Services,Entertainment,66.03,-2.43,14.0,86.0,27849439232,76.39,48.34,63.0,Buy,0.62,18.0,11.3,2.23,59.88,16.57,66.7
+FOX,Foxoration,Communication Services,Entertainment,58.71,-2.13,12.5,97.0,24763959296,68.175,44.08,60.7,N/A,0.62,18.0,11.3,1.99,59.88,16.57,66.7
+BEN,"Franklin Templeton,",Financial Services,Asset Management,32.79,1.75,22.3,410.0,16659842048,36.28,21.11,77.0,Hold,1.6,9.3,8.7,1.42,24.8,7.89,106.7
+FCX,"Freeport-McMoRan,",Basic Materials,Copper,59.31,2.44,24.9,104.0,85170200576,80.24,38.75,49.6,Buy,1.37,26.4,13.0,3.96,30.81,15.72,76.1
+GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,282.51,-1.36,27.1,147.0,54438350848,314.28,186.67,75.1,Buy,0.9,7.9,25.6,5.7,2.35,22.38,34.6
+IT,"Gartner,",Technology,Information Technology Services,189.7,-4.23,13.6,0.0,11966532608,256.9,124.25,49.3,Hold,0.91,6.4,14.8,,,365.75,612.8
+GE,GE Aerospace,Industrials,Aerospace & Defense,320.73,1.9,36.7,60.0,332772245504,388.84,268.91,43.2,Buy,1.41,52.6,17.3,18.92,115.99,50.17,8.9
+GEHC,GE HealthCare Technologies,Healthcare,Medical Devices,82.22,-1.83,17.4,19.0,37173641216,89.77,58.75,75.7,Buy,0.77,21.6,10.0,3.2,87.71,20.01,39.0
+GEV,GE Vernova,Industrials,Specialty Industrial Machinery,802.01,4.09,21.1,26.0,212273659904,1195.94,530.16,40.8,Buy,1.06,44.0,23.5,18.65,29.89,93.04,193.3
+GEN,Gen Digital,Technology,Software - Infrastructure,30.26,-1.11,15.4,163.0,17952534528,31.65,17.78,90.0,Buy,1.24,5.2,23.1,6.55,296.1,46.4,128.6
+GNRC,Generac Holdlings,Industrials,Specialty Industrial Machinery,179.44,4.13,35.4,0.0,10585278464,296.44,134.8,27.6,Buy,1.84,4.6,6.5,3.51,47.19,10.64,63.4
+GD,General Dynamicsoration,Industrials,Aerospace & Defense,353.12,-0.91,20.8,178.0,95421399040,400.0,306.77,49.7,Buy,0.3,56.5,8.2,3.49,33.09,18.01,15.7
+GIS,"General Mills,",Consumer Defensive,Packaged Foods,35.22,-3.4,11.2,669.0,18831681536,49.59,31.18,21.9,Hold,-0.01,18.3,-4.9,2.53,182.42,-10.49,-66.7
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,88.2,-1.26,19.3,81.0,74881794048,93.7,67.06,79.4,Buy,1.42,187.0,2.1,1.19,202.59,6.28,176.3
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,123.14,-1.04,473.6,342.0,16976657408,151.57,90.78,53.2,Buy,0.66,25.3,0.1,3.65,146.47,0.66,4.2
+GILD,"Gilead Sciences,",Healthcare,Drug Manufacturers - General,166.48,-0.65,16.5,196.0,206491566080,176.58,116.88,83.1,Buy,0.37,31.0,-12.5,15.84,202.46,-22.45,-20.2
+GPN,Global Payments,Industrials,Specialty Business Services,97.11,2.25,173.4,104.0,25698414592,101.32,61.16,89.5,Buy,0.82,10.2,-9.2,1.0,98.27,2.43,-95.2
+GL,Globe Life,Financial Services,Insurance - Life,158.25,-0.61,10.6,83.0,11937960960,191.55,129.21,46.6,Buy,0.46,6.3,18.9,1.82,52.09,19.26,-2.3
+GDDY,GoDaddy,Technology,Software - Infrastructure,118.43,-1.41,16.3,0.0,14998887424,133.34,71.59,75.9,Buy,0.94,5.2,18.6,,,,37.7
+GS,"Goldman Sachs Group, (The)",Financial Services,Capital Markets,884.07,1.74,12.7,230.0,254996365312,1153.99,754.0,32.5,Buy,1.27,71.0,31.2,2.41,756.01,17.71,38.8
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,32.18,0.8,13.5,213.0,26612871168,43.59,24.92,38.9,Buy,0.75,22.5,8.9,2.39,73.45,18.78,2400.0
+HIG,"The Hartford Insurance Group, I",Financial Services,Insurance - Diversified,135.29,-1.31,9.1,195.0,36178354176,146.07,120.42,58.0,Buy,0.47,29.6,15.6,1.96,23.16,23.25,28.0
+HAS,"Hasbro,",Consumer Cyclical,Leisure,119.64,0.08,17.8,234.0,16733160448,124.0,74.78,91.1,Buy,0.36,5.2,18.4,18.35,410.35,139.78,68.9
+HCA,"HCA Healthcare,",Healthcare,Medical Care Facilities,494.5,-2.56,16.4,61.0,103297335296,556.52,353.99,69.4,Buy,1.1,78.7,8.6,,,,4.5
+DOC,"Healthpeak Properties,",Real Estate,REIT - Healthcare Facilities,19.93,-0.94,36.9,606.0,14129318912,22.95,15.7,58.3,Buy,0.98,3.1,12.3,1.75,89.5,4.42,16.3
+HSIC,"Henry Schein,",Healthcare,Medical Distribution,85.77,0.54,23.5,0.0,9480890368,92.18,68.7,72.7,Buy,0.86,13.7,3.1,3.0,82.25,9.2,26.2
+HSY,The Hershey Company,Consumer Defensive,Confectioners,173.13,-2.42,19.6,327.0,34795732992,239.48,156.16,20.4,Hold,0.07,12.3,14.6,7.14,111.37,38.0,111.8
 HES,HES,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-HPE,Hewlett Packard Enterprise Comp,Technology,Communication Equipment,45.09,-9.97,23.2,114.0,59862028288,73.56,19.84,47.0,Buy,1.47,41.9,6.7,2.26,76.46,10.94,410.2
-HLT,Hilton Worldwide Holdings Common Stock,Consumer Cyclical,Lodging,373.25,-1.75,50.4,16.0,83049750528,381.34,263.66,93.1,Buy,1.07,5.2,32.8,,,,33.1
+HPE,Hewlett Packard Enterprise Comp,Technology,Communication Equipment,46.54,5.39,24.0,129.0,61780213760,73.56,19.84,49.7,Buy,1.47,41.9,6.7,2.33,76.46,10.94,410.2
+HLT,Hilton Worldwide Holdings Common Stock,Consumer Cyclical,Lodging,367.94,-0.46,49.7,16.0,81868251136,381.34,263.95,88.6,Buy,1.07,5.2,32.8,,,,33.1
 HOLX,HOLX,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-HD,"Home Depot, (The)",Consumer Cyclical,Home Improvement Retail,357.77,0.66,25.0,262.0,356948377600,397.63,277.15,66.9,Buy,0.95,169.2,8.4,21.49,380.26,104.3,4.6
-HON,Honeywell International,Industrials,Conglomerates,223.31,-2.26,11.1,123.0,70775873536,260.28317,195.86786,42.6,Buy,0.88,37.7,18.7,3.16,76.1,44.39,-63.6
-HRL,Hormel Foodsoration,Consumer Defensive,Packaged Foods,23.0,1.05,37.1,514.0,12658068480,26.6,18.96,52.9,Hold,0.26,12.1,2.8,1.61,36.33,4.29,-67.2
-HST,"Host Hotels & Resorts,",Real Estate,REIT - Hotel & Motel,25.24,-3.33,17.1,306.0,17534896128,26.18,16.62,90.2,Buy,1.11,6.2,16.5,2.71,85.3,15.56,8.4
-HWM,Howmet Aerospace,Industrials,Aerospace & Defense,209.99,-1.67,41.2,26.0,83504726016,310.0,183.52,20.9,Buy,1.29,9.7,21.1,14.49,80.2,37.65,49.5
-HPQ,HP,Technology,Computer Hardware,29.25,-2.29,11.2,401.0,26397224960,36.23,17.56,62.6,Hold,1.21,59.2,4.1,,,,-11.3
-HUBB,Hubbell,Industrials,Electrical Equipment & Parts,424.99,-3.03,24.9,139.0,22454097920,565.4999,403.82,13.1,Buy,0.84,6.6,13.8,5.47,128.87,23.43,3.6
-HUM,Humana,Healthcare,Healthcare Plans,421.06,0.87,39.8,85.0,50561011712,456.5,163.11,87.9,Buy,0.64,145.7,0.9,2.63,76.48,6.89,27.1
-HBAN,Huntington Bancsharesorpora,Financial Services,Banks - Regional,16.09,0.2,13.2,386.0,32433424384,19.46,14.82,27.4,Buy,0.98,9.8,25.4,1.11,,9.19,-19.5
-HII,"Huntington Ingalls Industries, ",Industrials,Aerospace & Defense,303.81,-0.06,16.4,186.0,11971758080,460.0,255.36,23.7,Buy,0.15,13.5,5.4,2.18,53.33,13.99,48.9
-IBM,International Business Machines,Technology,Information Technology Services,251.21,-1.22,21.4,266.0,237423804416,332.46,199.19,39.0,Buy,0.76,69.9,16.0,6.68,185.44,34.77,25.0
-IEX,IDEXoration,Industrials,Specialty Industrial Machinery,231.49,-0.94,32.2,125.0,17003220992,243.8,160.6,85.2,Buy,0.95,3.7,14.6,4.25,44.3,13.35,14.7
-IDXX,"IDEXX Laboratories,",Healthcare,Diagnostics & Research,685.76,-1.83,46.2,0.0,54028468224,769.98,500.61,68.7,Buy,1.54,4.7,25.4,28.91,52.05,68.93,17.9
-ITW,Illinois Tool Works,Industrials,Specialty Industrial Machinery,293.92,0.16,26.2,234.0,83530645504,303.16,238.82,85.6,Hold,0.94,16.6,19.4,26.59,298.28,101.65,6.8
-INCY,Incyteoration,Healthcare,Biotechnology,122.39,-0.38,62.4,0.0,24946040832,132.6,89.25,76.4,Buy,0.78,6.0,6.7,4.42,0.66,7.84,14.0
-IR,Ingersoll Rand,Industrials,Specialty Industrial Machinery,83.12,-1.26,23.5,10.0,31919724544,100.96,68.07,45.8,Buy,1.16,8.1,17.2,3.04,46.41,13.41,183.6
-PODD,Insuletoration,Healthcare,Medical Devices,163.15,-1.13,26.7,0.0,11315137536,354.88,126.4,16.1,Buy,1.05,3.1,12.3,7.58,71.4,26.02,328.6
-INTC,Inteloration,Technology,Semiconductors,53.37,-8.42,29.7,0.0,283634958336,142.35,32.89,18.7,Hold,2.43,59.9,-20.1,2.47,38.11,-9.62,-32.7
-ICE,Intercontinental Exchange,Financial Services,Financial Data & Stock Exchanges,175.94,0.58,24.0,119.0,98325553152,177.9,121.79,96.5,Buy,0.84,10.9,38.1,3.28,80.03,14.4,17.6
-IFF,International Flavors & Fragran,Basic Materials,Specialty Chemicals,88.33,0.76,252.4,183.0,22117687296,95.27,61.73,79.3,Buy,,10.0,1.8,1.67,50.53,-6.94,-27.9
-IP,International Paper Company,Consumer Cyclical,Packaging & Containers,35.04,-1.71,12.9,519.0,18556129280,50.25,29.26,27.5,Buy,0.94,24.2,-14.3,1.41,77.13,-22.3,-0.4
+HD,"Home Depot, (The)",Consumer Cyclical,Home Improvement Retail,341.29,-2.47,23.9,266.0,340501495808,397.63,277.15,53.2,Buy,0.95,169.2,8.4,20.5,380.26,104.3,4.6
+HON,Honeywell International,Industrials,Conglomerates,215.68,-0.05,10.7,130.0,68356034560,260.28317,195.86786,30.7,Buy,0.88,37.7,18.7,3.05,76.1,44.39,-63.6
+HRL,Hormel Foodsoration,Consumer Defensive,Packaged Foods,21.86,-3.27,35.3,518.0,12030668800,26.6,18.96,38.0,Hold,0.26,12.1,2.8,1.53,36.33,4.29,-67.2
+HST,"Host Hotels & Resorts,",Real Estate,REIT - Hotel & Motel,24.62,-0.04,18.2,325.0,17104165888,26.19,16.77,83.3,Buy,1.11,6.3,15.0,2.66,86.1,14.21,-56.5
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense,204.6,1.91,40.1,28.0,81363320832,310.0,183.52,16.7,Buy,1.29,9.7,21.1,14.12,80.2,37.65,49.5
+HPQ,HP,Technology,Computer Hardware,29.57,0.44,11.3,408.0,26665959424,36.23,17.56,64.3,Hold,1.21,59.2,4.1,,,,-11.3
+HUBB,Hubbell,Industrials,Electrical Equipment & Parts,429.81,2.63,25.3,145.0,22767675392,565.4999,403.82,16.1,Buy,0.84,6.6,13.8,5.55,128.87,23.43,3.6
+HUM,Humana,Healthcare,Healthcare Plans,431.48,4.78,40.8,86.0,51811651584,456.5,163.11,91.5,Buy,0.64,145.7,0.9,2.7,76.48,6.89,27.1
+HBAN,Huntington Bancsharesorpora,Financial Services,Banks - Regional,15.61,-0.03,12.8,397.0,31450118144,19.46,14.82,16.9,Buy,0.98,9.8,25.4,1.07,,9.19,-19.5
+HII,"Huntington Ingalls Industries, ",Industrials,Aerospace & Defense,288.51,-0.31,15.5,195.0,11369042944,460.0,255.36,16.2,Buy,0.15,13.5,5.4,2.07,53.33,13.99,48.9
+IBM,International Business Machines,Technology,Information Technology Services,243.19,-1.58,20.8,274.0,229848662016,332.46,199.19,33.0,Buy,0.76,69.9,16.0,6.47,185.44,34.77,25.0
+IEX,IDEXoration,Industrials,Specialty Industrial Machinery,224.81,0.99,31.2,131.0,16512556032,243.8,160.6,77.2,Buy,0.95,3.7,14.6,4.13,44.3,13.35,14.7
+IDXX,"IDEXX Laboratories,",Healthcare,Diagnostics & Research,664.35,-0.95,44.8,0.0,52341260288,769.98,500.61,60.8,Buy,1.54,4.7,25.4,28.0,52.05,68.93,17.9
+ITW,Illinois Tool Works,Industrials,Specialty Industrial Machinery,281.65,-1.32,25.1,241.0,80044924928,303.16,238.82,66.6,Hold,0.94,16.6,19.4,25.48,298.28,101.65,6.8
+INCY,Incyteoration,Healthcare,Biotechnology,117.26,-0.64,59.8,0.0,23901399040,132.6,89.25,64.6,Buy,0.78,6.0,6.7,4.24,0.66,7.84,14.0
+IR,Ingersoll Rand,Industrials,Specialty Industrial Machinery,82.32,0.57,23.3,10.0,31612508160,100.96,68.07,43.3,Buy,1.16,8.1,17.2,3.01,46.41,13.41,183.6
+PODD,Insuletoration,Healthcare,Medical Devices,149.69,-4.12,24.5,0.0,10384151552,354.88,126.4,10.2,Buy,1.05,3.2,13.4,6.58,65.76,28.93,63.7
+INTC,Inteloration,Technology,Semiconductors,56.27,7.69,31.3,0.0,298925162496,142.35,32.89,21.4,Hold,2.43,59.9,-20.1,2.6,38.11,-9.62,-32.7
+ICE,Intercontinental Exchange,Financial Services,Financial Data & Stock Exchanges,172.94,-0.61,23.6,120.0,96648978432,177.94,121.79,91.1,Buy,0.84,10.9,38.1,3.23,80.03,14.4,17.6
+IFF,International Flavors & Fragran,Basic Materials,Specialty Chemicals,83.4,-3.43,238.3,185.0,20882634752,95.27,61.73,64.6,Buy,0.88,10.9,1.7,1.58,51.38,-7.36,3.9
+IP,International Paper Company,Consumer Cyclical,Packaging & Containers,34.03,-0.6,12.5,540.0,18025021440,50.25,29.26,22.7,Buy,0.94,24.2,-14.3,1.37,78.75,-22.3,-0.4
 IPG,IPG,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-INTU,Intuit,Technology,Software - Application,357.21,0.16,21.7,155.0,95460704256,682.27,252.84,24.3,Buy,0.92,21.4,21.3,5.05,44.34,23.6,-1.4
-ISRG,"Intuitive Surgical,",Healthcare,Medical Instruments & Supplies,481.57,-0.11,58.2,0.0,170128113664,603.88,328.57,55.6,Buy,1.44,11.6,25.5,10.44,,17.93,-23.6
-IVZ,Invesco Ltd,Financial Services,Asset Management,28.16,-4.35,8.5,292.0,12377134080,33.66,21.82,53.5,Buy,1.65,7.1,-1.1,1.22,9.4,-0.58,-1.5
-INVH,Invitation Homes,Real Estate,REIT - Residential,28.0,1.58,24.6,435.0,16292306944,30.893,24.25,56.5,Buy,0.81,2.9,23.9,1.85,99.41,7.4,21.9
-IQV,"IQVIA Holdings,",Healthcare,Diagnostics & Research,263.92,0.05,32.1,0.0,43493191680,284.5,154.5,84.2,Buy,1.17,17.3,8.1,6.53,240.23,21.39,8.8
-IRM,Iron Mountainorporated (Del,Real Estate,REIT - Specialty,110.64,-6.75,79.0,291.0,32939327488,134.68,77.77,57.8,Buy,1.2,7.6,5.5,,,,18.5
+INTU,Intuit,Technology,Software - Application,343.26,-3.26,20.9,156.0,91732770816,682.27,252.84,21.1,Buy,0.92,21.4,21.3,4.85,44.34,23.6,-1.4
+ISRG,"Intuitive Surgical,",Healthcare,Medical Instruments & Supplies,462.05,-1.38,55.9,0.0,163232120832,603.88,328.57,48.5,Buy,1.44,11.6,25.5,10.02,,17.93,-23.6
+IVZ,Invesco Ltd,Financial Services,Asset Management,27.54,1.7,8.4,318.0,12104627200,33.66,21.82,48.3,Buy,1.65,7.1,-1.1,1.2,9.4,-0.58,-1.5
+INVH,Invitation Homes,Real Estate,REIT - Residential,27.2,-1.32,23.9,435.0,15821077504,30.893,24.25,44.3,Buy,0.81,2.9,23.9,1.79,99.41,7.4,21.9
+IQV,"IQVIA Holdings,",Healthcare,Diagnostics & Research,268.66,1.43,32.7,0.0,44275167232,284.5,154.5,87.8,Buy,1.17,17.3,8.1,6.65,240.23,21.39,8.8
+IRM,Iron Mountainorporated (Del,Real Estate,REIT - Specialty,105.73,0.22,75.5,328.0,31476119552,134.68,77.77,49.1,Buy,,7.8,5.9,,,,46.4
 JBAL,JBAL,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-JKHY,"Jack Henry & Associates,",Technology,Information Technology Services,184.46,2.96,25.3,136.0,12932508672,193.39,121.04,87.7,Buy,0.54,2.6,20.0,6.3,3.79,,15.7
-J,Jacobs Solutions,Industrials,Engineering & Construction,157.42,-1.68,52.3,90.0,18424217600,162.0,105.68,91.9,Buy,0.67,14.2,2.4,5.65,124.73,8.0,-25.4
-JBL,Jabil,Technology,Electronic Components,243.98,-5.64,25.0,12.0,25123710976,428.93,189.6,22.7,Buy,1.34,36.0,2.9,15.8,268.34,66.37,88.8
+JKHY,"Jack Henry & Associates,",Technology,Information Technology Services,174.71,-3.08,24.0,135.0,12249268224,193.39,121.04,74.2,Buy,0.54,2.6,20.0,5.97,3.79,,15.7
+J,Jacobs Solutions,Industrials,Engineering & Construction,146.72,-0.56,48.7,98.0,17171904512,162.0,105.68,72.9,Buy,0.67,14.2,2.4,5.26,124.73,8.0,-25.4
+JBL,Jabil,Technology,Electronic Components,243.32,2.94,25.0,14.0,25055750144,428.93,189.6,22.4,Buy,1.34,36.0,2.9,15.76,268.34,66.37,88.8
 JNPR,JNPR,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,347.67,-1.26,14.6,187.0,923275821056,366.5,279.1,78.5,Buy,1.02,190.7,34.6,2.63,,18.01,9.9
+JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,338.64,0.39,14.2,196.0,899295674368,366.5,279.1,68.1,Buy,1.02,190.7,34.6,2.56,,18.01,9.9
 JNPR,JNPR,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
 K,K,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
 KVUE,Kenvue,Consumer Defensive,Household & Personal Products,19.31,-1.28,21.9,435.0,37109346304,20.13,15.94,80.4,Hold,0.4,15.5,10.9,3.65,82.08,16.25,6.0
-KDP,Keurig Dr Pepper,Consumer Defensive,Beverages - Non-Alcoholic,37.59,2.17,33.9,250.0,51155972096,37.645,24.88,99.6,Buy,0.35,23.1,7.1,2.01,96.17,6.01,21.1
-KEY,KeyCorp,Financial Services,Banks - Regional,21.61,0.26,11.9,381.0,22814443520,24.07,16.91,65.6,Buy,1.07,7.6,28.0,1.44,,11.17,24.4
-KEYS,Keysight Technologies,Technology,Scientific & Technical Instruments,266.25,-6.86,36.0,0.0,45327667200,389.93,167.23,44.5,Buy,1.21,6.6,19.1,6.9,42.09,20.9,109.1
-KMB,Kimberly-Clarkoration,Consumer Defensive,Household & Personal Products,111.07,2.1,21.9,471.0,68156981248,116.82,92.42,76.4,Buy,0.28,16.6,11.8,21.11,348.93,104.91,-32.3
-KIM,Kimco Realtyoration (HC),Real Estate,REIT - Retail,26.15,1.04,24.4,433.0,17376409600,26.65,19.76,92.7,Buy,0.93,2.2,34.1,1.71,83.24,7.2,113.7
-KMI,"Kinder Morgan,",Energy,Oil & Gas Midstream,31.77,0.79,19.6,378.0,70774513664,34.81,25.92,65.8,Buy,0.57,18.3,19.6,2.24,101.74,11.43,21.6
-KLAC,KLAoration,Technology,Semiconductor Equipment & Materials,137.99,-7.86,34.6,61.0,179795787776,307.37,107.196,15.4,Buy,1.5,14.5,36.2,27.57,91.86,91.38,38.8
-KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,25.25,-0.73,12.1,629.0,29947977728,28.09,21.035,59.8,Hold,,24.8,-14.0,0.83,49.88,-8.95,-11.7
-KR,Kroger Company (The),Consumer Defensive,Grocery Stores,71.19,3.22,39.6,226.0,42044010496,76.58,54.15,76.0,Buy,0.36,149.3,0.7,7.27,413.24,14.44,15.3
-LHX,"L3Harris Technologies,",Industrials,Aerospace & Defense,261.88,0.83,24.4,193.0,48763183104,379.23,232.34,20.1,Buy,0.46,23.3,8.8,2.41,51.8,10.03,33.3
-LH,Labcorp Holdings,Healthcare,Diagnostics & Research,369.1,0.35,30.2,78.0,29962799104,373.34,244.52,96.7,Buy,0.83,14.6,6.9,3.39,77.25,11.44,3.2
-LRCX,Lam Researchoration,Technology,Semiconductor Equipment & Materials,198.85,-10.2,29.6,60.0,248851988480,438.5,135.5,20.9,Buy,2.01,26.1,32.3,17.86,26.86,70.12,76.6
-LW,"Lamb Weston Holdings,",Consumer Defensive,Packaged Foods,56.09,-0.89,30.7,269.0,7728794624,63.07,37.62,72.6,N/A,0.47,6.6,3.8,4.28,219.0,14.17,-54.3
-LVS,Las Vegas Sands,Consumer Cyclical,Resorts & Casinos,40.98,0.59,16.8,295.0,26542794752,70.45,35.03,16.8,Buy,0.75,13.6,11.8,,,207.08,-22.0
-LDOS,"Leidos Holdings,",Technology,Information Technology Services,136.52,0.62,12.2,127.0,16654716928,205.0,98.86,35.5,Buy,0.54,17.8,8.0,3.22,125.63,28.27,16.3
-LEN,Lennaroration,Consumer Cyclical,Residential Construction,92.33,0.15,17.5,217.0,21965330432,133.76,71.78,33.2,Sell,1.38,32.0,4.1,1.02,28.2,5.96,-48.2
-LIN,Linde plc,Basic Materials,Specialty Chemicals,529.9,0.98,35.2,122.0,243270795264,548.2,387.78,88.6,Buy,0.68,36.2,19.3,6.17,65.14,17.72,-10.5
-LYV,"Live Nation Entertainment,",Communication Services,Entertainment,183.82,0.35,96.6,0.0,42822619136,189.25,125.34,91.5,Buy,1.16,26.3,0.5,514.9,620.21,17.68,156.2
-LKQ,LKQoration,Consumer Cyclical,Auto Parts,20.62,-1.53,20.2,573.0,5204448768,37.13,16.85,18.6,Buy,0.86,13.5,1.9,0.83,80.37,4.05,-5.1
-LMT,Lockheed Martinoration,Industrials,Aerospace & Defense,601.68,1.12,21.4,242.0,138990862336,692.0,437.25,64.5,Buy,0.08,79.1,8.2,13.75,203.7,80.19,14.7
-L,Loewsoration,Financial Services,Insurance - Property & Casualty,114.28,2.34,15.8,22.0,23110299648,121.01,100.98,66.4,N/A,0.49,18.8,7.9,1.27,46.69,8.21,-38.4
-LOW,"Lowe's Companies,",Consumer Cyclical,Home Improvement Retail,232.31,1.28,19.6,218.0,130341265408,293.06,178.45,47.0,Buy,0.81,90.4,7.3,,,,8.3
-LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,110.8,-1.12,9.1,0.0,12833519616,225.98,90.38,15.1,Hold,0.84,11.1,12.8,2.58,44.69,30.9,-5.9
-LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,64.09,1.8,15.5,438.0,20718227456,83.94,41.58,53.2,Hold,0.32,32.0,4.1,1.84,120.55,12.18,10.0
-MTB,M&T Bankoration,Financial Services,Banks - Regional,225.96,0.59,11.8,267.0,32472260608,255.95,179.75,60.6,Hold,0.64,9.5,31.9,1.29,,10.6,4.6
+KDP,Keurig Dr Pepper,Consumer Defensive,Beverages - Non-Alcoholic,36.13,-2.06,32.5,249.0,49170767872,37.89,24.88,86.5,Buy,0.35,23.1,7.1,1.93,96.17,6.01,21.1
+KEY,KeyCorp,Financial Services,Banks - Regional,20.91,-0.24,11.5,391.0,22080536576,24.07,16.91,55.9,Buy,1.07,7.6,28.0,1.4,,11.17,24.4
+KEYS,Keysight Technologies,Technology,Scientific & Technical Instruments,272.29,4.48,36.8,0.0,46355943424,389.93,167.23,47.2,Buy,1.21,6.6,19.1,7.06,42.09,20.9,109.1
+KMB,Kimberly-Clarkoration,Consumer Defensive,Household & Personal Products,108.35,-1.91,20.7,464.0,66487877632,116.82,92.42,65.3,Buy,0.28,16.6,19.9,12.29,211.87,78.38,300.7
+KIM,Kimco Realtyoration (HC),Real Estate,REIT - Retail,25.36,-1.03,23.7,437.0,16854785024,26.65,19.76,81.3,Buy,0.93,2.2,34.1,1.66,83.24,7.2,113.7
+KMI,"Kinder Morgan,",Energy,Oil & Gas Midstream,30.16,-0.1,18.6,394.0,67187892224,34.81,26.04,47.0,Buy,0.57,18.3,19.6,2.13,101.74,11.43,21.6
+KLAC,KLAoration,Technology,Semiconductor Equipment & Materials,141.35,8.9,35.4,71.0,184180244480,307.37,107.196,17.1,Buy,1.5,14.5,36.2,28.24,91.86,91.38,38.8
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,24.5,-3.24,11.8,632.0,28991971328,28.09,21.035,49.1,Hold,0.1,24.8,-14.0,0.81,49.88,-8.95,-11.7
+KR,Kroger Company (The),Consumer Defensive,Grocery Stores,67.73,-2.45,37.6,225.0,40000573440,76.58,54.15,60.5,Buy,0.36,149.3,0.7,6.91,413.24,14.44,15.3
+LHX,"L3Harris Technologies,",Industrials,Aerospace & Defense,257.42,-0.27,24.0,194.0,47931797504,379.23,232.34,17.1,Buy,0.46,23.3,8.8,2.37,51.8,10.03,33.3
+LH,Labcorp Holdings,Healthcare,Diagnostics & Research,362.19,-0.31,29.7,79.0,29409828864,373.34,244.52,91.3,Buy,0.83,14.6,6.9,3.32,77.25,11.44,3.2
+LRCX,Lam Researchoration,Technology,Semiconductor Equipment & Materials,205.56,10.99,30.6,71.0,257236533248,438.5,135.5,23.1,Buy,2.01,26.1,32.3,18.46,26.86,70.12,76.6
+LW,"Lamb Weston Holdings,",Consumer Defensive,Packaged Foods,53.7,-1.84,29.3,276.0,7398120960,62.868,37.62,63.7,N/A,0.47,6.6,3.8,4.09,219.0,14.17,-54.3
+LVS,Las Vegas Sands,Consumer Cyclical,Resorts & Casinos,40.32,-1.47,16.5,293.0,26115311616,70.45,35.03,14.9,Buy,0.75,13.6,11.8,,,207.08,-22.0
+LDOS,"Leidos Holdings,",Technology,Information Technology Services,132.26,-2.61,11.8,127.0,16135017472,205.0,98.86,31.5,Buy,0.54,17.8,8.0,3.12,125.63,28.27,16.3
+LEN,Lennaroration,Consumer Cyclical,Residential Construction,89.48,-2.3,16.9,218.0,21287313408,133.76,71.78,28.6,Sell,1.38,32.0,4.1,0.99,28.2,5.96,-48.2
+LIN,Linde plc,Basic Materials,Specialty Chemicals,514.54,-1.28,34.2,123.0,236219252736,548.2,387.78,79.0,Buy,0.68,36.2,19.3,5.99,65.14,17.72,-10.5
+LYV,"Live Nation Entertainment,",Communication Services,Entertainment,176.5,-2.62,92.8,0.0,41117351936,189.25,125.34,80.1,Buy,,27.9,0.5,91.07,510.0,21.01,131.2
+LKQ,LKQoration,Consumer Cyclical,Auto Parts,20.02,-2.55,19.6,584.0,5051873792,37.13,16.85,15.6,Buy,0.86,13.5,1.9,0.8,80.37,4.05,-5.1
+LMT,Lockheed Martinoration,Industrials,Aerospace & Defense,568.43,-1.34,20.2,250.0,131309993984,692.0,437.25,51.5,Buy,0.08,79.1,8.2,12.99,203.7,80.19,14.7
+L,Loewsoration,Financial Services,Insurance - Property & Casualty,109.6,-1.38,15.2,22.0,22163886080,121.01,101.08,42.7,N/A,0.49,18.8,7.9,1.21,46.69,8.21,-38.4
+LOW,"Lowe's Companies,",Consumer Cyclical,Home Improvement Retail,222.06,-2.28,18.8,220.0,124590465024,293.06,178.45,38.1,Buy,0.81,90.4,7.3,,,,8.3
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,110.67,-0.98,9.1,0.0,12818472960,225.98,90.38,15.0,Hold,0.84,11.1,12.8,2.58,44.69,30.9,-5.9
+LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,61.17,-0.74,14.8,448.0,19774359552,83.94,41.58,46.3,Hold,0.32,32.0,4.1,1.76,120.55,12.18,10.0
+MTB,M&T Bankoration,Financial Services,Banks - Regional,219.14,-0.29,11.4,273.0,31492171776,255.95,179.75,51.7,Hold,0.64,9.5,31.9,1.25,,10.6,4.6
 MRO,MRO,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-MPC,Marathon Petroleumoration,Energy,Oil & Gas Refining & Marketing,393.95,0.32,7.8,112.0,107265605632,493.98,161.93,69.9,Buy,0.51,175.4,8.3,4.67,115.42,60.46,489.6
-MKTX,"MarketAxess Holdings,",Financial Services,Capital Markets,165.7,0.05,20.3,188.0,5832175104,195.97,108.75,65.3,Hold,0.8,0.9,33.5,4.58,11.87,21.85,-16.9
-MAR,Marriott International,Consumer Cyclical,Lodging,424.59,-0.07,42.3,69.0,109333790720,433.3,279.87,94.3,Buy,1.14,7.6,35.0,,,,13.9
+MPC,Marathon Petroleumoration,Energy,Oil & Gas Refining & Marketing,378.24,0.24,7.5,117.0,102986678272,493.98,161.93,65.1,Buy,0.51,175.4,8.3,4.48,115.42,60.46,489.6
+MKTX,"MarketAxess Holdings,",Financial Services,Capital Markets,165.6,0.04,20.3,188.0,5828656128,195.97,108.75,65.2,Hold,0.8,0.9,33.5,4.57,11.87,21.85,-16.9
+MAR,Marriott International,Consumer Cyclical,Lodging,415.09,-0.52,41.4,70.0,106887503872,433.3,280.99,88.0,Buy,1.14,7.6,35.0,,,,13.9
 MMC,MMC,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-MLM,"Martin Marietta Materials,",Basic Materials,Building Materials,549.44,-1.28,41.0,60.0,39020892160,710.97,464.92,34.4,Buy,,7.2,31.9,2.02,72.61,6.02,-42.5
-MAS,Mascooration,Industrials,Building Products & Equipment,86.03,-0.91,18.7,147.0,16583925760,87.86,58.16,93.8,Buy,1.21,7.7,12.1,,,,30.0
-MA,Mastercardorporated,Financial Services,Credit Services,676.22,0.53,35.4,52.0,589102383104,681.99,464.52,97.3,Buy,0.77,36.3,46.7,87.33,355.16,231.37,21.7
-MTCH,"Match Group,",Communication Services,Internet Content & Information,39.66,-1.37,13.5,199.0,9023818752,46.67,28.81,60.8,Buy,1.46,3.5,20.7,,,,16.9
-MKC,"McCormick & Company,orporat",Consumer Defensive,Packaged Foods,50.83,0.69,9.2,380.0,13676548096,72.41,43.25,26.0,Buy,0.67,7.7,19.4,1.95,66.14,22.62,-57.1
-MCD,McDonald'soration,Consumer Cyclical,Restaurants,281.93,0.61,22.3,276.0,199502544896,341.75,229.2,46.8,Buy,,27.8,32.4,,,,10.4
-MCK,McKessonoration,Healthcare,Medical Distribution,1097.63,2.64,28.3,35.0,127973662720,1121.5,723.68,94.0,Buy,0.28,411.0,1.1,,,,-17.6
-MDT,Medtronic plc.,Healthcare,Medical Devices,105.74,0.74,26.0,274.0,135256039424,106.33,73.31,98.2,Buy,0.57,37.5,13.9,2.69,55.37,10.65,40.7
-MRK,"Merck & Company,",Healthcare,Drug Manufacturers - General,152.81,1.63,154.4,226.0,377008488448,156.92,84.35,94.3,Buy,0.12,67.4,3.6,9.0,128.41,,-12.0
-META,"Meta Platforms,",Communication Services,Internet Content & Information,599.43,-4.85,20.5,33.0,1532642459648,779.82,520.26,30.5,Buy,1.28,241.6,31.1,5.62,42.16,32.26,264.8
-MET,"MetLife,",Financial Services,Insurance - Life,105.08,2.12,20.1,230.0,66772738048,106.719,67.33,95.8,N/A,0.77,79.4,4.6,2.42,179.93,13.09,5.8
-MTD,"Mettler-Toledo International, I",Healthcare,Diagnostics & Research,1708.9,-0.83,38.5,0.0,34240477184,1759.475,1023.05,93.1,Hold,1.17,4.1,21.9,2670.16,16668.45,,18.3
-MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,32.09,-2.22,12.3,0.0,8119108608,51.59,26.71,21.6,Buy,1.32,17.7,3.9,3.22,880.33,26.93,-0.9
-MCHP,Microchip Technologyorporat,Technology,Semiconductors,72.59,-3.65,106.7,242.0,39416999936,105.91,48.52,41.9,Buy,1.85,5.1,9.3,6.11,83.69,7.19,38.0
-MU,"Micron Technology,",Technology,Semiconductors,694.43,-12.68,9.3,8.0,785694195712,1255.0,192.59,47.2,Buy,2.4,133.2,63.8,5.68,3.74,88.26,1059.5
-MSFT,Microsoftoration,Technology,Software - Infrastructure,544.21,-2.09,28.4,71.0,4041409560576,559.15,349.2,92.9,Buy,1.04,346.4,41.2,8.59,28.46,34.22,32.3
-MAA,Mid-America Apartment Communiti,Real Estate,REIT - Residential,123.89,1.43,37.5,501.0,14738554880,144.41,113.95,32.6,Hold,0.7,2.2,17.4,2.72,108.0,6.91,-14.9
-MRNA,"Moderna,",Healthcare,Biotechnology,246.27,-4.69,,0.0,98319826944,260.67,22.28,94.0,Hold,1.17,2.2,-141.4,14.53,19.04,-39.0,2.1
-MHK,"Mohawk Industries,",Consumer Cyclical,"Furnishings, Fixtures & Appliances",151.18,-1.42,17.8,0.0,8788616192,155.87,92.99,92.5,Buy,1.18,11.2,4.6,1.07,26.6,6.23,55.4
-MOH,Molina Healthcare,Healthcare,Healthcare Plans,228.82,1.06,24.0,0.0,11898640384,244.89,121.06,87.0,Hold,0.74,42.1,-0.1,2.86,95.07,-1.15,-51.5
-TAP,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,43.14,0.0,9.0,445.0,8043622912,54.82,35.52,39.5,Hold,0.45,11.1,-20.8,0.8,76.03,-19.47,-42.3
-MDLZ,"Mondelez International,",Consumer Defensive,Confectioners,68.63,1.86,21.6,309.0,86874480640,68.63,51.2,100.0,Buy,0.36,39.9,10.2,3.28,83.78,15.48,78.9
-MPWR,"Monolithic Power Systems,",Technology,Semiconductors,1182.39,-6.24,64.8,63.0,57662795776,1714.09,833.18,39.6,Buy,1.73,3.7,23.9,15.45,0.57,24.47,47.3
-MNST,Monster Beverageoration,Consumer Defensive,Beverages - Non-Alcoholic,49.02,0.55,45.4,0.0,96032718848,50.17,32.94,93.3,Buy,0.51,9.2,23.1,10.26,0.99,25.7,18.0
-MCO,Moody'soration,Financial Services,Financial Data & Stock Exchanges,529.94,0.3,32.3,78.0,91374419968,546.88,402.28,88.3,Buy,1.3,8.2,35.3,27.96,223.27,76.74,17.8
-MS,Morgan Stanley,Financial Services,Capital Markets,187.35,-3.41,14.8,237.0,292827136000,232.25,152.8,43.5,Buy,1.22,79.8,25.6,2.76,517.28,,8.2
-MOS,Mosaic Company (The),Basic Materials,Agricultural Inputs,21.91,1.36,14.4,407.0,6966683648,32.25,16.99,32.3,Buy,0.86,11.9,-9.4,0.62,51.52,-9.04,-10.2
-MSI,"Motorola Solutions,",Technology,Communication Equipment,533.51,7.35,42.0,97.0,88292704256,543.065,359.36,94.8,Buy,0.87,12.2,17.4,36.68,357.85,91.57,9.5
-MSCI,MSCI,Financial Services,Financial Data & Stock Exchanges,677.75,0.51,35.8,122.0,49272426496,681.04,501.08,98.2,Buy,1.19,3.4,40.3,,,,14.4
-NDAQ,"Nasdaq,",Financial Services,Financial Data & Stock Exchanges,109.49,-0.19,29.9,106.0,61202206720,111.25,76.55,94.9,Buy,0.96,5.8,36.1,5.1,77.44,17.33,31.5
-NTAP,"NetApp,",Technology,Software - Infrastructure,174.19,-7.18,24.6,111.0,34214344704,240.87,93.69,54.7,Buy,1.51,7.4,19.2,22.84,169.5,114.82,63.5
-NFLX,"Netflix,",Communication Services,Entertainment,65.96,-0.64,19.1,0.0,274695094272,116.733,61.39,8.3,Buy,1.61,49.7,29.7,9.25,59.86,53.46,47.5
-NEM,Newmontoration,Basic Materials,Gold,117.85,-0.22,13.7,88.0,122500096000,135.29,81.34,67.7,Buy,0.57,26.6,34.7,3.45,15.58,27.26,40.7
-NWSA,Newsoration,Communication Services,Entertainment,27.88,-8.79,27.1,66.0,14994873344,31.66,22.2,60.0,Buy,1.01,9.0,6.3,1.78,31.56,7.98,-74.9
-NWS,Newsoration,Communication Services,Entertainment,30.44,-8.83,29.6,60.0,16374670336,35.76,25.49,48.2,Buy,1.01,9.0,6.3,1.94,31.56,7.98,-74.9
-NEE,"NextEra Energy,",Utilities,Utilities - Regulated Electric,89.24,0.89,16.1,282.0,187163590656,98.75,74.41,60.9,Buy,0.6,28.8,40.4,3.04,153.25,14.06,93.2
-NKE,"Nike,",Consumer Cyclical,Footwear & Accessories,39.85,-1.58,19.2,405.0,59189706752,69.14,31.97,21.2,Hold,1.03,45.9,6.7,3.88,73.09,21.56,-2.1
-NI,NiSource,Utilities,Utilities - Regulated Gas,45.69,0.88,23.4,265.0,21916059648,49.21,38.42,67.4,Buy,0.54,7.0,13.5,2.29,153.1,8.71,34.6
-NDSN,Nordsonoration,Industrials,Specialty Industrial Machinery,326.11,-1.39,33.0,114.0,18164119552,339.12,223.29,88.8,N/A,0.99,3.0,18.6,5.56,55.62,17.76,23.0
-NSC,Norfolk Southernoration,Industrials,Railroads,339.83,-1.25,28.5,157.0,76331483136,358.6,277.8,76.8,Hold,1.18,13.0,20.7,4.56,102.49,16.84,6.7
-NTRS,Northern Trustoration,Financial Services,Asset Management,176.79,-0.69,13.9,198.0,32020252672,195.78,121.53,74.4,Hold,1.21,9.3,26.0,2.57,,18.44,48.5
-NOC,Northrop Grummanoration,Industrials,Aerospace & Defense,536.86,2.19,16.9,188.0,76268740608,774.0,470.06,22.0,Buy,-0.14,43.6,10.4,4.08,93.13,26.07,2.9
-NCLH,Norwegian Cruise Line Holdings ,Consumer Cyclical,Travel Services,17.8,-4.27,9.8,0.0,8177399808,25.13,13.63,36.3,Buy,1.96,10.2,8.2,2.6,508.96,31.18,24.3
-NRG,"NRG Energy,",Utilities,Utilities - Independent Power Producers,82.19,-1.28,21.5,228.0,17276147712,189.96,80.36,1.7,Buy,1.2,33.1,2.6,4.11,483.36,23.77,11.0
-NUE,Nucororation,Basic Materials,Steel,256.89,-4.11,16.4,84.0,58282098688,287.7,140.93,79.0,Buy,1.81,38.8,9.3,2.55,29.44,17.58,120.5
-NVDA,NVIDIAoration,Technology,Semiconductors,186.72,-6.7,23.6,50.0,4508244508672,243.37,164.27,28.4,Buy,2.25,303.0,63.7,19.69,16.97,117.21,127.8
-NVR,"NVR,",Consumer Cyclical,Residential Construction,6412.21,0.55,17.7,0.0,17172879360,8200.0,5501.01,33.8,Hold,0.94,9.4,11.1,4.94,31.08,28.3,-20.4
-NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,256.11,-3.36,20.2,153.0,64553287680,339.95,183.0,46.6,Buy,1.86,13.8,23.4,5.34,88.07,28.67,40.3
-ORLY,"O'Reilly Automotive,",Consumer Cyclical,Auto Parts,93.62,1.39,28.7,0.0,75327356928,102.46,82.59,55.5,Buy,0.55,19.0,14.3,,,,13.4
-OXY,Occidental Petroleumoratio,Energy,Oil & Gas E&P,58.08,1.31,16.5,195.0,58058940416,67.45,38.8,67.3,Buy,0.15,23.9,30.3,1.74,34.51,10.63,964.9
-ODFL,"Old Dominion Freight Line,",Industrials,Trucking,181.21,1.01,32.5,65.0,37685936128,252.03,126.01,43.8,Buy,1.15,5.8,20.1,8.03,0.43,26.01,28.9
-OMC,Omnicom Group,Communication Services,Advertising Agencies,88.84,1.52,89.7,366.0,24372893696,89.57,66.33,96.9,Buy,0.74,24.8,2.8,2.44,107.25,9.94,36.0
-ON,ON Semiconductororation,Technology,Semiconductors,66.48,-6.68,38.9,0.0,25879633920,134.92,44.56,24.3,Buy,2.15,6.4,10.8,3.42,62.1,8.91,26.1
-OKE,"ONEOK,",Energy,Oil & Gas Midstream,90.04,1.63,14.0,483.0,56765759488,99.85,66.93,70.2,Buy,0.74,43.2,9.4,2.43,87.73,15.02,43.0
-ORCL,Oracleoration,Technology,Software - Infrastructure,118.0,-4.64,18.5,162.0,367873982464,250.25,114.5,2.6,Buy,1.78,71.8,26.4,5.77,251.72,41.19,54.5
-OTIS,Otis Worldwideoration,Industrials,Specialty Industrial Machinery,79.69,-0.12,19.8,221.0,30340724736,94.565,63.575,52.0,Buy,0.87,15.1,10.3,,,,13.7
-PCAR,PACCAR,Industrials,Farm & Heavy Construction Machinery,107.29,1.06,20.5,132.0,56488759296,139.24,93.86,29.6,Buy,0.96,29.1,9.5,2.7,72.15,13.71,43.6
-PKG,Packagingoration of Americ,Consumer Cyclical,Packaging & Containers,259.7,0.2,32.0,232.0,23138828288,262.59,191.5,95.9,Buy,0.77,9.8,7.4,4.93,94.47,,16.7
-PANW,"Palo Alto Networks,",Technology,Software - Infrastructure,317.61,-8.74,794.0,0.0,259945807872,432.33,139.57,60.8,Buy,0.97,11.5,2.7,9.42,9.34,1.74,34.5
-PH,Parker-Hannifinoration,Industrials,Specialty Industrial Machinery,925.88,1.72,32.5,88.0,116764966912,1099.94,806.22,40.7,Buy,1.15,21.5,17.0,7.58,56.66,25.08,19.3
-PAYX,"Paychex,",Technology,Software - Application,120.94,1.88,24.0,401.0,43052281856,127.98,85.45,83.4,Hold,0.8,6.6,27.4,11.62,124.7,47.05,13.9
-PAYC,"Paycom Software,",Technology,Software - Application,260.47,-2.87,27.6,56.0,11739804672,275.22,104.9,91.3,Hold,0.73,2.1,22.8,19.83,171.97,41.09,48.1
-PYPL,"PayPal Holdings,",Financial Services,Credit Services,59.11,-1.81,11.3,93.0,49100214272,68.07,38.46,69.7,Hold,1.32,34.3,13.8,2.54,73.15,23.82,-3.8
-PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,71.9,-0.18,19.6,150.0,11479172096,109.89,51.13,35.3,Buy,1.01,4.0,15.4,2.97,42.47,15.6,-18.8
-PEP,"Pepsico,",Consumer Defensive,Beverages - Non-Alcoholic,144.7,1.6,18.2,416.0,197188632576,171.48,123.47,44.2,Hold,0.32,98.2,11.1,8.85,230.72,52.19,17.4
-PFE,"Pfizer,",Healthcare,Drug Manufacturers - General,31.38,1.9,44.8,559.0,178832916480,31.44,23.62,99.2,Buy,0.3,63.6,6.3,2.1,74.25,,-9.7
-PCG,Pacific Gas & Electric Co.,Utilities,Utilities - Regulated Electric,13.46,0.41,10.0,149.0,40396849152,19.16,11.77,22.8,Buy,0.18,25.8,11.6,0.9,188.02,8.89,-8.9
-PM,Philip Morris International,Consumer Defensive,Tobacco,210.34,-0.45,30.7,303.0,327830962176,214.35,146.35,94.1,Buy,0.35,43.1,24.8,,,,-4.8
-PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,261.12,0.58,8.4,205.0,101857640448,299.39,127.16,77.8,Buy,0.67,168.2,7.5,2.97,52.19,39.84,4299.0
-PNW,Pinnacle West Capitalorati,Utilities,Utilities - Regulated Electric,106.03,0.44,19.9,350.0,12850963456,111.16,86.18,79.5,Buy,0.47,5.7,11.6,1.72,225.58,9.09,3.0
+MLM,"Martin Marietta Materials,",Basic Materials,Building Materials,521.53,-1.19,39.0,64.0,37125632000,710.97,464.92,23.0,Buy,1.03,7.2,31.9,2.1,75.02,6.02,-42.5
+MAS,Mascooration,Industrials,Building Products & Equipment,82.39,-1.34,17.9,153.0,15883209728,87.86,58.16,81.6,Buy,1.21,7.7,12.1,,,,30.0
+MA,Mastercardorporated,Financial Services,Credit Services,651.48,-0.68,34.1,53.0,567553818624,681.99,464.52,86.0,Buy,0.77,36.3,46.7,84.14,355.16,231.37,21.7
+MTCH,"Match Group,",Communication Services,Internet Content & Information,39.34,0.46,13.4,204.0,8951009280,46.67,28.81,59.0,Buy,1.46,3.5,20.7,,,,16.9
+MKC,"McCormick & Company,orporat",Consumer Defensive,Packaged Foods,48.05,-4.01,8.7,384.0,12929893376,72.41,43.25,16.5,Buy,0.67,7.7,19.4,1.85,66.14,22.62,-57.1
+MCD,McDonald'soration,Consumer Cyclical,Restaurants,272.05,-2.15,21.5,278.0,192513867776,341.75,229.2,38.1,Buy,0.43,27.8,32.4,,,,10.4
+MCK,McKessonoration,Healthcare,Medical Distribution,1060.81,-1.04,27.4,35.0,122477592576,1121.5,723.68,84.7,Buy,0.28,418.8,1.1,,,,17.0
+MDT,Medtronic plc.,Healthcare,Medical Devices,102.8,-1.95,25.3,275.0,131488980992,106.33,73.31,89.3,Buy,0.57,37.5,13.9,2.62,55.37,10.65,40.7
+MRK,"Merck & Company,",Healthcare,Drug Manufacturers - General,145.64,-0.88,147.1,231.0,359040122880,156.92,85.24,84.3,Buy,0.12,67.4,3.6,8.0,119.93,5.06,-12.0
+META,"Meta Platforms,",Communication Services,Internet Content & Information,617.54,2.06,21.1,35.0,1578946658304,779.82,520.26,37.5,Buy,1.28,241.6,31.1,5.79,42.16,32.26,264.8
+MET,"MetLife,",Financial Services,Insurance - Life,99.02,-0.73,20.5,238.0,62491521024,106.72,67.33,80.5,N/A,0.77,82.6,6.2,2.81,177.99,19.92,200.8
+MTD,"Mettler-Toledo International, I",Healthcare,Diagnostics & Research,1737.65,3.49,39.2,0.0,34816528384,1759.48,1023.05,97.0,Hold,,4.2,22.2,446.7,2605.79,,16.3
+MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,32.14,-1.23,12.4,0.0,8132011520,51.59,26.71,21.8,Buy,1.32,17.7,3.9,3.23,880.33,26.93,-0.9
+MCHP,Microchip Technologyorporat,Technology,Semiconductors,60.6,-6.55,89.1,281.0,32909041664,105.91,48.52,21.1,Buy,,5.6,15.0,4.97,83.08,12.57,2541.8
+MU,"Micron Technology,",Technology,Semiconductors,720.58,9.78,9.7,9.0,815280947200,1255.0,192.59,49.7,Buy,2.4,133.2,63.8,5.89,3.74,88.26,1059.5
+MSFT,Microsoftoration,Technology,Software - Infrastructure,530.56,-1.0,27.7,73.0,3939373154304,559.15,349.2,86.4,Buy,1.04,346.4,41.2,8.37,28.46,34.22,32.3
+MAA,Mid-America Apartment Communiti,Real Estate,REIT - Residential,119.92,-1.46,36.3,503.0,14265543680,144.41,113.95,19.6,Hold,0.7,2.2,17.4,2.63,108.0,6.91,-14.9
+MRNA,"Moderna,",Healthcare,Biotechnology,246.26,1.99,,0.0,98316951552,261.0,22.28,93.8,Hold,1.17,2.2,-141.4,14.53,19.04,-39.0,2.1
+MHK,"Mohawk Industries,",Consumer Cyclical,"Furnishings, Fixtures & Appliances",148.11,-1.84,17.4,0.0,8610147328,155.88,92.99,87.6,Buy,1.18,11.2,4.6,1.04,26.6,6.23,55.4
+MOH,Molina Healthcare,Healthcare,Healthcare Plans,214.53,-0.97,22.5,0.0,11155560448,244.89,121.06,75.5,Hold,0.74,42.1,-0.1,2.68,95.07,-1.15,-51.5
+TAP,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,40.08,-5.09,8.7,455.0,7473409024,54.82,35.52,23.6,Hold,,11.0,8.1,0.9,56.97,7.99,-1.6
+MDLZ,"Mondelez International,",Consumer Defensive,Confectioners,65.3,-2.27,20.6,311.0,82659246080,68.75,51.2,80.3,Buy,0.36,39.9,10.2,3.12,83.78,15.48,78.9
+MPWR,"Monolithic Power Systems,",Technology,Semiconductors,1200.08,6.07,65.8,71.0,58525499392,1714.09,833.18,41.7,Buy,1.73,3.7,23.9,15.68,0.57,24.47,47.3
+MNST,Monster Beverageoration,Consumer Defensive,Beverages - Non-Alcoholic,45.09,-5.72,41.8,0.0,88343445504,50.17,34.255,68.1,Buy,,9.6,22.7,8.97,,24.7,9.4
+MCO,Moody'soration,Financial Services,Financial Data & Stock Exchanges,507.17,-1.58,30.9,80.0,87448748032,546.88,402.28,72.5,Buy,1.3,8.2,35.3,26.76,223.27,76.74,17.8
+MS,Morgan Stanley,Financial Services,Capital Markets,184.61,1.19,14.6,252.0,288914636800,232.25,152.8,40.0,Buy,1.22,79.8,25.6,2.72,517.28,,8.2
+MOS,Mosaic Company (The),Basic Materials,Agricultural Inputs,21.96,-1.66,14.6,394.0,6981164032,32.25,16.99,32.6,Buy,0.86,11.9,-9.4,0.62,53.37,-9.04,-10.2
+MSI,"Motorola Solutions,",Technology,Communication Equipment,514.17,-0.55,41.4,94.0,85009743872,548.29,359.36,81.9,Buy,0.87,12.6,16.5,27.73,345.59,76.98,-8.1
+MSCI,MSCI,Financial Services,Financial Data & Stock Exchanges,647.95,-1.21,34.3,125.0,47105966080,681.04,501.08,81.6,Buy,1.19,3.4,40.3,,,,14.4
+NDAQ,"Nasdaq,",Financial Services,Financial Data & Stock Exchanges,106.79,-0.04,29.2,109.0,59694309376,111.45,76.55,86.7,Buy,0.96,5.8,36.1,4.97,77.44,17.33,31.5
+NTAP,"NetApp,",Technology,Software - Infrastructure,175.25,3.46,24.7,123.0,34421841920,240.87,93.69,55.4,Buy,1.51,7.4,19.2,22.97,169.5,114.82,63.5
+NFLX,"Netflix,",Communication Services,Entertainment,63.98,-2.41,18.5,0.0,262734643200,116.733,61.39,4.7,Buy,1.61,49.7,29.7,8.97,59.86,53.46,47.5
+NEM,Newmontoration,Basic Materials,Gold,120.74,0.86,14.0,87.0,125472186368,135.29,81.34,73.0,Buy,0.57,26.6,34.7,3.53,15.58,27.26,40.7
+NWSA,Newsoration,Communication Services,Entertainment,26.28,-0.76,23.5,76.0,14132603904,31.66,22.2,43.1,Buy,1.01,9.2,6.8,1.67,30.9,8.72,46.3
+NWS,Newsoration,Communication Services,Entertainment,29.1,0.45,26.0,69.0,15649116160,35.76,25.49,35.2,Buy,1.01,9.2,6.8,1.85,30.9,8.72,46.3
+NEE,"NextEra Energy,",Utilities,Utilities - Regulated Electric,86.72,-1.73,15.6,282.0,181878390784,98.75,74.41,50.6,Buy,0.6,28.8,40.4,2.96,153.25,14.06,93.2
+NKE,"Nike,",Consumer Cyclical,Footwear & Accessories,38.63,-2.35,18.6,415.0,57377480704,69.14,31.97,17.9,Hold,1.03,45.9,6.7,3.76,73.09,21.56,-2.1
+NI,NiSource,Utilities,Utilities - Regulated Gas,43.84,-1.35,22.5,270.0,21028673536,49.21,38.42,50.2,Buy,0.54,7.0,13.5,2.2,153.1,8.71,34.6
+NDSN,Nordsonoration,Industrials,Specialty Industrial Machinery,312.92,0.78,31.7,121.0,17429446656,339.12,223.29,77.4,N/A,0.99,3.0,18.6,5.33,55.62,17.76,23.0
+NSC,Norfolk Southernoration,Industrials,Railroads,322.21,-1.74,27.0,164.0,72373739520,358.6,277.8,55.0,Hold,1.18,13.0,20.7,4.33,102.49,16.84,6.7
+NTRS,Northern Trustoration,Financial Services,Asset Management,172.84,0.85,13.6,205.0,31305308160,195.78,121.53,69.1,Hold,1.21,9.3,26.0,2.51,,18.44,48.5
+NOC,Northrop Grummanoration,Industrials,Aerospace & Defense,518.54,-1.28,16.4,188.0,73666117632,774.0,470.06,16.0,Buy,-0.14,43.6,10.4,3.94,93.13,26.07,2.9
+NCLH,Norwegian Cruise Line Holdings ,Consumer Cyclical,Travel Services,17.81,0.28,9.8,0.0,8181992448,25.13,13.63,36.3,Buy,1.96,10.2,8.2,2.6,508.96,31.18,24.3
+NRG,"NRG Energy,",Utilities,Utilities - Independent Power Producers,83.36,3.49,21.8,236.0,17523146752,189.96,79.65,3.4,Buy,1.2,33.1,2.6,4.17,483.36,23.77,11.0
+NUE,Nucororation,Basic Materials,Steel,249.03,1.36,15.9,91.0,56498851840,287.7,140.93,73.7,Buy,1.81,38.8,9.3,2.47,29.44,17.58,120.5
+NVDA,NVIDIAoration,Technology,Semiconductors,194.71,7.22,24.6,55.0,4701662216192,243.37,164.27,38.5,Buy,2.25,303.0,63.7,20.53,16.97,117.21,127.8
+NVR,"NVR,",Consumer Cyclical,Residential Construction,6274.12,-2.52,17.3,0.0,16600004608,8200.0,5501.01,28.6,Hold,0.94,9.4,11.1,4.83,32.17,28.3,-20.4
+NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,249.98,2.27,19.7,166.0,63008206848,339.95,183.0,42.7,Buy,1.86,13.8,23.4,5.21,88.07,28.67,40.3
+ORLY,"O'Reilly Automotive,",Consumer Cyclical,Auto Parts,89.45,-2.23,27.4,0.0,71972134912,102.46,82.59,34.5,Buy,0.55,19.0,14.3,,,,13.4
+OXY,Occidental Petroleumoratio,Energy,Oil & Gas E&P,56.73,0.66,16.1,199.0,56709427200,67.45,38.8,62.6,Buy,0.15,23.9,30.3,1.7,34.51,10.63,964.9
+ODFL,"Old Dominion Freight Line,",Industrials,Trucking,167.84,-1.59,30.1,68.0,34582765568,252.03,126.01,33.2,Buy,1.15,5.8,20.1,7.42,0.43,26.01,28.9
+OMC,Omnicom Group,Communication Services,Advertising Agencies,84.6,-2.86,85.5,367.0,23209666560,89.57,66.33,78.6,Buy,0.74,24.8,2.8,2.32,107.25,9.94,36.0
+ON,ON Semiconductororation,Technology,Semiconductors,65.94,4.65,38.6,0.0,25669419008,134.92,44.56,23.7,Buy,2.15,6.4,10.8,3.39,62.1,8.91,26.1
+OKE,"ONEOK,",Energy,Oil & Gas Midstream,85.77,-0.56,13.3,496.0,54073733120,99.85,66.93,57.2,Buy,0.74,43.2,9.4,2.32,87.73,15.02,43.0
+ORCL,Oracleoration,Technology,Software - Infrastructure,119.08,3.41,18.7,174.0,371272253440,250.25,111.66,5.4,Buy,1.78,71.8,26.4,5.82,251.72,41.19,54.5
+OTIS,Otis Worldwideoration,Industrials,Specialty Industrial Machinery,78.39,-1.39,19.5,221.0,29841995776,94.565,63.575,47.8,Buy,0.87,15.1,10.3,,,,13.7
+PCAR,PACCAR,Industrials,Farm & Heavy Construction Machinery,103.55,-0.91,19.8,134.0,54519631872,139.24,93.86,21.4,Buy,0.96,29.1,9.5,2.6,72.15,13.71,43.6
+PKG,Packagingoration of Americ,Consumer Cyclical,Packaging & Containers,247.17,-0.66,30.5,241.0,22022426624,262.59,191.5,78.3,Buy,0.77,9.8,7.4,4.7,94.47,,16.7
+PANW,"Palo Alto Networks,",Technology,Software - Infrastructure,326.81,3.86,817.0,0.0,267479498752,432.33,139.57,64.0,Buy,0.97,11.5,2.7,9.69,9.34,1.74,34.5
+PH,Parker-Hannifinoration,Industrials,Specialty Industrial Machinery,905.08,1.43,31.1,90.0,114141831168,1099.94,806.22,33.7,Buy,1.15,22.4,16.6,7.15,108.76,24.95,10.0
+PAYX,"Paychex,",Technology,Software - Application,116.42,-2.58,23.1,398.0,41443246080,127.98,85.45,72.8,Hold,0.8,6.6,27.4,11.18,124.7,47.05,13.9
+PAYC,"Paycom Software,",Technology,Software - Application,243.93,-2.44,23.3,60.0,10806098944,275.22,104.9,81.6,Hold,0.73,2.2,23.3,15.01,116.43,42.22,52.6
+PYPL,"PayPal Holdings,",Financial Services,Credit Services,59.35,0.67,11.3,95.0,49303724032,67.99,38.46,70.8,Hold,1.32,34.3,13.8,2.55,73.15,23.82,-3.8
+PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,68.57,-1.72,18.7,155.0,10947521536,109.89,51.13,29.7,Buy,1.01,4.0,15.4,2.84,42.47,15.6,-18.8
+PEP,"Pepsico,",Consumer Defensive,Beverages - Non-Alcoholic,139.28,-2.4,17.5,415.0,189802577920,171.48,123.47,32.9,Hold,0.32,98.2,11.1,8.52,230.72,52.19,17.4
+PFE,"Pfizer,",Healthcare,Drug Manufacturers - General,29.11,-1.14,41.6,576.0,165951242240,31.44,23.62,70.3,Buy,0.3,63.6,6.3,1.86,71.01,4.47,-9.7
+PCG,Pacific Gas & Electric Co.,Utilities,Utilities - Regulated Electric,13.04,-1.4,9.7,151.0,28730695680,19.16,11.77,17.3,Buy,0.18,25.8,11.6,0.87,188.02,8.89,-8.9
+PM,Philip Morris International,Consumer Defensive,Tobacco,197.97,-1.75,28.9,318.0,308566491136,214.35,146.35,75.9,Buy,0.35,43.1,24.8,,,,-4.8
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,249.05,0.81,8.0,215.0,97147518976,299.39,127.16,70.8,Buy,0.67,168.2,7.5,2.83,52.19,39.84,4299.0
+PNW,Pinnacle West Capitalorati,Utilities,Utilities - Regulated Electric,102.47,-1.31,19.3,356.0,12419487744,111.16,86.18,65.2,Buy,0.47,5.7,11.6,1.66,225.58,9.09,3.0
 PXD,PXD,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-PNC,"PNC Financial Services Group, I",Financial Services,Banks - Regional,235.62,0.93,12.5,343.0,93488832512,258.96,177.08,71.5,Buy,0.91,24.9,31.7,1.5,,13.1,14.3
-POOL,Pooloration,Industrials,Industrial Distribution,218.81,-0.2,20.1,237.0,7816531456,278.17,152.7,52.7,Hold,0.94,5.4,7.3,6.37,123.76,30.38,3.7
-PPG,"PPG Industries,",Basic Materials,Specialty Chemicals,124.75,-1.98,17.5,233.0,27557275648,133.43,93.39,78.3,Buy,0.99,16.7,9.4,3.25,86.61,19.49,1.1
-PPL,PPLoration,Utilities,Utilities - Regulated Electric,36.2,1.36,21.4,319.0,27245887488,40.11,31.56,54.3,Buy,0.56,9.4,13.5,1.81,135.43,8.63,21.2
-PFG,Principal Financial Group,Financial Services,Asset Management,117.47,0.14,13.1,290.0,24947863552,121.18,80.0,91.0,Hold,0.89,16.6,11.9,2.12,39.48,16.11,206.3
-PG,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,169.79,1.48,25.6,260.0,393536372736,170.17,137.62,98.8,Buy,0.36,87.9,18.2,7.24,70.34,29.61,0.8
-PGR,Progressiveoration (The),Financial Services,Insurance - Property & Casualty,239.36,1.93,12.1,17.0,138676125696,240.4313,189.2,97.9,Hold,0.2,91.7,12.7,4.02,24.33,33.24,-1.8
-PRU,"Prudential Financial,",Financial Services,Insurance - Life,125.88,-0.6,11.5,442.0,43426873344,128.78,91.89,92.1,Hold,0.83,60.8,6.4,1.47,138.33,11.98,-1.2
-PEG,Public Service Enterprise Group,Utilities,Utilities - Regulated Electric,73.73,0.7,20.8,366.0,36755542016,87.63,66.15,35.3,Buy,0.49,12.3,14.3,2.11,148.4,10.28,-39.1
-PTC,PTC,Technology,Software - Application,195.17,-0.01,21.9,0.0,21201750016,196.05,108.5,99.0,Hold,0.91,3.0,41.4,6.23,46.34,35.05,-12.0
-PSA,Public Storage,Real Estate,REIT - Industrial,342.54,-0.07,36.0,350.0,64000421888,345.8907,256.54,96.2,Hold,0.87,5.0,37.7,6.54,80.11,15.6,-35.4
-PHM,"PulteGroup,",Consumer Cyclical,Residential Construction,136.67,0.51,14.6,76.0,26033768448,144.5,107.16,79.0,Buy,1.18,16.0,11.2,1.93,18.43,13.86,-14.5
+PNC,"PNC Financial Services Group, I",Financial Services,Banks - Regional,226.69,-0.03,12.1,353.0,89945612288,258.96,177.08,60.6,Buy,0.91,24.9,31.7,1.59,,13.1,14.3
+POOL,Pooloration,Industrials,Industrial Distribution,208.78,-3.64,19.2,240.0,7457881088,278.17,152.7,44.7,Hold,0.94,5.4,7.3,6.08,123.76,30.38,3.7
+PPG,"PPG Industries,",Basic Materials,Specialty Chemicals,121.52,-1.42,17.1,240.0,26843766784,133.43,93.39,70.3,Buy,0.99,16.7,9.4,3.16,86.61,19.49,1.1
+PPL,PPLoration,Utilities,Utilities - Regulated Electric,36.01,0.03,21.3,317.0,27099138048,40.11,31.56,52.0,Buy,0.56,9.4,13.5,1.8,135.43,8.63,21.2
+PFG,Principal Financial Group,Financial Services,Asset Management,112.33,-0.44,12.5,301.0,23855185920,121.18,80.0,78.5,Hold,0.89,16.6,11.9,2.02,39.48,16.11,206.3
+PG,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,164.29,-1.68,24.7,261.0,380788572160,170.52,137.62,81.1,Buy,0.36,87.9,18.2,7.01,70.34,29.61,0.8
+PGR,Progressiveoration (The),Financial Services,Insurance - Property & Casualty,227.04,-2.63,11.4,17.0,131541286912,241.02,189.2,73.0,Hold,0.2,91.7,12.7,3.81,24.33,33.24,-1.8
+PRU,"Prudential Financial,",Financial Services,Insurance - Life,121.23,-1.0,11.0,457.0,41581891584,128.78,91.89,79.5,Hold,0.83,61.8,6.3,1.41,175.9,11.85,-1.2
+PEG,Public Service Enterprise Group,Utilities,Utilities - Regulated Electric,72.28,-1.13,20.4,367.0,36030201856,87.63,66.15,28.5,Buy,0.49,12.3,14.3,2.07,148.4,10.28,-39.1
+PTC,PTC,Technology,Software - Application,194.65,0.03,21.8,0.0,21145262080,196.05,108.5,98.4,Hold,0.91,2.7,37.8,6.21,52.66,28.55,-50.0
+PSA,Public Storage,Real Estate,REIT - Industrial,336.69,-1.12,35.4,352.0,62909259776,345.89,256.54,89.7,Hold,0.87,5.0,37.7,6.43,80.11,15.6,-35.4
+PHM,"PulteGroup,",Consumer Cyclical,Residential Construction,132.31,-2.1,14.1,77.0,25203249152,144.5,107.16,67.4,Buy,1.18,16.0,11.2,1.87,18.43,13.86,-14.5
 QRVO,"Qorvo,",Technology,Semiconductors,114.17,0.0,26.5,0.0,10072263680,121.09,74.92,85.0,Hold,1.42,3.6,11.0,2.9,44.62,11.56,255.6
-PWR,"Quanta Services,",Industrials,Engineering & Construction,522.22,-10.03,47.3,8.0,78686617600,788.75,408.36,29.9,Buy,1.28,37.3,4.5,7.47,70.72,18.02,103.1
-QCOM,QUALCOMMorporated,Technology,Semiconductors,156.61,-9.57,12.3,212.0,167234338816,259.92,121.99,25.1,Hold,1.76,44.1,21.0,5.99,55.21,33.75,-23.0
-DGX,Quest Diagnosticsorporated,Healthcare,Diagnostics & Research,257.08,0.55,25.6,135.0,28374781952,259.0,171.18,97.8,Buy,0.55,11.8,9.5,3.71,79.65,15.32,28.7
-RL,Ralph Laurenoration,Consumer Cyclical,Apparel Manufacturing,393.46,-4.51,24.8,97.0,23443226624,421.6,308.41,75.1,Buy,1.3,8.4,11.8,8.62,110.37,37.54,21.6
-RJF,"Raymond James Financial,",Financial Services,Asset Management,168.76,0.04,14.2,128.0,32419756032,182.73,138.82,68.2,Buy,0.94,15.8,15.0,2.55,47.59,18.73,15.1
-RTX,RTXoration,Industrials,Aerospace & Defense,198.47,0.02,32.3,147.0,267816714240,226.88,166.74,52.8,Buy,0.28,96.0,8.8,3.87,54.76,12.85,34.0
-O,Realtyomeoration,Real Estate,REIT - Retail,59.95,1.24,41.1,550.0,56730505216,67.94,53.15,46.0,Hold,0.65,6.2,21.8,1.44,75.24,3.48,23.8
-REG,Regency Centersoration,Real Estate,REIT - Retail,77.47,0.82,26.1,393.0,14483693568,83.66,66.86,63.2,Buy,0.82,1.7,33.0,2.13,71.97,8.19,8.9
-REGN,"Regeneron Pharmaceuticals,",Healthcare,Biotechnology,946.44,1.69,20.9,40.0,97907187712,991.73,591.52,88.7,Buy,0.1,16.9,28.5,2.83,8.08,14.95,35.5
-RF,Regions Financialoration,Financial Services,Banks - Regional,29.21,0.64,11.5,413.0,24889120768,32.47,23.59,63.3,Hold,1.02,7.3,31.3,1.51,,12.38,16.4
-RSG,"Republic Services,",Industrials,Waste Management,252.0,2.68,34.9,109.0,76768157696,252.56,196.41,99.0,Buy,0.32,17.2,12.9,6.28,116.61,18.48,9.7
-RMD,ResMed,Healthcare,Medical Instruments & Supplies,242.86,0.98,22.1,110.0,34159976448,277.67,180.27,64.3,Buy,0.76,5.7,27.8,5.74,10.27,26.4,23.2
-RVTY,"Revvity,",Healthcare,Diagnostics & Research,156.83,-1.63,69.7,18.0,17500463104,171.74,81.22,83.5,Buy,1.09,2.9,8.6,2.41,38.03,3.45,37.8
-ROK,"Rockwell Automation,",Industrials,Specialty Industrial Machinery,405.37,-8.68,38.0,131.0,45107122176,497.36,347.53,38.6,Buy,1.51,9.0,13.4,12.88,103.35,30.63,40.4
-ROL,"Rollins,",Consumer Cyclical,Personal Services,39.45,2.79,36.2,208.0,18981187584,66.14,29.29,27.6,Hold,0.72,4.0,13.2,13.56,80.96,36.0,-2.3
-ROP,"Roper Technologies,",Technology,Software - Application,505.35,2.67,20.0,74.0,50122338304,506.325,305.96,99.5,Buy,0.66,8.4,30.7,2.61,50.7,13.23,32.6
-ROST,"Ross Stores,",Consumer Cyclical,Apparel Retail,240.04,-2.32,29.0,72.0,77000286208,257.0,157.73,82.9,Buy,0.85,24.5,10.8,11.38,70.28,42.63,70.5
-RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,322.77,-3.12,19.1,180.0,86331588608,356.39,222.22,74.9,Buy,1.86,19.1,23.8,7.37,194.49,41.29,12.4
-SPGI,S&P Global,Financial Services,Financial Data & Stock Exchanges,482.02,0.07,28.8,81.0,139737595904,522.46924,361.03122,74.9,Buy,1.03,16.3,30.6,7.09,53.95,17.88,10.1
-CRM,"Salesforce,",Technology,Software - Application,223.88,-1.42,20.5,78.0,184257347584,269.11,146.32,63.2,Buy,1.23,43.9,22.0,4.8,110.42,19.38,118.9
-SBAC,SBA Communicationsoration,Real Estate,REIT - Specialty,195.17,-0.16,21.1,256.0,20381018112,224.46,156.6,56.8,Buy,0.97,2.9,34.5,,,,-0.5
-SLB,SLB Limited,Energy,Oil & Gas Equipment & Services,50.89,-1.3,24.7,229.0,75115143168,60.46,34.65,62.9,Buy,0.79,36.9,8.4,2.88,47.08,11.66,-2.0
-STX,Seagate Technology Holdings PLC,Technology,Computer Hardware,482.67,-13.35,25.3,55.0,110802829312,1145.0,228.61,27.7,Buy,2.2,13.8,31.9,32.11,77.38,259.35,212.3
-SRE,DBA Sempra,Utilities,Utilities - Diversified,82.18,-0.87,23.8,317.0,53737529344,101.04,76.21,24.0,Buy,0.55,13.6,16.8,1.64,84.66,6.68,71.3
-NOW,"ServiceNow,",Technology,Software - Application,104.5,-3.96,75.2,0.0,108462325760,175.8,81.24,24.6,Buy,0.98,15.4,9.4,8.28,64.26,11.85,-44.2
-SHW,Sherwin-Williams Company (The),Basic Materials,Specialty Chemicals,360.12,-0.93,33.1,88.0,86999482368,377.77,289.86,79.9,Buy,1.05,24.9,10.7,21.75,372.16,63.7,0.9
-SPG,"Simon Property Group,",Real Estate,REIT - Retail,230.85,1.03,16.3,390.0,87637975040,238.5,177.88,87.4,Buy,1.31,6.9,66.6,17.0,503.5,120.51,-12.5
-SWKS,"Skyworks Solutions,",Technology,Semiconductors,82.5,-0.5,72.4,0.0,19402334208,92.8,51.93,74.8,Hold,1.49,4.0,4.3,2.16,43.26,3.0,-84.2
-SJM,The J.M. Smucker Company,Consumer Defensive,Packaged Foods,135.13,2.04,63.1,338.0,14435550208,135.89,88.25,98.4,Buy,0.25,9.2,2.5,2.51,120.68,3.93,5.0
-SNA,Snap-Onorporated,Industrials,Tools & Accessories,371.15,0.66,19.3,265.0,19198521344,423.02,320.8,49.3,Buy,0.75,5.3,19.2,3.14,21.38,17.32,-7.6
-SOLV,Solventumoration,Healthcare,Medical Instruments & Supplies,89.47,0.14,11.0,0.0,15230768128,94.16,62.38,85.3,Buy,0.75,8.3,17.3,3.17,110.31,33.96,3.9
-SO,Southern Company (The),Utilities,Utilities - Regulated Electric,95.29,2.33,23.0,326.0,109618094080,99.58,81.69,76.0,Hold,0.29,30.2,15.4,2.77,182.06,11.48,30.4
-LUV,Southwest Airlines Company,Industrials,Airlines,44.77,-3.55,21.8,155.0,21913905152,55.11,30.85,57.4,Buy,1.22,31.5,3.3,2.99,93.75,13.94,450.0
-SWK,"Stanley Black & Decker,",Industrials,Tools & Accessories,117.77,-0.47,21.1,284.0,17511954432,122.68,61.9,91.9,Buy,,15.2,5.5,1.97,53.21,9.44,438.8
-SBUX,Starbucksoration,Consumer Cyclical,Restaurants,110.32,0.57,49.9,230.0,125778223104,111.5,81.76,96.0,Buy,1.01,37.9,6.7,,,,405.4
-STT,State Streetoration,Financial Services,Asset Management,170.87,-1.47,14.0,212.0,46488616960,195.93,111.63,70.3,Buy,1.37,15.5,23.8,1.89,,13.08,32.7
-STLD,"Steel Dynamics,",Basic Materials,Steel,229.19,-4.55,16.9,88.0,32594827264,288.74,150.22,57.0,Buy,1.44,22.2,8.8,3.32,45.12,20.81,92.0
-STE,STERIS plc (Ireland),Healthcare,Medical Devices,257.45,3.85,31.5,111.0,25101404160,269.44,195.14,83.9,Buy,0.86,6.0,13.3,3.51,28.31,11.39,14.0
-SYK,Strykeroration,Healthcare,Medical Devices,343.21,1.05,36.6,104.0,130656960512,389.33,267.0,62.3,Buy,0.77,26.3,13.8,5.57,65.79,16.02,-11.7
-SMCI,"Super Micro Computer,",Technology,Computer Hardware,26.72,-9.73,5.6,0.0,17554114560,51.4,19.48,22.7,Hold,2.18,54.0,6.8,1.48,57.47,32.37,581.3
-SYF,Synchrony Financial,Financial Services,Credit Services,75.29,0.8,7.9,181.0,24497170432,88.77,63.08,47.5,Buy,1.4,9.8,34.1,1.58,,19.83,-6.3
-SNPS,"Synopsys,",Technology,Software - Infrastructure,447.47,-3.34,79.1,0.0,85751644160,539.48,362.55,48.0,Buy,1.18,9.4,11.4,2.75,34.8,3.66,89.3
-SYY,Syscooration,Consumer Defensive,Food Distribution,77.85,1.18,20.7,286.0,38323277824,91.85,68.19,40.8,Buy,0.65,85.1,2.1,9.47,379.49,58.74,10.1
-TMUS,"T-Mobile US,",Communication Services,Telecom Services,162.08,1.83,15.6,294.0,171686903808,224.75,143.75,22.6,Buy,0.38,93.8,12.0,3.06,211.32,19.35,33.6
-TROW,"T. Rowe Price Group,",Financial Services,Asset Management,111.19,-1.22,11.3,462.0,23720564736,122.0,85.22,70.6,Hold,1.45,7.7,28.4,2.09,6.67,18.2,-2.8
-TTWO,"Take-Two Interactive Software, ",Communication Services,Electronic Gaming & Multimedia,212.63,1.79,20.6,0.0,39757746176,265.94,183.86,35.1,Buy,0.92,6.7,-4.8,11.02,81.61,-9.04,2.0
-TPR,"Tapestry,",Consumer Cyclical,Luxury Goods,135.66,8.26,18.7,148.0,26919739392,164.8,93.0,59.4,Buy,1.46,8.0,19.1,39.28,571.61,197.13,8.9
-TRGP,"Targa Resources,",Energy,Oil & Gas Midstream,288.56,1.25,27.6,175.0,61877288960,316.6,163.78,81.7,Buy,0.74,16.7,13.5,16.92,515.79,70.84,23.3
-TGT,Targetoration,Consumer Defensive,Discount Stores,163.25,0.09,17.0,284.0,74163945472,170.75,83.44,91.4,Buy,0.93,107.7,4.1,4.16,107.58,26.41,100.5
-TEL,TE Connectivity plc,Technology,Electronic Components,214.75,-2.49,19.4,142.0,61739302912,252.56,190.27,39.3,Buy,1.15,19.9,16.4,4.55,41.09,24.61,39.1
-TDY,Teledyne Technologiesorpora,Technology,Scientific & Technical Instruments,608.75,-3.68,27.9,0.0,28219015168,697.67,483.02,58.6,Buy,0.88,6.5,15.8,2.53,18.21,9.47,25.2
-TFX,Teleflexorporated,Healthcare,Medical Instruments & Supplies,153.02,2.1,14.0,91.0,6483824128,156.67,100.18,93.5,Buy,0.83,2.3,-45.8,2.23,101.1,-0.7,-17.3
-TER,"Teradyne,",Technology,Semiconductor Equipment & Materials,225.72,-10.07,25.9,21.0,35240480768,487.91,151.52,22.1,Buy,1.75,5.0,27.5,9.56,3.67,42.72,189.3
-TSLA,"Tesla,",Consumer Cyclical,Auto Manufacturers,349.76,-9.2,384.4,0.0,1382526746624,498.83,297.38,26.0,Buy,1.74,103.6,3.1,15.48,18.3,3.84,-43.6
-TXN,Texas Instrumentsorporated,Technology,Semiconductors,295.82,-5.03,38.4,195.0,270452752384,334.03,152.73,78.9,Buy,1.39,20.8,34.3,14.09,70.65,39.72,77.0
-TXT,Textron,Industrials,Aerospace & Defense,86.86,0.24,15.6,9.0,14713236480,101.57,71.87,50.5,Buy,0.88,15.4,6.3,1.81,51.86,12.48,19.1
-TMO,Thermo Fisher Scientific,Healthcare,Diagnostics & Research,700.11,-0.86,36.9,27.0,259401859072,712.17,435.27,95.6,Buy,0.84,47.4,14.9,4.74,75.36,13.38,8.7
-TJX,"TJX Companies, (The)",Consumer Cyclical,Apparel Retail,141.62,-2.17,26.2,133.0,155783823360,170.0,122.78,39.9,Buy,0.59,62.4,9.7,14.64,134.42,62.17,23.6
-TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,37.59,2.77,20.2,263.0,19588503552,56.94,28.36,32.3,Buy,0.48,15.9,6.1,7.36,252.59,37.35,-12.1
-TT,Trane Technologies plc,Industrials,Building Products & Equipment,408.18,-0.56,28.4,102.0,89347604480,505.87,348.06,38.1,Buy,1.2,23.2,13.6,9.82,46.18,36.94,25.4
-TDG,Transdigm Grouporporated,Industrials,Aerospace & Defense,1215.15,-0.14,36.9,0.0,67169267712,1463.03,1071.25,36.7,Buy,0.95,10.0,21.3,,,,10.9
-TRV,"The Travelers Companies,",Financial Services,Insurance - Property & Casualty,415.76,1.59,10.9,122.0,85189222400,418.0,268.0,98.5,Hold,0.4,48.9,17.0,2.94,33.84,27.5,9.7
-TRMB,Trimble,Technology,Scientific & Technical Instruments,54.4,0.27,13.2,0.0,12683817984,84.42,47.92,17.7,Buy,,3.8,-4.1,2.54,30.82,-2.92,-45.7
-TFC,Truist Financialoration,Financial Services,Banks - Regional,51.46,1.16,13.3,409.0,61674213376,56.2,43.13,63.7,Hold,0.87,18.3,28.4,1.1,,8.16,-46.2
-TYL,"Tyler Technologies,",Technology,Software - Application,435.83,2.98,54.4,0.0,17328392192,481.57,270.71,78.3,Buy,0.73,2.5,13.5,6.22,52.16,10.49,20.7
-TSN,"Tyson Foods,",Consumer Defensive,Farm Products,60.3,0.46,37.2,340.0,21215389696,69.48,49.96,53.0,Hold,0.37,55.7,1.0,1.17,44.02,3.26,204.1
-USB,U.S. Bancorp,Financial Services,Banks - Regional,61.45,0.68,12.0,354.0,95734472704,66.08,45.02,78.0,Buy,1.03,27.9,30.0,1.61,,12.84,10.2
-UBER,"Uber Technologies,",Technology,Software - Application,68.63,-1.77,40.4,0.0,140180897792,95.18,64.04,14.7,Buy,1.31,56.5,6.1,5.06,61.24,12.33,-92.0
-UDR,"UDR,",Real Estate,REIT - Residential,37.57,0.94,17.7,467.0,13801873408,42.0,33.1,50.2,Buy,0.69,1.8,39.9,3.91,151.14,18.46,462.6
-ULTA,"Ulta Beauty,",Consumer Cyclical,Specialty Retail,663.48,0.42,24.2,0.0,28368726016,714.97,443.6,81.0,Buy,0.84,13.0,9.3,10.74,95.47,46.12,13.3
-UNP,Union Pacificoration,Industrials,Railroads,308.83,0.1,24.1,184.0,183468326912,315.99,216.32,92.8,Buy,0.84,26.4,28.9,8.33,141.3,38.75,15.9
-UAL,"United Airlines Holdings,",Industrials,Airlines,110.36,-4.66,10.1,0.0,35855343616,138.77,84.64,47.5,Buy,1.37,65.6,5.5,2.02,193.16,22.31,8.3
-UPS,"United Parcel Service,",Industrials,Integrated Freight & Logistics,113.87,-0.38,21.2,574.0,96878501888,122.41,90.84,72.9,Buy,0.95,91.4,4.8,6.46,201.58,28.64,-11.6
-URI,"United Rentals,",Industrials,Rental & Leasing Services,1097.78,-2.31,24.2,70.0,67970793472,1202.12,701.59,79.2,Buy,1.81,17.5,16.3,7.02,163.66,30.56,35.4
-UNH,UnitedHealth Grouporporated,Healthcare,Healthcare Plans,415.37,1.46,23.7,227.0,372176420864,461.62,255.97,77.5,Buy,0.52,450.1,3.5,3.79,70.43,15.77,76.1
-UHS,"Universal Health Services,",Healthcare,Medical Care Facilities,204.75,4.22,8.6,41.0,12067251200,246.33,140.08,60.9,Buy,1.11,18.4,8.0,1.58,79.78,19.74,-10.9
-VLO,Valero Energyoration,Energy,Oil & Gas Refining & Marketing,366.6,0.34,8.3,131.0,102239027200,461.52,159.9,68.5,Buy,0.55,146.5,8.8,3.65,35.39,46.87,576.8
-VTR,"Ventas,",Real Estate,REIT - Healthcare Facilities,90.05,0.95,173.2,233.0,47617597440,101.6,73.82,58.4,Buy,0.77,6.7,3.9,3.01,77.46,1.86,-9.1
-VLTO,Veralto,Industrials,Pollution & Treatment Controls,118.61,1.35,29.3,44.0,28837836800,119.025,80.03,98.9,Buy,0.67,5.8,17.3,8.94,96.69,32.96,8.4
-V,Visa,Financial Services,Credit Services,437.07,0.11,35.5,71.0,816886448128,442.2254,293.89,96.5,Buy,0.79,45.9,51.2,22.43,61.12,63.51,21.9
-VST,Vistra,Utilities,Utilities - Independent Power Producers,115.38,-4.08,19.5,77.0,38725586944,196.8,114.3,1.3,Buy,1.38,19.2,11.6,12.9,373.28,42.96,-6.2
-VFC,V.F.oration,Consumer Cyclical,Apparel Manufacturing,20.76,-0.79,22.6,172.0,8173718528,22.27,12.46,84.7,Buy,1.52,9.4,3.9,4.02,245.95,21.06,47.9
-VICI,VICI Properties,Real Estate,REIT - Diversified,25.62,1.47,11.9,729.0,28209813504,30.83,22.425,38.0,Buy,0.65,4.2,56.5,0.97,60.55,8.28,-56.3
-VRSN,"VeriSign,",Technology,Software - Infrastructure,320.52,0.78,34.5,102.0,28750643200,324.6342,208.86,96.4,Buy,0.67,1.7,49.1,,,,3.5
-VRSK,"Verisk Analytics,",Industrials,Consulting Services,213.1,7.71,32.7,101.0,27736248320,227.16,155.94,80.3,Buy,0.67,3.1,28.2,,,,-3.4
-VZ,Verizon Communications,Communication Services,Telecom Services,46.73,1.21,11.9,613.0,193677082624,51.68,38.68,61.9,Buy,0.26,139.4,11.8,1.83,182.02,15.79,6.8
-VRTX,Vertex Pharmaceuticalsorpor,Healthcare,Biotechnology,553.95,0.89,35.6,0.0,140447203328,568.67,406.67,90.9,Buy,0.28,13.0,30.7,6.72,30.99,20.8,-39.0
-VTRS,Viatris,Healthcare,Drug Manufacturers - Specialty & Generic,19.77,2.89,7.3,249.0,22713382912,19.96,9.92,98.2,Buy,0.87,14.7,-2.8,1.6,95.53,-2.75,4.9
-VICI,VICI Properties,Real Estate,REIT - Diversified,25.62,1.47,11.9,729.0,28209813504,30.83,22.425,38.0,Buy,0.65,4.2,56.5,0.97,60.55,8.28,-56.3
-VMC,Vulcan Materials Company (Holdi,Basic Materials,Building Materials,294.36,-1.12,34.8,70.0,37779464192,331.09,237.03,61.0,Buy,0.99,8.0,13.8,4.49,63.13,12.88,-0.7
-WRB,W.R. Berkleyoration,Financial Services,Insurance - Property & Casualty,78.89,2.85,16.7,52.0,29309808640,78.96,62.87,99.6,Hold,0.22,14.9,12.5,3.19,32.22,19.26,-10.9
-GWW,"W.W. Grainger,",Industrials,Industrial Distribution,1489.64,0.02,32.7,67.0,70163447808,1521.41,906.52,94.8,Hold,0.95,19.4,11.2,14.78,64.75,52.33,102.9
-WAB,Westinghouse Air Brake Technolo,Industrials,Railroads,292.94,-0.69,36.4,42.0,49156030464,306.64,194.93,87.7,Buy,0.93,12.2,11.2,4.34,59.61,12.24,33.7
+PWR,"Quanta Services,",Industrials,Engineering & Construction,544.05,6.87,49.2,9.0,81975902208,788.75,408.36,35.7,Buy,1.28,37.3,4.5,7.78,70.72,18.02,103.1
+QCOM,QUALCOMMorporated,Technology,Semiconductors,162.6,3.73,12.8,235.0,173982007296,259.92,121.99,29.4,Hold,1.76,43.1,31.6,5.73,52.6,52.81,-8.4
+DGX,Quest Diagnosticsorporated,Healthcare,Diagnostics & Research,252.07,-1.05,25.1,135.0,27821813760,259.0,171.18,92.1,Buy,0.55,11.8,9.5,3.63,79.65,15.32,28.7
+RL,Ralph Laurenoration,Consumer Cyclical,Apparel Manufacturing,379.44,-0.61,21.8,105.0,22607587328,421.6,315.72,60.2,Buy,,8.5,12.6,8.34,109.24,40.36,46.7
+RJF,"Raymond James Financial,",Financial Services,Asset Management,164.99,0.1,13.9,131.0,31694579712,182.73,138.82,59.6,Buy,0.94,15.8,15.0,2.5,47.59,18.73,15.1
+RTX,RTXoration,Industrials,Aerospace & Defense,189.88,-1.04,30.9,152.0,256231768064,226.88,166.74,38.5,Buy,0.28,96.0,8.8,3.7,54.76,12.85,34.0
+O,Realtyomeoration,Real Estate,REIT - Retail,58.73,-1.3,40.2,548.0,55566651392,67.94,53.15,37.7,Hold,0.65,6.2,21.8,1.41,75.24,3.48,23.8
+REG,Regency Centersoration,Real Estate,REIT - Retail,75.32,-1.26,25.4,396.0,14081731584,83.66,66.86,50.4,Buy,,1.7,30.8,2.09,72.25,7.67,-29.1
+REGN,"Regeneron Pharmaceuticals,",Healthcare,Biotechnology,903.61,0.08,20.0,42.0,93476511744,991.73,591.52,78.0,Buy,0.1,16.9,28.5,2.71,8.08,14.95,35.5
+RF,Regions Financialoration,Financial Services,Banks - Regional,28.35,-0.21,11.1,422.0,24097501184,32.47,23.59,53.6,Hold,1.02,7.3,31.3,1.46,,12.38,16.4
+RSG,"Republic Services,",Industrials,Waste Management,243.0,-2.57,33.7,107.0,74027589632,254.39,196.41,80.4,Buy,0.32,17.2,12.9,6.06,116.61,18.48,9.7
+RMD,ResMed,Healthcare,Medical Instruments & Supplies,234.72,-1.92,21.4,110.0,33015027712,277.67,180.27,55.9,Buy,0.76,5.7,27.8,5.55,10.27,26.4,23.2
+RVTY,"Revvity,",Healthcare,Diagnostics & Research,154.47,2.42,68.7,19.0,17237309440,171.74,81.22,80.9,Buy,1.09,2.9,8.6,2.38,38.03,3.45,37.8
+ROK,"Rockwell Automation,",Industrials,Specialty Industrial Machinery,386.63,1.46,30.8,152.0,43021848576,497.36,347.53,26.1,Buy,1.51,9.0,15.7,12.26,99.94,38.73,148.6
+ROL,"Rollins,",Consumer Cyclical,Personal Services,37.43,-3.43,34.3,206.0,18009272320,66.14,29.29,22.1,Hold,0.72,4.0,13.2,12.87,80.96,36.0,-2.3
+ROP,"Roper Technologies,",Technology,Software - Application,472.8,-3.7,18.7,81.0,46824423424,507.24,305.96,82.9,Buy,0.66,8.4,30.7,2.44,50.7,13.23,32.6
+ROST,"Ross Stores,",Consumer Cyclical,Apparel Retail,234.74,-0.21,28.4,76.0,75300151296,257.0,157.73,77.6,Buy,0.85,24.5,10.8,11.13,70.28,42.63,70.5
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,325.07,0.73,19.2,186.0,86946775040,356.39,222.22,76.7,Buy,1.86,19.1,23.8,7.42,194.49,41.29,12.4
+SPGI,S&P Global,Financial Services,Financial Data & Stock Exchanges,466.86,-1.18,27.9,82.0,135341268992,522.46924,361.03122,65.6,Buy,1.03,16.3,30.6,6.87,53.95,17.88,10.1
+CRM,"Salesforce,",Technology,Software - Application,216.74,-2.53,19.8,79.0,178377031680,269.11,146.32,57.3,Buy,1.23,43.9,22.0,4.65,110.42,19.38,118.9
+SBAC,SBA Communicationsoration,Real Estate,REIT - Specialty,190.31,-1.43,20.6,259.0,19874025472,224.46,156.6,49.7,Buy,0.97,2.9,34.5,,,,-0.5
+SLB,SLB Limited,Energy,Oil & Gas Equipment & Services,50.58,1.89,24.6,238.0,74657579008,60.46,34.65,61.7,Buy,0.79,36.9,8.4,2.87,47.08,11.66,-2.0
+STX,Seagate Technology Holdings PLC,Technology,Computer Hardware,497.46,6.63,26.1,65.0,114197463040,1145.0,228.61,29.3,Buy,2.2,13.8,31.9,33.09,77.38,259.35,212.3
+SRE,DBA Sempra,Utilities,Utilities - Diversified,78.4,-1.79,16.8,329.0,51265789952,101.04,76.21,8.8,Buy,,13.6,22.5,1.54,84.83,8.73,1036.3
+NOW,"ServiceNow,",Technology,Software - Application,102.25,-0.11,73.6,0.0,106121822208,175.0,81.24,22.4,Buy,0.98,15.4,9.4,8.1,64.26,11.85,-44.2
+SHW,Sherwin-Williams Company (The),Basic Materials,Specialty Chemicals,342.43,-1.89,31.5,92.0,82727002112,377.77,289.86,59.8,Buy,1.05,24.9,10.7,20.68,372.16,63.7,0.9
+SPG,"Simon Property Group,",Real Estate,REIT - Retail,226.29,-0.11,16.3,393.0,85906898944,238.5,177.88,79.9,Buy,,7.2,63.1,19.2,567.12,129.35,-17.1
+SWKS,"Skyworks Solutions,",Technology,Semiconductors,82.73,1.87,72.6,0.0,19455246336,92.8,51.93,75.4,Hold,1.49,4.0,4.3,2.17,43.26,3.0,-84.2
+SJM,The J.M. Smucker Company,Consumer Defensive,Packaged Foods,130.91,-1.76,61.2,336.0,13984223232,136.22,88.25,88.9,Buy,0.25,9.2,2.5,2.43,120.68,3.93,5.0
+SNA,Snap-Onorporated,Industrials,Tools & Accessories,365.66,-0.21,19.0,266.0,18861193216,423.02,320.8,43.9,Buy,0.75,5.3,19.2,3.09,21.38,17.32,-7.6
+SOLV,Solventumoration,Healthcare,Medical Instruments & Supplies,92.33,5.91,103.7,0.0,15717607424,94.16,62.38,94.3,Buy,,8.2,1.9,3.27,109.76,3.19,-7.0
+SO,Southern Company (The),Utilities,Utilities - Regulated Electric,91.5,-1.97,20.9,326.0,106529882112,99.58,81.69,54.8,Hold,,31.2,16.0,2.36,168.49,11.9,14.3
+LUV,Southwest Airlines Company,Industrials,Airlines,45.31,1.97,22.1,162.0,22180620288,55.11,30.85,59.6,Buy,1.22,31.5,3.3,3.03,93.75,13.94,450.0
+SWK,"Stanley Black & Decker,",Industrials,Tools & Accessories,115.2,-0.06,20.6,291.0,17130549248,122.68,61.9,87.7,Buy,1.16,15.2,5.5,1.94,58.25,9.44,438.8
+SBUX,Starbucksoration,Consumer Cyclical,Restaurants,104.44,-1.62,47.3,237.0,119066796032,111.5,81.76,76.2,Buy,1.01,37.9,6.7,,,,405.4
+STT,State Streetoration,Financial Services,Asset Management,166.42,0.72,13.6,223.0,45279227904,195.93,111.63,65.0,Buy,1.37,15.5,23.8,1.84,,13.08,32.7
+STLD,"Steel Dynamics,",Basic Materials,Steel,224.53,1.19,16.6,96.0,31932805120,288.74,150.22,53.6,Buy,1.44,22.2,8.8,3.25,45.12,20.81,92.0
+STE,STERIS plc (Ireland),Healthcare,Medical Devices,250.51,-1.52,29.7,109.0,24424753152,269.44,195.14,74.5,Buy,0.86,6.2,13.4,3.35,26.04,11.61,12.9
+SYK,Strykeroration,Healthcare,Medical Devices,326.0,-2.71,34.7,105.0,124105269248,389.33,267.0,48.2,Buy,0.77,26.3,13.8,5.29,65.79,16.02,-11.7
+SMCI,"Super Micro Computer,",Technology,Computer Hardware,29.31,8.23,6.2,0.0,19252371456,51.4,19.48,30.8,Hold,2.18,54.0,6.8,1.63,57.47,32.37,581.3
+SYF,Synchrony Financial,Financial Services,Credit Services,74.83,1.02,7.8,184.0,24345872384,88.77,63.08,45.7,Buy,1.4,9.8,34.1,1.57,,19.83,-6.3
+SNPS,"Synopsys,",Technology,Software - Infrastructure,446.51,1.41,78.9,0.0,85567676416,539.48,362.55,47.5,Buy,1.18,9.4,11.4,2.75,34.8,3.66,89.3
+SYY,Syscooration,Consumer Defensive,Food Distribution,75.08,-0.21,20.0,292.0,36959690752,91.85,68.19,29.1,Buy,0.65,85.1,2.1,9.14,382.58,58.74,10.1
+TMUS,"T-Mobile US,",Communication Services,Telecom Services,158.06,-1.58,15.2,291.0,167428620288,224.75,143.75,17.7,Buy,0.38,93.8,12.0,2.98,211.32,19.35,33.6
+TROW,"T. Rowe Price Group,",Financial Services,Asset Management,109.12,0.38,11.0,478.0,23278127104,122.0,85.22,65.0,Hold,1.45,7.7,28.4,2.05,6.67,18.2,-2.8
+TTWO,"Take-Two Interactive Software, ",Communication Services,Electronic Gaming & Multimedia,211.75,-0.76,20.5,0.0,39592173568,265.94,183.86,34.0,Buy,0.92,6.7,-4.8,10.97,81.61,-9.04,2.0
+TPR,"Tapestry,",Consumer Cyclical,Luxury Goods,133.72,-0.34,17.2,138.0,26533781504,164.8,99.0,52.8,Buy,,8.2,19.7,76.89,1229.36,433.81,37.5
+TRGP,"Targa Resources,",Energy,Oil & Gas Midstream,273.6,0.65,24.2,175.0,58668331008,316.6,166.18,71.4,Buy,0.74,16.7,13.5,19.14,515.79,70.84,23.3
+TGT,Targetoration,Consumer Defensive,Discount Stores,157.38,-0.36,16.3,294.0,71497220096,170.75,83.44,84.7,Buy,0.93,107.7,4.1,4.01,107.58,26.41,100.5
+TEL,TE Connectivity plc,Technology,Electronic Components,207.71,0.65,18.8,151.0,59716739072,252.56,190.27,28.0,Buy,1.15,19.9,16.4,4.4,41.09,24.61,39.1
+TDY,Teledyne Technologiesorpora,Technology,Scientific & Technical Instruments,603.12,1.93,27.6,0.0,27957800960,697.67,483.02,55.9,Buy,0.88,6.5,15.8,2.5,18.21,9.47,25.2
+TFX,Teleflexorporated,Healthcare,Medical Instruments & Supplies,149.19,-1.95,73.5,89.0,6321538048,156.67,100.18,86.8,Buy,0.83,2.3,-45.8,2.18,101.1,-0.7,-17.3
+TER,"Teradyne,",Technology,Semiconductor Equipment & Materials,228.75,7.53,26.3,24.0,35713536000,487.91,151.52,23.0,Buy,1.75,5.0,27.5,9.69,3.67,42.72,189.3
+TSLA,"Tesla,",Consumer Cyclical,Auto Manufacturers,355.6,3.47,390.8,0.0,1405600792576,498.83,297.38,28.9,Buy,1.74,103.6,3.1,15.74,18.3,3.84,-43.6
+TXN,Texas Instrumentsorporated,Technology,Semiconductors,280.04,0.68,36.3,219.0,256025935872,334.03,152.73,70.2,Buy,1.39,20.8,34.3,13.34,70.65,39.72,77.0
+TXT,Textron,Industrials,Aerospace & Defense,84.44,-0.92,15.2,9.0,14304982016,101.57,71.87,42.3,Buy,0.88,15.4,6.3,1.76,51.86,12.48,19.1
+TMO,Thermo Fisher Scientific,Healthcare,Diagnostics & Research,685.59,1.28,36.2,28.0,254020124672,712.17,435.27,90.4,Buy,0.84,47.4,14.9,4.64,75.36,13.38,8.7
+TJX,"TJX Companies, (The)",Consumer Cyclical,Apparel Retail,137.32,-0.91,25.4,139.0,151053926400,170.0,122.78,30.8,Buy,0.59,62.4,9.7,14.2,134.42,62.17,23.6
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,35.7,-2.49,19.2,262.0,18601132032,56.94,28.36,25.7,Buy,0.48,15.9,6.1,6.99,252.59,37.35,-12.1
+TT,Trane Technologies plc,Industrials,Building Products & Equipment,400.44,2.04,27.8,107.0,87653359616,505.87,348.06,33.2,Buy,1.2,23.2,13.6,9.63,46.18,36.94,25.4
+TDG,Transdigm Grouporporated,Industrials,Aerospace & Defense,1190.33,0.1,36.1,0.0,65797304320,1463.03,1071.25,30.4,Buy,0.95,10.0,21.3,,,,10.9
+TRV,"The Travelers Companies,",Financial Services,Insurance - Property & Casualty,398.03,-1.21,10.5,124.0,81556348928,418.0,268.0,86.7,Hold,0.4,48.9,17.0,2.81,33.84,27.5,9.7
+TRMB,Trimble,Technology,Scientific & Technical Instruments,53.68,0.07,13.0,0.0,12305764352,84.42,47.92,15.8,Buy,1.32,3.8,-4.1,2.48,30.82,-2.92,-45.7
+TFC,Truist Financialoration,Financial Services,Banks - Regional,49.61,-0.46,12.8,417.0,59457011712,56.2,43.13,49.6,Hold,0.87,18.3,28.4,1.06,,8.16,-46.2
+TYL,"Tyler Technologies,",Technology,Software - Application,417.14,-3.07,52.1,0.0,16585387008,481.57,270.71,69.4,Buy,0.73,2.5,13.5,5.96,52.16,10.49,20.7
+TSN,"Tyson Foods,",Consumer Defensive,Farm Products,58.91,-1.99,36.4,339.0,20726386688,69.48,49.96,45.9,Hold,0.37,55.7,1.0,1.15,44.02,3.26,204.1
+USB,U.S. Bancorp,Financial Services,Banks - Regional,59.55,-0.33,11.6,362.0,92781961216,66.08,45.02,69.0,Buy,1.03,27.9,30.0,1.56,,12.84,10.2
+UBER,"Uber Technologies,",Technology,Software - Application,69.05,0.39,40.6,0.0,140993069056,95.18,64.04,16.1,Buy,1.31,56.5,6.1,5.09,61.24,12.33,-92.0
+UDR,"UDR,",Real Estate,REIT - Residential,36.47,-1.46,17.2,470.0,13397773312,42.0,33.1,37.9,Buy,0.69,1.8,39.9,3.8,151.14,18.46,462.6
+ULTA,"Ulta Beauty,",Consumer Cyclical,Specialty Retail,644.46,-0.82,23.5,0.0,27555481600,714.97,443.6,74.0,Buy,0.84,13.0,9.3,10.43,95.47,46.12,13.3
+UNP,Union Pacificoration,Industrials,Railroads,292.04,-1.99,22.8,191.0,173490847744,315.99,218.2,75.5,Buy,0.84,26.4,28.9,7.88,141.3,38.75,15.9
+UAL,"United Airlines Holdings,",Industrials,Airlines,113.11,2.37,10.4,0.0,36747177984,138.77,84.64,52.6,Buy,1.37,65.6,5.5,2.07,193.16,22.31,8.3
+UPS,"United Parcel Service,",Industrials,Integrated Freight & Logistics,109.43,-1.45,21.1,591.0,93176291328,122.41,90.84,58.9,Buy,0.95,91.4,4.8,6.21,203.12,28.64,-11.6
+URI,"United Rentals,",Industrials,Rental & Leasing Services,1059.19,1.48,23.3,75.0,65581428736,1202.12,701.59,71.4,Buy,1.81,17.5,16.3,6.77,163.66,30.56,35.4
+UNH,UnitedHealth Grouporporated,Healthcare,Healthcare Plans,395.27,-0.11,22.6,235.0,354175320064,461.62,255.97,67.7,Buy,0.52,450.1,3.5,3.61,70.43,15.77,76.1
+UHS,"Universal Health Services,",Healthcare,Medical Care Facilities,193.0,-2.82,8.1,40.0,11374747648,246.33,140.08,49.8,Buy,1.11,18.4,8.0,1.49,79.78,19.74,-10.9
+VLO,Valero Energyoration,Energy,Oil & Gas Refining & Marketing,352.35,0.37,8.0,137.0,98264924160,461.52,159.9,63.8,Buy,0.55,146.5,8.8,3.51,35.39,46.87,576.8
+VTR,"Ventas,",Real Estate,REIT - Healthcare Facilities,88.46,-0.65,170.1,234.0,46779416576,101.6,73.82,52.7,Buy,0.77,6.7,3.9,2.96,77.46,1.86,-9.1
+VLTO,Veralto,Industrials,Pollution & Treatment Controls,114.95,-1.37,28.4,45.0,27950368768,119.025,80.03,89.6,Buy,0.67,5.8,17.3,8.66,96.69,32.96,8.4
+V,Visa,Financial Services,Credit Services,419.87,-0.64,34.1,74.0,784739532800,442.23,293.89,84.9,Buy,0.79,45.9,51.2,21.55,61.12,63.51,21.9
+VST,Vistra,Utilities,Utilities - Independent Power Producers,119.28,5.6,20.1,82.0,40032890880,196.8,110.89,9.8,Buy,1.38,19.2,11.6,13.33,373.28,42.96,-6.2
+VFC,V.F.oration,Consumer Cyclical,Apparel Manufacturing,20.28,-0.25,22.0,177.0,7983000576,22.27,12.46,79.7,Buy,1.52,9.4,3.9,3.93,245.95,21.06,47.9
+VICI,VICI Properties,Real Estate,REIT - Diversified,24.71,-1.94,11.4,730.0,27207823360,30.83,22.425,27.2,Buy,0.65,4.2,56.5,0.94,60.55,8.28,-56.3
+VRSN,"VeriSign,",Technology,Software - Infrastructure,309.94,-0.68,33.4,104.0,27802066944,324.63,208.86,87.3,Buy,0.67,1.7,49.1,,,,3.5
+VRSK,"Verisk Analytics,",Industrials,Consulting Services,203.0,-4.01,30.8,95.0,26421671936,227.16,155.94,66.1,Buy,,3.2,27.7,,,,5.4
+VZ,Verizon Communications,Communication Services,Telecom Services,45.57,-1.26,11.6,614.0,188869345280,51.68,38.68,53.0,Buy,0.26,139.4,11.8,1.78,182.02,15.79,6.8
+VRTX,Vertex Pharmaceuticalsorpor,Healthcare,Biotechnology,536.0,-1.2,34.5,0.0,135895171072,568.67,406.67,79.8,Buy,0.28,13.0,30.7,6.5,30.99,20.8,-39.0
+VTRS,Viatris,Healthcare,Drug Manufacturers - Specialty & Generic,19.15,0.95,7.1,253.0,21995513856,19.96,9.92,91.9,Buy,0.87,14.7,-4.1,1.61,97.29,-4.21,-0.3
+VICI,VICI Properties,Real Estate,REIT - Diversified,24.72,-1.9,11.4,730.0,27218835456,30.83,22.425,27.3,Buy,0.65,4.2,56.5,0.94,60.55,8.28,-56.3
+VMC,Vulcan Materials Company (Holdi,Basic Materials,Building Materials,282.5,-1.01,33.4,73.0,36257300480,331.09,237.03,48.3,Buy,0.99,8.0,13.8,4.31,63.13,12.88,-0.7
+WRB,W.R. Berkleyoration,Financial Services,Insurance - Property & Casualty,75.18,-2.34,15.9,52.0,27930556416,79.26,62.87,75.1,Hold,0.22,14.9,12.5,3.04,32.22,19.26,-10.9
+GWW,"W.W. Grainger,",Industrials,Industrial Distribution,1442.04,-0.64,31.7,69.0,67507875840,1521.41,906.52,87.1,Hold,0.95,19.4,11.2,15.58,64.75,52.33,102.9
+WAB,Westinghouse Air Brake Technolo,Industrials,Railroads,281.17,0.98,34.9,45.0,47180996608,306.64,194.93,77.2,Buy,0.93,12.2,11.2,4.17,59.61,12.24,33.7
 WBA,WBA,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-WMT,Walmart,Consumer Defensive,Discount Stores,131.46,1.77,47.6,77.0,1046129278976,135.16,98.88,89.8,Buy,0.53,735.8,3.0,10.63,71.65,22.31,-9.1
-DIS,Walt Disney Company (The),Communication Services,Entertainment,119.42,0.39,24.6,126.0,206192312320,120.78,92.19,95.2,Buy,1.43,98.9,8.7,1.88,39.4,8.01,-48.3
+WMT,Walmart,Consumer Defensive,Discount Stores,124.91,-2.2,45.3,78.0,994043691008,135.16,98.88,71.7,Buy,0.53,735.8,3.0,10.1,71.65,22.31,-9.1
+DIS,Walt Disney Company (The),Communication Services,Entertainment,115.88,-1.14,23.9,128.0,200088469504,120.8,92.19,82.8,Buy,1.43,98.9,8.7,1.82,39.4,8.01,-48.3
 WBD,"Warner Bros. Discovery, - ",Communication Services,Entertainment,30.95,0.0,,0.0,77595885568,30.99,17.995,99.7,Hold,1.54,36.1,-8.8,2.36,94.2,-8.79,-90.6
-WM,"Waste Management,",Industrials,Waste Management,245.34,2.87,32.2,159.0,97555750912,248.13,197.47,94.5,Buy,0.39,26.1,11.8,9.89,237.25,31.68,37.6
-WAT,Watersoration,Healthcare,Diagnostics & Research,461.99,-1.2,193.3,0.0,45360881664,482.28,282.77,89.8,Buy,1.15,5.6,1.8,2.97,33.57,1.12,-67.2
-WEC,"WEC Energy Group,",Utilities,Utilities - Regulated Electric,119.62,1.28,21.7,323.0,39354060800,120.15,99.8,97.4,Buy,0.42,10.3,17.5,2.7,154.39,12.49,42.2
-WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,87.52,0.1,12.3,229.0,262721929216,97.76,72.78,59.0,Buy,0.92,83.1,27.6,1.66,,12.91,12.7
-WELL,Welltower,Real Estate,REIT - Healthcare Facilities,248.47,0.2,105.3,137.0,182283714560,255.2,181.47,90.9,Buy,0.79,13.8,12.1,3.74,42.49,3.92,30.3
-WST,"West Pharmaceutical Services, I",Healthcare,Medical Instruments & Supplies,406.08,-0.66,45.6,25.0,28287954944,438.27,223.83,85.0,Buy,1.14,3.4,18.8,9.55,10.57,21.23,57.3
-WDC,Western Digitaloration,Technology,Computer Hardware,279.66,-13.64,9.8,22.0,104683241472,799.87,132.43,22.1,Buy,2.34,14.5,69.2,11.19,9.86,129.6,50.9
+WM,"Waste Management,",Industrials,Waste Management,235.06,-2.57,30.8,157.0,93468057600,248.13,197.47,74.2,Buy,0.39,26.1,11.8,9.47,237.25,31.68,37.6
+WAT,Watersoration,Healthcare,Diagnostics & Research,459.77,1.47,192.4,0.0,45142908928,482.28,282.77,88.7,Buy,1.15,5.6,1.8,2.95,33.57,1.12,-67.2
+WEC,"WEC Energy Group,",Utilities,Utilities - Regulated Electric,116.08,-1.91,21.1,322.0,38187782144,120.15,99.8,80.0,Buy,0.42,10.3,17.5,2.62,154.39,12.49,42.2
+WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,84.68,0.47,11.9,236.0,254196695040,97.76,72.78,47.6,Buy,0.92,83.1,27.6,1.6,,12.91,12.7
+WELL,Welltower,Real Estate,REIT - Healthcare Facilities,244.38,-0.4,103.6,139.0,179279577088,255.2,181.47,85.3,Buy,0.79,13.8,12.1,3.68,42.49,3.92,30.3
+WST,"West Pharmaceutical Services, I",Healthcare,Medical Instruments & Supplies,396.48,1.1,44.5,27.0,27619209216,438.27,223.83,80.5,Buy,1.14,3.4,18.8,9.32,10.57,21.23,57.3
+WDC,Western Digitaloration,Technology,Computer Hardware,280.35,4.75,9.8,26.0,104786182144,799.87,132.43,22.2,Buy,2.34,14.5,69.2,11.2,9.86,129.6,50.9
 WRK,WRK,Other,,0.0,0.0,,0.0,0,,,,N/A,,,0.0,,,,0.0
-WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,21.89,0.62,34.7,386.0,15764728832,27.75,18.26,38.2,Buy,0.95,7.0,6.5,1.68,57.31,4.81,-27.3
-WHR,Whirlpooloration,Consumer Cyclical,"Furnishings, Fixtures & Appliances",31.44,-3.71,31.5,0.0,2066762240,94.82,25.5,8.6,Hold,1.19,14.6,-0.8,0.56,207.73,-3.81,-8.8
-WMB,"Williams Companies, (The)",Energy,Oil & Gas Midstream,67.83,-0.04,26.7,309.0,84801241088,80.08,57.5,45.7,Buy,0.63,12.7,24.7,5.41,157.88,18.31,5.9
-WTW,Willis Towers Watson Public Lim,Financial Services,Insurance Brokers,344.44,2.1,21.2,114.0,31762958336,351.51,240.61,93.6,Buy,0.43,10.3,15.2,4.1,90.54,20.18,4.4
-WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,79.97,-2.93,19.2,121.0,8234822144,134.72,70.79,14.4,Buy,0.94,7.4,6.1,,,,106.1
-XEL,Xcel Energy,Utilities,Utilities - Regulated Electric,81.35,1.06,19.0,294.0,52217188352,84.23,68.72,81.4,Buy,0.34,14.9,17.9,2.03,167.65,11.44,72.7
-XYL,Xylem,Industrials,Specialty Industrial Machinery,101.75,0.7,22.6,170.0,23335940096,152.44,87.4,22.1,Buy,0.99,9.1,11.9,2.28,28.79,9.76,34.4
-YUM,"Yum! Brands,",Consumer Cyclical,Restaurants,168.38,1.24,13.6,180.0,45294223360,170.14,134.26,95.1,Buy,0.53,8.8,39.1,,,,319.9
-ZBRA,Zebra Technologiesoration,Technology,Communication Equipment,325.42,-2.11,26.3,0.0,15323200512,392.78,199.05,65.2,Buy,1.63,6.1,9.8,4.3,77.8,16.46,74.1
-ZBH,"Zimmer Biomet Holdings,",Healthcare,Medical Devices,109.56,-0.54,27.7,87.0,20897220608,112.55,79.12,91.1,Buy,0.47,8.5,9.5,1.69,60.17,6.41,33.8
-ZTS,Zoetis,Healthcare,Drug Manufacturers - Specialty & Generic,85.47,-4.18,14.1,238.0,35318222848,132.49,68.77,26.2,Hold,0.68,9.5,27.7,11.24,294.0,64.91,1.2
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,21.0,-2.87,33.3,388.0,15127224320,27.75,18.26,28.9,Buy,0.95,7.0,6.5,1.61,57.31,4.81,-27.3
+WHR,Whirlpooloration,Consumer Cyclical,"Furnishings, Fixtures & Appliances",30.7,-2.6,30.8,0.0,2018117120,94.82,25.5,7.5,Hold,1.19,14.6,-0.8,0.54,207.73,-3.81,-8.8
+WMB,"Williams Companies, (The)",Energy,Oil & Gas Midstream,65.47,1.97,25.8,327.0,81857003520,80.08,57.8,34.4,Buy,0.63,12.7,24.7,5.22,157.88,18.31,5.9
+WTW,Willis Towers Watson Public Lim,Financial Services,Insurance Brokers,329.42,-2.11,20.2,114.0,30377871360,351.51,240.61,80.1,Buy,0.43,10.3,15.2,3.92,90.54,20.18,4.4
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,82.09,3.49,19.7,126.0,8453126144,134.72,70.79,17.7,Buy,,7.3,5.2,,,,-80.0
+XEL,Xcel Energy,Utilities,Utilities - Regulated Electric,79.42,-1.19,18.5,295.0,50974457856,84.23,68.72,69.0,Buy,0.34,14.9,17.9,1.98,167.65,11.44,72.7
+XYL,Xylem,Industrials,Specialty Industrial Machinery,98.12,-1.89,21.8,172.0,22503456768,152.16,87.4,16.6,Buy,0.99,9.1,11.9,2.2,28.79,9.76,34.4
+YUM,"Yum! Brands,",Consumer Cyclical,Restaurants,163.22,-1.73,13.1,181.0,43906179072,170.14,134.26,80.7,Buy,0.53,8.8,39.1,,,,319.9
+ZBRA,Zebra Technologiesoration,Technology,Communication Equipment,328.83,2.24,26.6,0.0,15483767808,392.78,199.05,67.0,Buy,1.63,6.1,9.8,4.35,77.8,16.46,74.1
+ZBH,"Zimmer Biomet Holdings,",Healthcare,Medical Devices,104.81,-1.95,26.5,90.0,19835699200,112.55,79.12,76.8,Buy,0.47,8.6,9.0,1.57,60.17,6.03,-13.8
+ZTS,Zoetis,Healthcare,Drug Manufacturers - Specialty & Generic,79.87,-2.73,13.6,258.0,33004171264,132.49,68.77,17.4,Hold,,9.5,26.3,9.85,279.65,57.63,-11.8
